@@ -1,0 +1,13 @@
+- \(1) Argument mapping is useful.
+    - Inference E
+        - \(5) Unstated Subconclusion: Argument mapping helps us to understand arguments.
+            - Inference B
+                - \(3) To understand an argument, we need to understand the claims and connections that compose it.
+                    - Inference A
+                        - \(2) Arguments are composed of claims and connections. (Stopping Point)
+                - \(4) Argument mapping helps us to understand the claims and connections that compose an argument. (Stopping Point)
+        - \(6) It's useful to understand arguments.
+            - Inference C
+                - \(7) Understanding arguments helps us to understand people who disagree with us. (Stopping Point)
+            - Inference D
+                - \(8) Understanding arguments helps us to decide if we should change our minds. (Stopping Point)

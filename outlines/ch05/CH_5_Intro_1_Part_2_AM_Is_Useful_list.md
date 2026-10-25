@@ -1,0 +1,6 @@
+- \(blank claim)
+    - Inference B
+        - \(3) To understand an argument, we need to understand the claims and connections that compose it.
+            - Inference A
+                - \(2) Arguments are composed of claims and connections. (Stopping Point)
+        - \(4) Argument mapping helps us to understand the claims and connections that compose an argument. (Stopping Point)

@@ -1,0 +1,5 @@
+- \(6) It's useful to understand arguments.
+    - Inference C
+        - \(7) Understanding arguments helps us to understand people who disagree with us. (Stopping Point)
+    - Inference D
+        - \(8) Understanding arguments helps us to decide if we should change our minds. (Stopping Point)

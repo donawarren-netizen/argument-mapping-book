@@ -1,0 +1,6 @@
+# Built output and Quarto's working files: rebuilt from the source, never stored
+/_book/
+/.quarto/
+*_files/
+
+**/*.quarto_ipynb

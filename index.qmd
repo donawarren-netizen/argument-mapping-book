@@ -1,0 +1,5 @@
+# Preface {.unnumbered}
+
+On the web, each argument map is followed by a collapsible text
+description. In the Word version, each map links to a text description,
+written as headings, at the end of its section.

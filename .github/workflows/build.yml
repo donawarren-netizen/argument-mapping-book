@@ -1,0 +1,29 @@
+# Rebuilds the book (web + Word) every time a change is committed.
+# The result can be downloaded from the run's page under "Artifacts".
+# If a build fails, GitHub emails the error; the last good build is unaffected.
+name: Build book
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.10.19
+
+      - name: Render book
+        run: quarto render
+
+      - name: Save the built book
+        uses: actions/upload-artifact@v4
+        with:
+          name: argument-mapping-book
+          path: _book/
+          retention-days: 30

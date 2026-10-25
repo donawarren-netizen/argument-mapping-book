@@ -1,0 +1,163 @@
+# 5.1 Introduction
+
+## What You'll Learn in this Chapter
+
+Welcome to Chapter 5! Now that we've studied arguments with
+subconclusions, dependent reasons and independent reasons, we're able to
+analyze and evaluate almost any argument. In approaching some pieces of
+reasoning, however, we might be faced with an unexpected difficulty: in
+real-life, authors might not explicitly state one or more of their
+subconclusions and sometimes they might not explicitly state their
+ultimate conclusions either. Thus, in this chapter:
+
+You'll learn more about analyzing arguments. In particular, you'll learn
+
+-   how to find missing ultimate conclusions and
+-   how to find missing subconclusions.
+
+You'll learn more about evaluating arguments. In particular, you'll
+learn
+
+-   how to evaluate inferences by supplying missing subconclusions.
+
+You'll learn more about constructing arguments. In particular, you'll
+learn
+
+-   how to leave some conclusions unstated in arguments of your own
+
+## A Word About Missing Conclusions
+
+So far, we've seen how to map arguments, and we've found it useful to
+compare an argument map to a map that shows us how to reach a golden
+boulder.
+
+Sometimes, the maps are very small. There's a golden boulder, a starting
+boulder, and a bridge between them. These are arguments that have an
+ultimate conclusion, a premise, and an inference.
+
+![](/images/ch05/boulders_simple.png){.illustration width=140px fig-alt="A gray starting boulder with a single ladder leading up to a golden boulder."}
+
+Sometimes, intermediate boulders are needed. These are arguments with
+subconclusions.
+
+![](/images/ch05/boulders_subconclusion.png){.illustration width=110px fig-alt="A ladder leads from a starting boulder up to an intermediate boulder, and a second ladder leads from there up to the golden boulder."}
+
+Sometimes, boulders need to work together. These are arguments with
+dependent reasons.
+
+![](/images/ch05/boulders_dependent.png){.illustration width=180px fig-alt="Two gray boulders side by side, joined by a plank bridge. A single ladder rises from the bridge to the golden boulder."}
+
+Sometimes, there are independent paths. These are arguments with
+independent reasons.
+
+![](/images/ch05/boulders_independent.png){.illustration width=160px fig-alt="Two separate gray boulders, each with its own ladder leaning up to the golden boulder."}
+
+And very often, a map is composed of all these relationships.
+
+![](/images/ch05/boulders_combined.png){.illustration width=300px fig-alt="A larger map combining all of these. A ladder rises to the golden boulder from a bridge joining two boulders. The left boulder is reached by a ladder from another bridged pair, one of which is reached by a ladder from a starting boulder below. The right boulder is reached by two independent ladders from two boulders."}
+
+![](/images/ch05/boulders_missing.png){.illustration width=300px fig-alt="The same map with the bridged pair of boulders just below the golden boulder removed. The golden boulder floats out of reach above two separate groups of boulders, and a puzzled stick figure stands on one of the bridges."}
+
+Now imagine what would happen if one of the intermediate boulders, and
+the bridges that link to it, were removed. Anyone who tried to reach the
+golden boulder would be stuck because the intermediate boulders and
+bridges would be out. We'd be faced with three disconnected parts.
+
+Exactly the same thing can happen in an argument when a sub-conclusion
+is unstated!
+
+Consider, for example, the following mapped argument:
+
+> "(1) Argument mapping is useful. This is because (2) arguments are
+> composed of claims and connections so (3) to understand an argument,
+> we need to understand the claims and connections that compose it. (4)
+> Argument mapping helps us to understand the claims and connections
+> that compose an argument which means that (5) argument mapping helps
+> us to understand arguments. (6) It's useful to understand arguments.
+> For one thing, (7) understanding arguments helps us to understand
+> people who disagree with us. For another thing, (8) understanding
+> arguments helps us to decide when we should change our minds."
+
+![The full argument map.](/images/ch05/CH_5_Intro_1_AM_Is_Useful.png){#fig-full width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful. A full text description is provided."}
+
+::: {.map-outline fig="fig-full"}
+{{< include /outlines/ch05/CH_5_Intro_1_AM_Is_Useful_list.md >}}
+:::
+
+This might not be the easiest argument to map, but we're confident that
+you would be able to map it, at least in part because we've stated all
+of the subconclusions.
+
+But suppose the author of this argument doesn't state claim 5, like so:
+
+> "(1) Argument mapping is useful. This is because (2) arguments are
+> composed of claims and connections so (3) to understand an argument,
+> we need to understand the claims and connections that compose it. (4)
+> Argument mapping helps us to understand the claims and connections
+> that compose an argument. (6) It's useful to understand arguments.
+> For one thing, (7) understanding arguments helps us to understand
+> people who disagree with us. For another thing, (8) understanding
+> arguments helps us to decide when we should change our minds."
+
+This would give us an argument map with three disconnected parts.
+
+![Part 1 of the disconnected map.](/images/ch05/CH_5_Intro_1_Part_1_AM_Is_Useful.png){#fig-part1 width=45% fig-alt="Argument map consisting of the single claim: (1) Argument mapping is useful. A full text description is provided."}
+
+::: {.map-outline fig="fig-part1"}
+{{< include /outlines/ch05/CH_5_Intro_1_Part_1_AM_Is_Useful_list.md >}}
+:::
+
+![Part 2 of the disconnected map.](/images/ch05/CH_5_Intro_1_Part_2_AM_Is_Useful.png){#fig-part2 width=65% fig-alt="Argument map with a blank conclusion. A full text description is provided."}
+
+::: {.map-outline fig="fig-part2"}
+{{< include /outlines/ch05/CH_5_Intro_1_Part_2_AM_Is_Useful_list.md >}}
+:::
+
+![Part 3 of the disconnected map.](/images/ch05/CH_5_Intro_1_Part_3_AM_Is_Useful.png){#fig-part3 width=60% fig-alt="Argument map concluding: (6) It's useful to understand arguments. A full text description is provided."}
+
+::: {.map-outline fig="fig-part3"}
+{{< include /outlines/ch05/CH_5_Intro_1_Part_3_AM_Is_Useful_list.md >}}
+:::
+
+Without claim 5, it would be hard to see how these argument modules are
+linked to each other because the natural connections (or bridges)
+between them will be out.
+
+There are two ways to solve this problem.
+
+First, we could treat claims 3, 4, and 6 as a set of three dependent
+reasons, like so:
+
+![Claims 3, 4, and 6 treated as three dependent reasons.](/images/ch05/CH_5_Intro_1_3_DR_AM_Is_Useful.png){#fig-three-dr width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful, with claims 3, 4, and 6 as three dependent reasons. A full text description is provided."}
+
+::: {.map-outline fig="fig-three-dr"}
+{{< include /outlines/ch05/CH_5_Intro_1_3_DR_AM_Is_Useful_list.md >}}
+:::
+
+*However*, as we saw in Chapter 2, we naturally combine claims *two at a
+time*. (Remember that math problem, 7 + 4 + 3 + 5 = 19? You almost
+certainly added these numbers together two at a time.) Consequently,
+seeing that claims 3, 4, and 6 should be combined in this way requires
+us to do something that we do not naturally do.
+
+In other words, this first way to solve our problem is hard.
+
+Second (and this is usually the *much* better option), we can *supply
+that missing conclusion ourselves and rebuild the bridges!*
+
+![The map with the missing subconclusion, claim 5, supplied.](/images/ch05/CH_5_Intro_1_Unstated_S_AM_Is_Useful.png){#fig-supplied width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful, with the unstated subconclusion (5) supplied. A full text description is provided."}
+
+::: {.map-outline fig="fig-supplied"}
+{{< include /outlines/ch05/CH_5_Intro_1_Unstated_S_AM_Is_Useful_list.md >}}
+:::
+
+We've actually been training for this since Chapter 3, where we noted
+that we should fill in the claim that follows from two dependent reasons
+as soon as we have decided that two claims [are]{.underline} dependent
+reasons.
+
+If we follow this advice, we'll naturally supply missing conclusions as
+we go along, whether the missing conclusion is a subconclusion (as
+above) or the ultimate conclusion itself!
+
+Let's see how this works by walking through some examples!

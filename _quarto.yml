@@ -1,0 +1,40 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Argument Mapping"
+  author: "Dona Warren"
+  search: true
+  chapters:
+    - index.qmd
+    - part: "Chapter 5: Missing Conclusions"
+      chapters:
+        - chapters/ch05/05-01-introduction.qmd
+
+lang: en
+
+# Sections are numbered by hand in their titles (if at all), and figures
+# are numbered within each section page: Figure 1, 2, 3 ...
+number-sections: false
+crossref:
+  chapters: false
+
+filters:
+  - path: filters/map-outline.lua
+    at: pre-quarto
+  - path: filters/docx-alt-text.lua
+    at: post-quarto
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    lightbox: true
+    fig-align: center
+  docx:
+    toc: true
+    toc-depth: 2
+    fig-align: center
