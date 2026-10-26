@@ -17,6 +17,7 @@ Licensed under CC BY-NC-SA 4.0 — see [LICENSE.md](LICENSE.md).
 | `outlines/ch05/` | The converter's `_list.md` outlines, one per map |
 | `filters/` | Build helpers: collapsible text descriptions, Word appendices, Word figure numbers and alt text |
 | `styles.css` | Look of the description boxes, phone layout, contrast fix |
+| `tools/MapConverter/` | The converter that turns Because maps (.mup + PDF) into map images and text descriptions; see its README.txt |
 
 ## Editing on GitHub
 

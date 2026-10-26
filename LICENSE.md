@@ -3,7 +3,8 @@
 © 2026 Dona Warren.
 
 The content of this book (text, argument maps, illustrations, and map
-descriptions) is licensed under the
+descriptions) and the Argument Map Converter in `tools/MapConverter/` are
+licensed under the
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
 License (CC BY-NC-SA 4.0)**.
 

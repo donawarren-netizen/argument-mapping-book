@@ -1,7 +1,8 @@
 # Notes for converting sections into this book
 
-Owner: Dona (philosophy professor). She uploads one textbook section at a time:
-a Word document, the map images, and the .mup converter's outputs.
+Owner: Dona (philosophy professor). She uploads one textbook section at a time,
+all at once: the section's Word document, its .mup files and their PDFs (same
+base name), and any other images (e.g. flattened illustrations).
 
 ## Structure
 - One Quarto book. Each chapter is a `part:` in `_quarto.yml`; each section is its
@@ -22,6 +23,17 @@ a Word document, the map images, and the .mup converter's outputs.
   Quarto's Word figures with its own captions and fixes `@fig-...` link text.
 
 ## Converting a section
+- Convert the maps with the converter in `tools/MapConverter/` (the current
+  version always lives here; Dona no longer uploads it):
+  `pip install pypdfium2 pillow --break-system-packages`, then
+  `python3 tools/MapConverter/convert_maps.py <folder of .mup+.pdf> <out>`.
+  (`npm install docx` only if Dona wants the Word description files too.)
+  Copy `<name>.png` to `images/chNN/` and `<name>_list.md` to `outlines/chNN/`.
+  The other outputs aren't used in the book; send them to Dona if she asks.
+- Use the display width from the converter's `_quarto.md` (`width=NNNpx`) as the
+  figure width, so map text is the same size across maps; take a starting point
+  for `fig-alt` from it too, changing "Text description follows." to
+  "A full text description is provided."
 - Convert the .docx with pandoc to Markdown, then clean up: drop Word style
   classes on headings, move figures out of block quotes, remove Word image sizes.
 - Illustrations built from stacked image fragments in Word: use the flattened
