@@ -78,9 +78,9 @@ Consider, for example, the following mapped argument:
 > people who disagree with us. For another thing, (8) understanding
 > arguments helps us to decide when we should change our minds."
 
-![The full argument map.](/images/ch05/CH_5_Intro_1_AM_Is_Useful.png){#fig-full width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful. A full text description is provided."}
+![The full argument map.](/images/ch05/CH_5_Intro_1_AM_Is_Useful.png){#fig-5-1-full width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful. A full text description is provided."}
 
-::: {.map-outline fig="fig-full"}
+::: {.map-outline fig="fig-5-1-full"}
 {{< include /outlines/ch05/CH_5_Intro_1_AM_Is_Useful_list.md >}}
 :::
 
@@ -101,21 +101,21 @@ But suppose the author of this argument doesn't state claim 5, like so:
 
 This would give us an argument map with three disconnected parts.
 
-![Part 1 of the disconnected map.](/images/ch05/CH_5_Intro_1_Part_1_AM_Is_Useful.png){#fig-part1 width=45% fig-alt="Argument map consisting of the single claim: (1) Argument mapping is useful. A full text description is provided."}
+![Part 1 of the disconnected map.](/images/ch05/CH_5_Intro_1_Part_1_AM_Is_Useful.png){#fig-5-1-part1 width=45% fig-alt="Argument map consisting of the single claim: (1) Argument mapping is useful. A full text description is provided."}
 
-::: {.map-outline fig="fig-part1"}
+::: {.map-outline fig="fig-5-1-part1"}
 {{< include /outlines/ch05/CH_5_Intro_1_Part_1_AM_Is_Useful_list.md >}}
 :::
 
-![Part 2 of the disconnected map.](/images/ch05/CH_5_Intro_1_Part_2_AM_Is_Useful.png){#fig-part2 width=65% fig-alt="Argument map with a blank conclusion. A full text description is provided."}
+![Part 2 of the disconnected map.](/images/ch05/CH_5_Intro_1_Part_2_AM_Is_Useful.png){#fig-5-1-part2 width=65% fig-alt="Argument map with a blank conclusion. A full text description is provided."}
 
-::: {.map-outline fig="fig-part2"}
+::: {.map-outline fig="fig-5-1-part2"}
 {{< include /outlines/ch05/CH_5_Intro_1_Part_2_AM_Is_Useful_list.md >}}
 :::
 
-![Part 3 of the disconnected map.](/images/ch05/CH_5_Intro_1_Part_3_AM_Is_Useful.png){#fig-part3 width=60% fig-alt="Argument map concluding: (6) It's useful to understand arguments. A full text description is provided."}
+![Part 3 of the disconnected map.](/images/ch05/CH_5_Intro_1_Part_3_AM_Is_Useful.png){#fig-5-1-part3 width=60% fig-alt="Argument map concluding: (6) It's useful to understand arguments. A full text description is provided."}
 
-::: {.map-outline fig="fig-part3"}
+::: {.map-outline fig="fig-5-1-part3"}
 {{< include /outlines/ch05/CH_5_Intro_1_Part_3_AM_Is_Useful_list.md >}}
 :::
 
@@ -128,9 +128,9 @@ There are two ways to solve this problem.
 First, we could treat claims 3, 4, and 6 as a set of three dependent
 reasons, like so:
 
-![Claims 3, 4, and 6 treated as three dependent reasons.](/images/ch05/CH_5_Intro_1_3_DR_AM_Is_Useful.png){#fig-three-dr width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful, with claims 3, 4, and 6 as three dependent reasons. A full text description is provided."}
+![Claims 3, 4, and 6 treated as three dependent reasons.](/images/ch05/CH_5_Intro_1_3_DR_AM_Is_Useful.png){#fig-5-1-three-dr width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful, with claims 3, 4, and 6 as three dependent reasons. A full text description is provided."}
 
-::: {.map-outline fig="fig-three-dr"}
+::: {.map-outline fig="fig-5-1-three-dr"}
 {{< include /outlines/ch05/CH_5_Intro_1_3_DR_AM_Is_Useful_list.md >}}
 :::
 
@@ -145,9 +145,9 @@ In other words, this first way to solve our problem is hard.
 Second (and this is usually the *much* better option), we can *supply
 that missing conclusion ourselves and rebuild the bridges!*
 
-![The map with the missing subconclusion, claim 5, supplied.](/images/ch05/CH_5_Intro_1_Unstated_S_AM_Is_Useful.png){#fig-supplied width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful, with the unstated subconclusion (5) supplied. A full text description is provided."}
+![The map with the missing subconclusion, claim 5, supplied.](/images/ch05/CH_5_Intro_1_Unstated_S_AM_Is_Useful.png){#fig-5-1-supplied width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful, with the unstated subconclusion (5) supplied. A full text description is provided."}
 
-::: {.map-outline fig="fig-supplied"}
+::: {.map-outline fig="fig-5-1-supplied"}
 {{< include /outlines/ch05/CH_5_Intro_1_Unstated_S_AM_Is_Useful_list.md >}}
 :::
 

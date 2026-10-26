@@ -1,26 +1,34 @@
 --[[
 map-outline.lua — one outline file, two outputs.
 
-Usage in a chapter:
+Usage in a section file:
 
-  ::: {.map-outline fig="fig-amuseful"}
-  {{< include outlines/ch05/Some_Map_list.md >}}
+  ::: {.map-outline fig="fig-5-1-full"}
+  {{< include /outlines/ch05/Some_Map_list.md >}}
   :::
 
 Web (HTML): the nested list is placed in a collapsible <details> box
 right under the figure.
 
 Word (docx): the box is replaced by a link, and the outline is turned
-into headings (one per list item) in a "Text descriptions" section at
-the end of the chapter, with a link back to the figure.
+into headings (one per list item) in an "Appendix to Chapter N" placed
+after the chapter's last section. Each map there is labelled in bold
+("Section 5.1, Figure 3"), with a link back to the figure, and its top
+claim is Heading 2 — leaving Heading 2–9 (8 levels) for the map.
+
+Chapters and sections are recognised from section titles that start
+with their number: "# 5.1 Introduction".
 
 Optional attributes:
   label="..."   custom wording for the collapsible box's summary line
-  base-level=3  heading level for the map's top claim in Word (default 3)
 ]]
 
 local MAX_WORD_LEVEL = 9
+local BASE_LEVEL = 2        -- map's top claim in the Word appendix
 local pending = {}          -- appendix blocks waiting for end of chapter
+local pending_chapter = nil -- chapter number the pending blocks belong to
+local current_chapter = nil
+local current_section = nil
 local counter = 0
 
 local function is_docx()
@@ -55,34 +63,39 @@ local function list_to_headings(list, level, out, map_id)
 end
 
 local function handle_div(div)
-  if not div.classes:includes("map-outline") then return nil end
-
   local fig = div.attributes["fig"]
   counter = counter + 1
   local desc_id = "desc-" .. (fig or ("map" .. counter))
 
   if is_docx() then
-    local base = tonumber(div.attributes["base-level"] or "3")
-    -- Appendix entry: bookmark + link back to the figure, then headings.
-    local intro = pandoc.Inlines({ pandoc.Str("Text description of ") })
+    -- Appendix entry: bold label (a bookmark) linking back to the figure.
+    local label = pandoc.Inlines({})
+    if current_section then
+      label:insert(pandoc.Str("Section " .. current_section .. ","))
+      label:insert(pandoc.Space())
+    end
     if fig then
-      intro:insert(pandoc.Cite({ pandoc.Str("@" .. fig) },
+      label:insert(pandoc.Cite({ pandoc.Str("@" .. fig) },
         { pandoc.Citation(fig, "NormalCitation") }))
     else
-      intro:insert(pandoc.Str("argument map"))
+      label:insert(pandoc.Str("Argument map"))
     end
     table.insert(pending, pandoc.Para({
-      pandoc.Strong({ pandoc.Span(intro, pandoc.Attr(desc_id)) })
+      pandoc.Strong({ pandoc.Span(label, pandoc.Attr(desc_id)) })
     }))
     for _, blk in ipairs(div.content) do
       if blk.t == "BulletList" or blk.t == "OrderedList" then
-        list_to_headings(blk, base, pending, fig or desc_id)
+        list_to_headings(blk, BASE_LEVEL, pending, fig or desc_id)
       end
     end
-    -- In the chapter body: a pointer to the description.
+    pending_chapter = current_chapter
+    -- In the section text: a pointer to the description.
+    local where = current_chapter
+      and ("appendix to Chapter " .. current_chapter)
+      or "appendix"
     return pandoc.Para({
-      pandoc.Str("A text description of this map is at the "),
-      pandoc.Link("end of this section", "#" .. desc_id),
+      pandoc.Str("A text description of this map is in the "),
+      pandoc.Link(where, "#" .. desc_id),
       pandoc.Str(".")
     })
   end
@@ -102,38 +115,44 @@ local function handle_div(div)
   return div.content
 end
 
-local function appendix_section()
+local function appendix()
+  local title = pending_chapter
+    and ("Appendix to Chapter " .. pending_chapter .. ": Text descriptions of argument maps")
+    or "Appendix: Text descriptions of argument maps"
   local out = pandoc.Blocks({
-    pandoc.Header(2, "Text descriptions of this section’s argument maps",
-      pandoc.Attr("", {"unnumbered", "unlisted"}))
+    pandoc.Header(1, title, pandoc.Attr("", {"unnumbered", "unlisted"}))
   })
   out:extend(pending)
   pending = {}
+  pending_chapter = nil
   return out
 end
 
--- Walk the whole document; flush the Word appendix before each new
--- chapter (level-1 heading) and at the very end.
+-- Walk the whole document. Section titles ("# 5.1 ...") set the current
+-- chapter and section; the Word appendix is flushed when the chapter
+-- number changes and at the very end.
 function Pandoc(doc)
   local result = pandoc.Blocks({})
-  local function walk_blocks(blocks)
-    for _, blk in ipairs(blocks) do
-      if is_docx() and blk.t == "Header" and blk.level == 1 and #pending > 0 then
-        result:extend(appendix_section())
+  for _, blk in ipairs(doc.blocks) do
+    if blk.t == "Header" and blk.level == 1 then
+      local text = pandoc.utils.stringify(blk.content)
+      local ch, sec = text:match("^(%d+)%.(%d+)")
+      local new_chapter = ch
+      if is_docx() and #pending > 0 and new_chapter ~= pending_chapter then
+        result:extend(appendix())
       end
-      if blk.t == "Div" and blk.classes:includes("map-outline") then
-        local r = handle_div(blk)
-        if r then
-          if r.t then result:insert(r) else result:extend(r) end
-        end
-      else
-        result:insert(blk)
-      end
+      current_chapter = ch
+      current_section = ch and (ch .. "." .. sec) or nil
+    end
+    if blk.t == "Div" and blk.classes:includes("map-outline") then
+      local r = handle_div(blk)
+      if r.t then result:insert(r) else result:extend(r) end
+    else
+      result:insert(blk)
     end
   end
-  walk_blocks(doc.blocks)
   if is_docx() and #pending > 0 then
-    result:extend(appendix_section())
+    result:extend(appendix())
   end
   doc.blocks = result
   return doc

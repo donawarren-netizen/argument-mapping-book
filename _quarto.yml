@@ -36,5 +36,5 @@ format:
     fig-align: center
   docx:
     toc: true
-    toc-depth: 2
+    toc-depth: 1
     fig-align: center

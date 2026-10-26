@@ -13,6 +13,12 @@ a Word document, the map images, and the .mup converter's outputs.
 - `number-sections: false`, `crossref: chapters: false` → figures are
   Figure 1, 2, 3 per section page. Dona only cross-references within a section.
 - One book-wide Word file (`Argument-Mapping.docx`) is the student download.
+- Word: map descriptions go in one "Appendix to Chapter N" after each chapter's
+  last section (map-outline.lua finds chapters from the `# N.S` titles). Each map
+  is labelled in bold ("Section 5.1, Figure 3"); its top claim is Heading 2, so
+  maps get Heading 2–9. Word contents list shows Heading 1 only.
+- Word numbers figures straight through the book (Quarto limitation); the web
+  numbers them per section page. `@fig-...` references are right in both.
 
 ## Converting a section
 - Convert the .docx with pandoc to Markdown, then clean up: drop Word style
@@ -22,12 +28,14 @@ a Word document, the map images, and the .mup converter's outputs.
 - Argument maps: figure with caption + `#fig-` id + `fig-alt`, then a
   `::: {.map-outline fig="..."}` div including the map's `_list.md`.
   Only `_list.md` is used; `_quarto.md` (raw HTML) and `_description.docx` are not.
+- Figure ids MUST start with the section number (`fig-5-1-full`): in Word all
+  sections become one document, so ids must be unique book-wide.
 - Match each map image to its outline by file name.
 - Flag (don't silently fix) wording differences between the text and the maps,
   and anything Claude invented (captions, alt text, titles).
 
 ## Checks before committing
 - `quarto render` with no warnings. map-outline.lua warns if a map needs more
-  than 9 Word heading levels (map root sits at H3) — report it to Dona.
+  than 9 Word heading levels (map root sits at H2) — report it to Dona.
 - axe-core WCAG 2.x A/AA on the rendered pages, light and dark: 0 violations.
 - Look at the page at phone width (no sideways scrolling) and the Word file.

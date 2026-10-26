@@ -28,12 +28,17 @@ website files and `Argument-Mapping.docx`.
 2. In the section file, add:
 
 ```markdown
-![Caption for the map.](/images/ch05/Map_name.png){#fig-short-name width=100% fig-alt="Argument map concluding: (1) .... A full text description is provided."}
+![Caption for the map.](/images/ch05/Map_name.png){#fig-5-1-short-name width=100% fig-alt="Argument map concluding: (1) .... A full text description is provided."}
 
-::: {.map-outline fig="fig-short-name"}
+::: {.map-outline fig="fig-5-1-short-name"}
 {{< include /outlines/ch05/Map_name_list.md >}}
 :::
 ```
 
-Refer to it in the text as `@fig-short-name`; it becomes "Figure 3" etc.
-Figures are numbered within each section page.
+Start every figure id with its section number (`fig-5-1-...`), so ids never
+repeat across the book. Refer to it in the text as `@fig-5-1-short-name`; it
+becomes "Figure 3" etc. On the web, figures are numbered within each section
+page; in Word they're numbered straight through the book.
+
+In Word, each map's text description goes in an appendix at the end of its
+chapter, automatically.
