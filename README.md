@@ -3,6 +3,8 @@
 Source for the Argument Mapping textbook, built with [Quarto](https://quarto.org)
 into a website and a single Word file.
 
+Licensed under CC BY-NC-SA 4.0 — see [LICENSE.md](LICENSE.md).
+
 ## Where things are
 
 | Path | What it is |

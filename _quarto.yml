@@ -5,6 +5,8 @@ project:
 book:
   title: "Argument Mapping"
   author: "Dona Warren"
+  page-footer:
+    center: "© 2026 Dona Warren · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   search: true
   chapters:
     - index.qmd
@@ -13,6 +15,7 @@ book:
         - chapters/ch05/05-01-introduction.qmd
 
 lang: en
+license: "CC BY-NC-SA"
 
 # Sections are numbered by hand in their titles (if at all), and figures
 # are numbered within each section page: Figure 1, 2, 3 ...
