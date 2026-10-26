@@ -59,7 +59,7 @@ And very often, a map is composed of all these relationships.
 Now imagine what would happen if one of the intermediate boulders, and
 the bridges that link to it, were removed. Anyone who tried to reach the
 golden boulder would be stuck because the intermediate boulders and
-bridges would be out. We'd be faced with three disconnected parts
+bridges would be out. We'd be faced with three disconnected parts.
 
 ![](/images/ch05/boulders_missing.png){.illustration width=300px fig-alt="The same map with the bridged pair of boulders just below the golden boulder removed. The golden boulder floats out of reach above two separate groups of boulders, and a puzzled stick figure stands on one of the bridges."}
 
