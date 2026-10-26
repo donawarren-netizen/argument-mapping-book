@@ -11,7 +11,7 @@ into a website and a single Word file.
 | `chapters/ch05/05-01-introduction.qmd` | One file per section (text + figures) |
 | `images/ch05/` | Map images and illustrations for Chapter 5 |
 | `outlines/ch05/` | The converter's `_list.md` outlines, one per map |
-| `filters/` | Build helpers: collapsible text descriptions, Word alt text |
+| `filters/` | Build helpers: collapsible text descriptions, Word appendices, Word figure numbers and alt text |
 | `styles.css` | Look of the description boxes, phone layout, contrast fix |
 
 ## Editing on GitHub
@@ -37,8 +37,8 @@ website files and `Argument-Mapping.docx`.
 
 Start every figure id with its section number (`fig-5-1-...`), so ids never
 repeat across the book. Refer to it in the text as `@fig-5-1-short-name`; it
-becomes "Figure 3" etc. On the web, figures are numbered within each section
-page; in Word they're numbered straight through the book.
+becomes "Figure 3" etc. Figures are numbered within each section, on the web
+and in Word.
 
 In Word, each map's text description goes in an appendix at the end of its
 chapter, automatically.

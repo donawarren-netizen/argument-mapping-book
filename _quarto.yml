@@ -23,6 +23,8 @@ crossref:
 filters:
   - path: filters/map-outline.lua
     at: pre-quarto
+  - path: filters/docx-figure-numbers.lua
+    at: post-quarto
   - path: filters/docx-alt-text.lua
     at: post-quarto
 

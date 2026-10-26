@@ -17,8 +17,9 @@ a Word document, the map images, and the .mup converter's outputs.
   last section (map-outline.lua finds chapters from the `# N.S` titles). Each map
   is labelled in bold ("Section 5.1, Figure 3"); its top claim is Heading 2, so
   maps get Heading 2–9. Word contents list shows Heading 1 only.
-- Word numbers figures straight through the book (Quarto limitation); the web
-  numbers them per section page. `@fig-...` references are right in both.
+- Word figure numbers restart at each section, matching the web: Quarto would
+  number straight through the book, so filters/docx-figure-numbers.lua replaces
+  Quarto's Word figures with its own captions and fixes `@fig-...` link text.
 
 ## Converting a section
 - Convert the .docx with pandoc to Markdown, then clean up: drop Word style
