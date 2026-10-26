@@ -3,6 +3,8 @@
 Source for the Argument Mapping textbook, built with [Quarto](https://quarto.org)
 into a website and a single Word file.
 
+**Read it:** https://donawarren-netizen.github.io/argument-mapping-book/
+
 Licensed under CC BY-NC-SA 4.0 — see [LICENSE.md](LICENSE.md).
 
 ## Where things are
@@ -19,9 +21,8 @@ Licensed under CC BY-NC-SA 4.0 — see [LICENSE.md](LICENSE.md).
 ## Editing on GitHub
 
 Open a section file, click the pencil icon, edit, and click **Commit changes**.
-The book rebuilds automatically (see the **Actions** tab). To get the built
-book, open the latest run and download it under **Artifacts**: it contains the
-website files and `Argument-Mapping.docx`.
+The book rebuilds and republishes automatically within a few minutes (see the
+**Actions** tab). The Word version can be downloaded from the website's sidebar.
 
 ## Adding an argument map to a section
 

@@ -8,6 +8,8 @@ book:
   page-footer:
     center: "© 2026 Dona Warren · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   search: true
+  downloads: [docx]
+  site-url: "https://donawarren-netizen.github.io/argument-mapping-book/"
   chapters:
     - index.qmd
     - part: "Chapter 5: Missing Conclusions"

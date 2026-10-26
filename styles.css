@@ -37,3 +37,12 @@ blockquote, blockquote p,
 .figure-caption, figcaption {
   color: var(--bs-body-color) !important;
 }
+
+/* Sidebar tool icons (e.g. the Word download): WCAG 2.2 minimum 24px target */
+.quarto-navigation-tool {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 24px;
+  min-height: 24px;
+}

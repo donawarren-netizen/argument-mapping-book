@@ -1,12 +1,24 @@
-# Rebuilds the book (web + Word) every time a change is committed.
-# The result can be downloaded from the run's page under "Artifacts".
-# If a build fails, GitHub emails the error; the last good build is unaffected.
-name: Build book
+# Rebuilds the book (web + Word) every time a change is committed, and
+# publishes the website to GitHub Pages:
+#   https://donawarren-netizen.github.io/argument-mapping-book/
+# The built files can also be downloaded from the run's page under "Artifacts".
+# If a build fails, GitHub emails the error; the live site keeps the last good build.
+name: Build and publish book
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never run two publishes at once; a newer commit replaces a waiting one.
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -21,9 +33,25 @@ jobs:
       - name: Render book
         run: quarto render
 
-      - name: Save the built book
+      - name: Save the built book (download from this run's page)
         uses: actions/upload-artifact@v4
         with:
           name: argument-mapping-book
           path: _book/
           retention-days: 30
+
+      - name: Prepare website for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _book/
+
+  publish:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
