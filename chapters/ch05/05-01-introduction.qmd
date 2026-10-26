@@ -76,7 +76,7 @@ Consider, for example, the following mapped argument:
 > us to understand arguments. (6) It's useful to understand arguments.
 > For one thing, (7) understanding arguments helps us to understand
 > people who disagree with us. For another thing, (8) understanding
-> arguments helps us to decide when we should change our minds."
+> arguments helps us to decide if we should change our minds."
 
 ![The full argument map.](/images/ch05/CH_5_Intro_1_AM_Is_Useful.png){#fig-5-1-full width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful. A full text description is provided."}
 
@@ -97,7 +97,7 @@ But suppose the author of this argument doesn't state claim 5, like so:
 > that compose an argument. (6) It's useful to understand arguments.
 > For one thing, (7) understanding arguments helps us to understand
 > people who disagree with us. For another thing, (8) understanding
-> arguments helps us to decide when we should change our minds."
+> arguments helps us to decide if we should change our minds."
 
 This would give us an argument map with three disconnected parts.
 
