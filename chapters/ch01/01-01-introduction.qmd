@@ -244,7 +244,7 @@ bridges are inferences.
 ![](/images/ch01/ladder.png){.illustration width=80px fig-alt="A wooden ladder standing upright."}
 
 Thinking about it this way, we can draw a map of the argument that we've
-been considering. "Sunshine Soda should be included in the school
+been considering. "Sunshine Soda should be included in school
 lunches" is the golden boulder that we're trying to reach. "Sunshine
 Soda is nutritious," is the boulder we're starting from. And the
 inference between them is a bridge connecting the two.
@@ -269,7 +269,7 @@ like boulders; the vertical green connecting line is like a bridge; and
 the map shows us how the argument tries to take us from the claim on the
 bottom to the claim at the top.
 
-### Applying the Four Big Steps of Critical Thinking (and Starting Small)
+## Applying the Four Big Steps of Critical Thinking (and Starting Small)
 
 We're faced with arguments every day because people are often trying to
 get us to believe things. Furthermore, we frequently want to convince
