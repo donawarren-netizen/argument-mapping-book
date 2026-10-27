@@ -47,15 +47,25 @@ blockquote, blockquote p,
   min-height: 24px;
 }
 
-/* Search box outline: the theme's pale border is ~1.3:1 against the page.
-   WCAG 1.4.11 needs 3:1 for a form control's boundary. */
-.aa-Form, #quarto-search .aa-DetachedSearchButton {
-  border-color: #767676 !important;
+/* Search box: Silktide judges the text field itself, not the box around it,
+   so the 3:1 outline (WCAG 1.4.11) goes on the field. #767676 is 4.5:1
+   against the white field and 3.7:1+ against the dark-mode page. */
+.aa-Form {
+  border: none !important;
+  box-shadow: none !important;
+  align-items: center;
+  gap: 4px;
 }
-body.quarto-dark .aa-Form,
-body.quarto-dark #quarto-search .aa-DetachedSearchButton {
-  border-color: #949494 !important;
+.aa-Form .aa-Input {
+  background-color: #ffffff !important;
+  color: #212529 !important;
+  border: 1px solid #767676 !important;
+  border-radius: 4px;
+  padding: 0 6px;
+  min-height: 28px;
 }
+.aa-Form .aa-Input:focus { outline: 2px solid #0d6efd; outline-offset: 1px; }
+#quarto-search .aa-DetachedSearchButton { border-color: #767676 !important; }
 
 /* Dark mode: the theme's breadcrumb and previous/next-page text are too dim
    (4.4:1 and 3.4:1); WCAG AA needs 4.5:1. */

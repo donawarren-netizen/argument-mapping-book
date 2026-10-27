@@ -54,7 +54,9 @@ base name), and any other images (e.g. flattened illustrations).
   Test dark mode by calling `window.quartoToggleColorScheme()` — Quarto ignores
   the browser's prefers-color-scheme, so emulating it still shows light mode.
 - The university checks pages with the Silktide toolbar (WCAG 2.1 AA) and wants
-  a screenshot of a clean result before launch. Silktide also flags search-box
-  border contrast (1.4.11) and duplicate ids (4.1.1), which axe doesn't:
-  styles.css and tools/fix-duplicate-ids.py (post-render) handle those.
+  a screenshot of a clean result before launch. Silktide flags things axe
+  doesn't: the search field's own outline (1.4.11; it ignores the box around
+  the field), and duplicate ids (4.1.1). styles.css and
+  tools/fix-duplicate-ids.py (post-render) handle those; search-label.html
+  renames the search field from Quarto's "Submit" to "Search" for screen readers.
 - Look at the page at phone width (no sideways scrolling) and the Word file.

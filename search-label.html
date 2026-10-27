@@ -1,0 +1,14 @@
+<script>
+// Quarto's search field is labelled "Submit" for screen readers (from its
+// search library). Rename it "Search" once the search box has been built.
+(function () {
+  function fix() {
+    document.querySelectorAll('.aa-Label').forEach(function (l) { l.setAttribute('aria-label', 'Search'); });
+    document.querySelectorAll('.aa-SubmitButton').forEach(function (b) { b.setAttribute('title', 'Search'); });
+    return document.querySelector('.aa-Label') !== null;
+  }
+  if (fix()) return;
+  var obs = new MutationObserver(function () { if (fix()) obs.disconnect(); });
+  obs.observe(document.documentElement, { childList: true, subtree: true });
+})();
+</script>

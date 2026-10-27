@@ -41,6 +41,7 @@ format:
       light: cosmo
       dark: darkly
     css: styles.css
+    include-after-body: search-label.html
     lightbox: true
     fig-align: center
   docx:
