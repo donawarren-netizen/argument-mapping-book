@@ -38,6 +38,13 @@ base name), and any other images (e.g. flattened illustrations).
   classes on headings, move figures out of block quotes, remove Word image sizes.
 - Illustrations built from stacked image fragments in Word: use the flattened
   image files Dona supplies, with `fig-alt` and no caption (`.illustration`, px width).
+- Callouts: Dona marks boxed text in her Word documents with plain-text markers,
+  `[CALLOUT: Title]` ... `[END CALLOUT]`, optionally with a type and/or
+  "collapsed" (`[CALLOUT tip: Title]`, `[CALLOUT, collapsed: Answer]`). Turn each
+  into a Quarto callout (`::: {.callout-TYPE}` + `## Title`; default type note;
+  `collapse="true"` if collapsed). If a document uses Word text boxes instead,
+  convert them too and tell Dona what became of each. The first time callouts
+  appear, check their colors with axe in light and dark mode.
 - Argument maps: figure with caption + `#fig-` id + `fig-alt`, then a
   `::: {.map-outline fig="..."}` div including the map's `_list.md`.
   Only `_list.md` is used; `_quarto.md` (raw HTML) and `_description.docx` are not.
