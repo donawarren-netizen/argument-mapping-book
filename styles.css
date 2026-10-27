@@ -64,3 +64,22 @@ body.quarto-dark .quarto-page-breadcrumbs .breadcrumb-item,
 body.quarto-dark .nav-page-text {
   color: #d4d4d4 !important;
 }
+
+/* Search box's magnifying-glass (submit) button: give it a filled background
+   so the button itself stands out at 3:1+ from the white search field
+   (WCAG 1.4.11; flagged by Silktide). Also a 24px minimum target (WCAG 2.2). */
+.aa-Form .aa-SubmitButton {
+  background-color: #495057 !important;
+  color: #ffffff !important;
+  border-radius: 4px;
+  min-width: 24px;
+  min-height: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 4px;
+}
+.aa-Form .aa-SubmitButton .aa-SubmitIcon {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+}
