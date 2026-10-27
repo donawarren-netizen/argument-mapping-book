@@ -18,6 +18,12 @@ base name), and any other images (e.g. flattened illustrations).
   last section (map-outline.lua finds chapters from the `# N.S` titles). Each map
   is labelled in bold ("Section 5.1, Figure 3"); its top claim is Heading 2, so
   maps get Heading 2–9. Word contents list shows Heading 1 only.
+- Word: each chapter starts on a new page with its title from the `part:` entry
+  (large, centered Heading 1; added by map-outline.lua). Part names must start
+  "Chapter N:" for this to find them.
+- Inserting a chapter or section between existing ones means renumbering
+  everything after it: section titles, part names, figure ids, folder/file
+  names, and any "Chapter N"/"Section N.S" mentions in the text — check with Dona.
 - Word figure numbers restart at each section, matching the web: Quarto would
   number straight through the book, so filters/docx-figure-numbers.lua replaces
   Quarto's Word figures with its own captions and fixes `@fig-...` link text.

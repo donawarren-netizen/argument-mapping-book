@@ -19,6 +19,10 @@ claim is Heading 2 — leaving Heading 2–9 (8 levels) for the map.
 Chapters and sections are recognised from section titles that start
 with their number: "# 5.1 Introduction".
 
+Word also: each chapter starts on a new page with its title (from the
+`part:` entry in _quarto.yml, e.g. "Chapter 1: ..."), as a large,
+centered Heading 1 — Quarto itself leaves part titles out of Word.
+
 Optional attributes:
   label="..."   custom wording for the collapsible box's summary line
 ]]
@@ -128,11 +132,48 @@ local function appendix()
   return out
 end
 
+-- Word only: chapter titles come from the `part:` entries in _quarto.yml
+-- ("Chapter 1: ..."), since Quarto leaves part titles out of Word.
+local function read_part_titles()
+  local titles = {}
+  local dir = (quarto.project and quarto.project.directory) or "."
+  local f = io.open(dir .. "/_quarto.yml", "r")
+  if not f then return titles end
+  for line in f:lines() do
+    local title = line:match('^%s*%-%s*part:%s*"(.-)"%s*$')
+      or line:match("^%s*%-%s*part:%s*'(.-)'%s*$")
+      or line:match("^%s*%-%s*part:%s*(.-)%s*$")
+    if title then
+      local n = title:match("^Chapter%s+(%d+)")
+      if n then titles[n] = title end
+    end
+  end
+  f:close()
+  return titles
+end
+
+local function xml_escape(s)
+  return (s:gsub("&", "&amp;"):gsub("<", "&lt;"):gsub(">", "&gt;"))
+end
+
+-- A chapter title page start: new page, Heading 1 (so it is a real heading
+-- for screen readers and appears in the Word contents list), centered and
+-- larger than the section titles.
+local function chapter_title(title)
+  return pandoc.RawBlock("openxml",
+    '<w:p><w:pPr><w:pStyle w:val="Heading1"/><w:pageBreakBefore/>' ..
+    '<w:spacing w:before="1200" w:after="600"/><w:jc w:val="center"/></w:pPr>' ..
+    '<w:r><w:rPr><w:sz w:val="56"/><w:szCs w:val="56"/></w:rPr>' ..
+    '<w:t xml:space="preserve">' .. xml_escape(title) .. '</w:t></w:r></w:p>')
+end
+
 -- Walk the whole document. Section titles ("# 5.1 ...") set the current
 -- chapter and section; the Word appendix is flushed when the chapter
--- number changes and at the very end.
+-- number changes and at the very end. In Word, each new chapter then
+-- starts on a new page with its chapter title.
 function Pandoc(doc)
   local result = pandoc.Blocks({})
+  local part_titles = is_docx() and read_part_titles() or {}
   for _, blk in ipairs(doc.blocks) do
     if blk.t == "Header" and blk.level == 1 then
       local text = pandoc.utils.stringify(blk.content)
@@ -140,6 +181,9 @@ function Pandoc(doc)
       local new_chapter = ch
       if is_docx() and #pending > 0 and new_chapter ~= pending_chapter then
         result:extend(appendix())
+      end
+      if is_docx() and ch and ch ~= current_chapter then
+        result:insert(chapter_title(part_titles[ch] or ("Chapter " .. ch)))
       end
       current_chapter = ch
       current_section = ch and (ch .. "." .. sec) or nil
