@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: _book
+  # Removes Quarto's duplicate <link> ids (WCAG 4.1.1 checker findings)
+  post-render: tools/fix-duplicate-ids.py
 
 book:
   title: "Argument Mapping"

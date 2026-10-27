@@ -51,4 +51,10 @@ base name), and any other images (e.g. flattened illustrations).
 - `quarto render` with no warnings. map-outline.lua warns if a map needs more
   than 9 Word heading levels (map root sits at H2) — report it to Dona.
 - axe-core WCAG 2.x A/AA on the rendered pages, light and dark: 0 violations.
+  Test dark mode by calling `window.quartoToggleColorScheme()` — Quarto ignores
+  the browser's prefers-color-scheme, so emulating it still shows light mode.
+- The university checks pages with the Silktide toolbar (WCAG 2.1 AA) and wants
+  a screenshot of a clean result before launch. Silktide also flags search-box
+  border contrast (1.4.11) and duplicate ids (4.1.1), which axe doesn't:
+  styles.css and tools/fix-duplicate-ids.py (post-render) handle those.
 - Look at the page at phone width (no sideways scrolling) and the Word file.

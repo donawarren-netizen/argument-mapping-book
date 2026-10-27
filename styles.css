@@ -46,3 +46,21 @@ blockquote, blockquote p,
   min-width: 24px;
   min-height: 24px;
 }
+
+/* Search box outline: the theme's pale border is ~1.3:1 against the page.
+   WCAG 1.4.11 needs 3:1 for a form control's boundary. */
+.aa-Form, #quarto-search .aa-DetachedSearchButton {
+  border-color: #767676 !important;
+}
+body.quarto-dark .aa-Form,
+body.quarto-dark #quarto-search .aa-DetachedSearchButton {
+  border-color: #949494 !important;
+}
+
+/* Dark mode: the theme's breadcrumb and previous/next-page text are too dim
+   (4.4:1 and 3.4:1); WCAG AA needs 4.5:1. */
+body.quarto-dark .quarto-page-breadcrumbs a,
+body.quarto-dark .quarto-page-breadcrumbs .breadcrumb-item,
+body.quarto-dark .nav-page-text {
+  color: #d4d4d4 !important;
+}
