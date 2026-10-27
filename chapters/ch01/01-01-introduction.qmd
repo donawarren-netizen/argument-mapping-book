@@ -68,7 +68,7 @@ eventually you *will* remember it, but if you *just* remember it, you
 may never understand it. Besides, we'll keep track of the important
 points of each example for you by summarizing these points at the end of
 each example. At the end of each chapter, we'll provide you with a
-handbook that summaries the important points of the chapter as a whole.
+handbook that summarizes the important points of the chapter as a whole.
 You can always return to the example summaries and chapter handbooks to
 remind yourself of the concepts and skills you're learning.
 
@@ -133,7 +133,7 @@ just called "the conclusion."
 Other claims in an argument are offered in support of the ultimate
 conclusion, but the ultimate conclusion itself is not offered in support
 of any other claim. The ultimate conclusion is where the argument stops.
-(That's why it's call "ultimate.") Every argument has exactly one
+(That's why it's called "ultimate.") Every argument has exactly one
 ultimate conclusion.
 
 Now, what about the sentence, "Sunshine Soda is nutritious"? That's
@@ -147,8 +147,8 @@ but that the argument assumes to be true without providing evidence for
 them, are called "**premises**." Every argument has at least one premise
 because every argument has to start somewhere.
 
-> "Sunshine Soda is healthy. Therefore Sunshine Soda should be included
-> in school lunches."
+> "Sunshine Soda is nutritious. Therefore Sunshine Soda should be
+> included in school lunches."
 
 -   This passage contains an argument.
 -   "Sunshine Soda should be included in school lunches" is the ultimate
@@ -244,9 +244,9 @@ bridges are inferences.
 ![](/images/ch01/ladder.png){.illustration width=80px fig-alt="A wooden ladder standing upright."}
 
 Thinking about it this way, we can draw a map of the argument that we've
-been considering. "Sunshine soda should be included in the school
+been considering. "Sunshine Soda should be included in the school
 lunches" is the golden boulder that we're trying to reach. "Sunshine
-soda is nutritious," is the boulder we're starting from. And the
+Soda is nutritious," is the boulder we're starting from. And the
 inference between them is a bridge connecting the two.
 
 ![](/images/ch01/boulders_soda_labeled.png){.illustration width=300px fig-alt="A ladder leads from a gray boulder up to a golden boulder. The gray boulder is labeled \"Sunshine Soda is nutritious.\" The ladder is labeled \"Inference.\" The golden boulder is labeled \"Sunshine Soda should be included in school lunches.\""}
