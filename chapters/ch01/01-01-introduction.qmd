@@ -1,0 +1,328 @@
+# 1.1 Introduction
+
+## What You'll Learn in this Chapter (and the Four Big Steps)
+
+Welcome! In this chapter you'll learn many things.
+
+You'll learn about recognizing arguments. In particular, you'll learn
+
+-   what arguments are, and
+-   how to recognize arguments by spotting expressions, like "therefore"
+    and "because."
+
+You'll learn about analyzing arguments. In particular, you'll learn
+
+-   how to identify the important claims in an argument, ignoring
+    questions and commands,
+-   how to recognize one important way that claims can be connected to
+    each other, and
+-   how to map arguments composed of one premise and an ultimate
+    conclusion. (What are premises and ultimate conclusions and what
+    does it mean to "map" an argument? We'll get to that.)
+
+You'll learn about evaluating arguments and communicating your
+evaluation of an argument. In particular, you'll learn
+
+-   how to evaluate premises (We'll see what premises are in a bit.),
+-   how to evaluate inferences (We'll see what inferences are in a bit,
+    too.),
+-   how to evaluate an argument composed of one premise and an ultimate
+    conclusion once you've evaluated the premise and the inference in
+    the argument,
+-   how your evaluation of an argument should affect your belief in the
+    ultimate conclusion, and
+-   how to express your evaluation of an argument.
+
+You'll learn about constructing arguments and communicating arguments.
+In particular, you'll learn
+
+-   how to construct arguments composed of one premise and an ultimate
+    conclusion, and
+-   how to write passages containing arguments composed of one premise
+    and an ultimate conclusion.
+
+We can think of **recognizing**, **analyzing**, **evaluating**, and
+**constructing** arguments as the ***Four Big Steps*** of critical
+thinking. We'll be applying them over and over again to a series of
+passages throughout this textbook.
+
+## How to Read this Text
+
+As you can see, you'll be getting a lot of information here. You'll be
+getting a lot of information in other chapters, too, and it can be easy
+to feel overwhelmed and intimidated. But don't worry! Learning how to
+recognize, analyze, evaluate, and construct arguments is easier than
+learning how to read and write, and you've already done that! Keep an
+open mind and a light heart and this will be fun.
+
+Here are some tips that have helped other people to learn from this
+text:
+
+### 1. Focus on *Understanding*, not *Remembering*, what you Read.
+
+The chapters will introduce concepts and skills by walking you through a
+series of examples. As you read each example in the text, focus on
+***understanding*** what we're saying, but don't worry about
+***remembering*** all of it. Why? Because if you understand it,
+eventually you *will* remember it, but if you *just* remember it, you
+may never understand it. Besides, we'll keep track of the important
+points of each example for you by summarizing these points at the end of
+each example. At the end of each chapter, we'll provide you with a
+handbook that summaries the important points of the chapter as a whole.
+You can always return to the example summaries and chapter handbooks to
+remind yourself of the concepts and skills you're learning.
+
+### 2. Reflect upon the Summaries.
+
+Pay special attention to the summaries provided after each example.
+These summaries review the main points of the examples. If something in
+a summary doesn't make sense, review the example again until things
+start to come into focus.
+
+### 3. End with the Handbook.
+
+As we noted, each of the chapters comes with a handbook that summarizes
+all of the most important concepts and skills in the textbook up to that
+point.
+
+When you've finished a chapter, review the handbook because it
+represents a comprehensive summary of what you've learned so far. And
+it's called a "handbook" for a reason: it's intended to be something
+that you can take with you and use as you encounter and construct
+arguments in a variety of contexts. In a sense, the purpose of this
+textbook is to teach you how to use the (continually evolving) handbook,
+and the purpose of the final handbook is to help you apply what you've
+learned after the course is over. Eventually, of course, you'll
+internalize the handbook and you won't need it anymore, but you can use
+it for as long as you like - for months or for years after you finish
+this book.
+
+If you follow those tips, we're confident that you'll find learning this
+material to be manageable and fun! So let's get to it. We'll start by
+defining some important concepts and terms.
+
+## Arguments: Claims and Connections
+
+In everyday life, the word "**argument**" often refers to a fight. We
+aren't going to use the word that way. Instead, for our purposes, an
+argument will be any attempt to convince someone of something by setting
+out reasons to back it up. Our technical definition will be:
+
+> An argument is a unit of reasoning that attempts to establish that one
+> claim is true by citing other claims as evidence.
+
+Suppose, for example, that someone says the following:
+
+> "Sunshine Soda is nutritious. Therefore Sunshine Soda should be
+> included in school lunches."
+
+This is an argument because it's trying to convince us of something.
+Specifically, this argument is trying to convince us that Sunshine Soda
+should be included in school lunches. The claim that the argument tries
+to establish as true (e.g., "Sunshine Soda should be included in school
+lunches") is called the "**ultimate conclusion**" and sometimes it's
+just called "the conclusion."
+
+> "Sunshine Soda is nutritious. Therefore Sunshine Soda should be
+> included in school lunches."
+
+-   This passage contains an argument.
+-   "Sunshine Soda should be included in school lunches" is the ultimate
+    conclusion.
+
+Other claims in an argument are offered in support of the ultimate
+conclusion, but the ultimate conclusion itself is not offered in support
+of any other claim. The ultimate conclusion is where the argument stops.
+(That's why it's call "ultimate.") Every argument has exactly one
+ultimate conclusion.
+
+Now, what about the sentence, "Sunshine Soda is nutritious"? That's
+being used as evidence to convince us that Sunshine Soda should be
+included in school lunches, but the argument doesn't give us any reason
+to believe it. Instead, the argument simply states that Sunshine Soda is
+nutritious and expects us to accept it.
+
+Claims that the argument uses as evidence for the ultimate conclusion,
+but that the argument assumes to be true without providing evidence for
+them, are called "**premises**." Every argument has at least one premise
+because every argument has to start somewhere.
+
+> "Sunshine Soda is healthy. Therefore Sunshine Soda should be included
+> in school lunches."
+
+-   This passage contains an argument.
+-   "Sunshine Soda should be included in school lunches" is the ultimate
+    conclusion.
+-   "Sunshine Soda is nutritious" is a premise.
+
+Ultimate conclusions and premises are claims in an argument --
+assertions that are either true or false -- and we can usually point at
+claims, or at least state them. But arguments are made up of *more* than
+claims. **Arguments are made up of claims and connections between the
+claims**. (That's important.) And the connections between the claims can
+be the hardest part to see.
+
+In the argument we're considering, the connection between "Sunshine Soda
+is nutritious" and "Sunshine Soda should be included in school lunches,"
+is the connection that says, essentially, *"You should take the fact
+that Sunshine Soda is nutritious as a reason to accept that it should be
+included in school lunches."*
+
+The relationship that says, *"You should take this claim as a reason to
+accept that other claim,"* is called an *inference*. Our technical
+definition will be "an **inference** is the connection that holds
+between a set of claims, call it 'R' for 'reason,' and another claim,
+call it 'C' for 'conclusion,' when the truth of the claims in R is
+supposed to establish the truth of claim C."
+
+In our example argument, the inference was indicated with the word
+"therefore."
+
+> "Sunshine Soda is nutritious. Therefore Sunshine Soda should be
+> included in school lunches."
+
+-   This passage contains an argument.
+-   "Sunshine Soda should be included in school lunches" is the ultimate
+    conclusion.
+-   "Sunshine Soda is nutritious" is a premise.
+-   "Therefore" indicates the inference between the premise and the
+    ultimate conclusion.
+
+Sometimes, though, the inference won't have a special word to represent
+it. If we remove the word "therefore" from our example, for instance,
+the inference will still be there because the connection between the
+premise and ultimate conclusion will still be there.
+
+> "Sunshine Soda is nutritious. Sunshine Soda should be included in
+> school lunches."
+
+-   This passage contains an argument.
+-   "Sunshine Soda should be included in school lunches" is the ultimate
+    conclusion.
+-   "Sunshine Soda is nutritious" is a premise.
+-   The inference is the connection between the premise and the ultimate
+    conclusion.
+
+That's one of the reasons why inferences, and connections between claims
+in general, can be harder to identify than the claims themselves: they
+can be *invisible*. And, of course, that can pose a real problem.
+
+Because arguments are composed of claims and connections, understanding
+an argument involves understanding what 1) claims make up the argument
+and 2) how those claims are connected to each other. *To the extent that
+we don't understand (or even see) the connections, then, we don't
+understand the argument*.
+
+And why is it important to understand an argument? Because an argument
+is trying to *convince* us of something, and we want to make sure that
+we're being convinced when we should be convinced and that we aren't
+being convinced when we shouldn't be convinced.
+
+## Argument Maps to the Rescue!
+
+Fortunately, there's a way to represent arguments that makes the claims
+and the connections between the claims much easier to see and
+understand. It's called "argument mapping."
+
+Because an argument attempts to take us from premises to a conclusion,
+we can think of an argument like a map that tries to show us how to get
+from one point to another.
+
+Let's say that the ultimate conclusion is a golden boulder that we're
+trying to reach. It's our destination.
+
+![](/images/ch01/golden_boulder.png){.illustration width=150px fig-alt="A golden boulder."}
+
+Premises are the places on the map that we start from. They're boulders,
+too.
+
+![](/images/ch01/starting_boulder.png){.illustration width=140px fig-alt="A gray boulder."}
+
+How do we get from one boulder to another? By crossing a bridge! The
+bridges are inferences.
+
+![](/images/ch01/ladder.png){.illustration width=80px fig-alt="A wooden ladder standing upright."}
+
+Thinking about it this way, we can draw a map of the argument that we've
+been considering. "Sunshine soda should be included in the school
+lunches" is the golden boulder that we're trying to reach. "Sunshine
+soda is nutritious," is the boulder we're starting from. And the
+inference between them is a bridge connecting the two.
+
+![](/images/ch01/boulders_soda_labeled.png){.illustration width=300px fig-alt="A ladder leads from a gray boulder up to a golden boulder. The gray boulder is labeled \"Sunshine Soda is nutritious.\" The ladder is labeled \"Inference.\" The golden boulder is labeled \"Sunshine Soda should be included in school lunches.\""}
+
+This map clearly displays (and allows us to distinguish between) the two
+different things that make up arguments: Boulders and Bridges -- or, in
+the terminology we'll be using, Claims and Connections!
+
+We won't usually be drawing boulders and bridges, of course. Instead,
+our maps will look like this:
+
+![The Sunshine Soda argument as an argument map.](/images/ch01/Soda.png){#fig-1-1-soda width=209px fig-alt="Argument map concluding: Sunshine Soda should be included in school lunches. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-1-soda"}
+{{< include /outlines/ch01/Soda_list.md >}}
+:::
+
+The principle, however, is exactly the same. The boxes with claims are
+like boulders; the vertical green connecting line is like a bridge; and
+the map shows us how the argument tries to take us from the claim on the
+bottom to the claim at the top.
+
+### Applying the Four Big Steps of Critical Thinking (and Starting Small)
+
+We're faced with arguments every day because people are often trying to
+get us to believe things. Furthermore, we frequently want to convince
+*other* people that something is true.
+
+Consequently, it would be nice if we could:
+
+1)  recognize *when* someone is trying to convince us of something,
+2)  determine *how* this person is trying to convince us,
+3)  figure out if the person is giving us *good* reasons for the
+    position advanced, and
+4)  *make* a convincing case for our own position
+
+In short, we want to:
+
+1)  *recognize* arguments,
+2)  *analyze* arguments,
+3)  *evaluate* arguments and *communicate* that evaluation to others,
+    and
+4)  *construct* arguments and *communicate* our arguments to others.
+
+As we've seen, these are the Four Big Steps of critical thinking. We'll
+be developing a procedure here, a sequence of steps that we can follow
+in order to understand, evaluate and construct any argument we want, and
+we'll be practicing this procedure a *lot* because procedures are best
+learned through repetition. That way, they become internalized.
+
+Of course, we'll be learning new things as we go along, and so we'll be
+presented with new examples to help us understand and master those new
+concepts and skills. All the examples in a chapter will have a common
+theme (this chapter, for instance, will focus on advertisements) but the
+critical thinking skills that you'll learn by working through these
+examples apply to any content.
+
+Arguments, and the passages containing them, can be *very* complex and
+we'll be seeing some pretty complicated ones later. For now, we'll start
+with short passages. By enabling us to focus on one thing at a time,
+without being distracted by unnecessary complexity, these small
+arguments will allow us to isolate and practice specific skills in order
+to fully master them before progressing.
+
+A quick word of advice: because these arguments are short, there is the
+risk that you might find some of these examples fairly easy and be
+tempted to rush through them. Please resist this temptation! **Thinking
+about what you're doing *now*, with small arguments, will help you to
+internalize the process, and this will make the complex arguments that
+you'll face later on *much* easier to handle**.
+
+It's a lot like learning to swim. You don't *need* to swim when you're
+in four feet of water; if you don't want to swim, you can simply stand
+up and walk to shore. Nevertheless, it's a good idea to *learn* *how* to
+swim in four feet of water, and to get completely comfortable with the
+strokes, *before* the only alternative to swimming is sinking.
+
+It's time to look at our first example and work through each of the Four
+Big Steps!

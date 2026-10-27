@@ -1,0 +1,3 @@
+- Sunshine Soda should be included in school lunches.
+    - Inference
+        - Sunshine Soda is nutrious. (Stopping Point)
