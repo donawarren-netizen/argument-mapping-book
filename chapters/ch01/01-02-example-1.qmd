@@ -1,0 +1,708 @@
+# 1.2 Example 1
+
+## Step 1 – Recognizing an Argument
+
+The first thing we want to do when faced with a passage is ask
+ourselves, **"What is this passage doing? Is it trying to convince us
+that something is true?"**
+
+So, let's start by asking that question of this piece of text:
+
+> "Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product. Therefore,
+> there's no need to research items before making a major purchase."
+
+It seems to me that this passage is trying to prove that there's no need
+to research items before making a major purchase. It's trying to
+convince us of this by citing another claim as evidence, so this passage
+does contain an argument.
+
+Of course, this passage might not contain a very *good* argument because
+it might not be doing a very *good job* of proving that there's no need
+to research items before making a major purchase, but it is *trying* to
+prove this, and that's what matters.
+
+### What Inference Indicator Expressions Are and Why They Matter
+
+The most basic way to recognize an argument is to do what we just did:
+ask ourselves, "Is this passage trying to convince us that something is
+true?" If so, it's an argument. If not, it isn't.
+
+The bad news is that this question can be difficult to answer. The good
+news is that there is a short cut that we can use sometimes.
+
+Remember, all arguments try to prove that a claim is true by citing
+other claims as evidence. The connection between the evidence and the
+claim being proven true is an *inference*. Thus, *all arguments have
+inferences*. In fact, the reverse is true, too. Any passage that
+contains an inference is an argument, so **once we see that a passage
+contains an inference, we can be certain that it contains an argument as
+well**.
+
+How, then, can we spot those crucial inferences? That's a great
+question. After all, an inference is the connection that binds one claim
+to another, just like a bridge is the connection between two boulders.
+This means that the inference *itself* isn't a claim that can be written
+down as a sentence and pointed to in the argument, and sometimes it
+won't correspond to *anything* that we can point to in the passage. (We
+can think of an inference as the force between two magnets instead of a
+bridge between two boulders. In a simple argument, for example, the
+premise is the first magnet, the ultimate conclusion is the second
+magnet, and the inference is the force that holds the two together. Just
+like we can see the magnets but can only gesture in the general
+direction of the magnetic force, we can put our fingers on an argument's
+premise and ultimate conclusion but can only indicate where that
+invisible inference is.)
+
+*Occasionally*, however, we'll get lucky, and inferences will be
+expressed using certain terms -- words we *can* point a finger at. This
+means that **we can *sometimes* recognize an argument by spotting these
+special "inference indicator" expressions**. And don't worry. Once you
+get used to seeing inferences with the help of inference indicator
+expressions, it will be easier to see them when inference indicator
+expressions aren't there because you'll be used to detecting the
+underlying relationship between claims.
+
+In the argument that we're considering, for example, the inference
+indicator expression is "therefore."
+
+> "Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, there's no need to research items before making a major
+> purchase."
+
+This "therefore" shows us that there's an inference between "every
+advertisement is designed to give the consumer completely accurate and
+comprehensive information about the product," and "there's no need to
+research items before making a major purchase." It shows us, in other
+words, that one of these claims (which we call the "reason") is being
+given as a reason to believe the other claim (which we call the
+"conclusion").
+
+***It's impossible to overestimate the importance of inference indicator
+expressions!*** Many of the most common problems that people run into
+later stem *directly* from their unfamiliarity with the inference
+indicator expression, so it's essential to learn how to recognize and
+use them.
+
+Now that we've seen that our passage contains an argument, let's analyze
+it.
+
+## Step 2 – Analyzing the Argument
+
+### The Importance of Analysis
+
+Analyzing an argument enables us to fully understand it, and we'll want
+to understand the argument *before* we start evaluating it. There will
+be many opportunities to evaluate the argument later, but if we don't
+take the time to understand the argument first, there's the danger that
+our assessment of the argument, our agreement or disagreement with it,
+will be based upon a misinterpretation of the argument.
+
+Patiently understanding a position before passing judgment upon it is
+also the *kind* thing to do. We shudder to think how many fights and
+hurt feelings could have been avoided if people had only *stopped to
+understand what the other person was saying before jumping in to
+disagree.*
+
+*"**Listen first and listen well**"* is a motto that will serve us
+admirably in every context. *"**Analyze before evaluating**,"* is an
+instance of this motto, and the first rule of good reasoning.
+
+### Identifying Claims and Connections, and Mapping the Argument
+
+Analyzing an argument consists of correctly identifying the **claims**
+that compose the argument and accurately tracking the **connections**
+between those claims.
+
+The first claim we want to identify, if possible, is the ultimate
+conclusion so the first question we should ask ourselves when analyzing
+an argument is, **"What is the ultimate conclusion, the main claim that
+this argument is trying to get us to believe?"**
+
+We'll number the important claims in order to make it easy to refer to
+them later, and because the ultimate conclusion is the first claim that
+we try to identify, we'll always give it number "1."
+
+As you might remember, we already identified the ultimate conclusion of
+this argument - it's "There's no need to research items before making a
+major purchase" -- so we can indicate that in the text.
+
+> "Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+And now we can appreciate an additional function of that inference
+indicator word "therefore."
+
+We've already seen that "therefore" shows us that there's an inference
+between "every advertisement is designed to give the consumer completely
+accurate and comprehensive information about the product," and "there's
+no need to research items before making a major purchase."
+
+But it does *more* than that, doesn't it? In addition to telling us
+*that* one claim is supposed to follow from another, the "therefore"
+tells us *which* claim is supposed to follow from another: specifically,
+it tells us that "there's no need to research items before making a
+major purchase" is the *conclusion* that's supposed to follow from
+"every advertisement is designed to give the consumer completely
+accurate and comprehensive information about the product."
+
+For this reason, we'll call inference indicator expressions like
+"therefore" "conclusion indicator expressions." **We can think about
+conclusion indicator expressions like signs that say, "Here comes a
+conclusion!"**
+
+There are a *lot* of inference indicator expressions that work like
+"therefore" and introduce conclusions. Here is a list of some of the
+most common.
+
+Conclusion Indicator Expressions:
+
+-   \[reason\]. Therefore \[conclusion\].
+
+-   \[reason\]. Thus \[conclusion\].
+
+-   \[reason\]. Consequently \[conclusion\].
+
+-   \[reason\]. Hence \[conclusion\].
+
+-   \[reason\], so \[conclusion\] / \[reason\], and so \[conclusion\].
+
+-   \[reason\] implies \[conclusion\].
+
+-   \[reason\] which means that \[conclusion\].
+
+-   \[reason\] which goes to show that \[conclusion\].
+
+-   \[reason\]. As a result, \[conclusion\].
+
+-   \[reason\]. That's why \[conclusion\].
+
+-   \[reason\]. It follows that \[conclusion\].
+
+Once we've identified the ultimate conclusion, we'll want to return to
+the beginning of the passage and ask ourselves, **"What else is being
+claimed?"** And **"Is this claim part of the argument?"**
+
+"Every advertisement is designed to give the consumer completely
+accurate and comprehensive information about the product" is another
+claim in the passage, and it's part of the argument, too, because it's
+being given as evidence for the ultimate conclusion. Let's give this new
+claim number "2," so that we can refer to it later.
+
+> "(2) Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+Now we can ask our next question, **"How are these claims connected to
+each other?"**
+
+As will often be the case, **the inference indicator expression helps us
+out**. (These expressions are *very important*.) The "therefore," a
+conclusion indicator, tells us that "(1) There's no need to research
+items before making a major purchase," is a conclusion that follows from
+"(2) Every advertisement is designed to give the consumer completely
+accurate and comprehensive information about the product." In other
+words, "(2) Every advertisement is designed to give the consumer
+completely accurate and comprehensive information about the product,"
+supports "(1) There's no need to research items before making a major
+purchase." We'll call this "the support relationship" and define it as
+follows:
+
+> **A reason supports a conclusion when the reason is being given as a
+> reason to believe that the conclusion is true.**
+
+We can graphically represent the relationship of support like this, with
+the conclusion on the top and the reason on the bottom. The inference is
+the line connecting the reason to the claim that it's supporting.
+
+![The support relationship: a conclusion on top, supported by a reason on the bottom.](/images/ch01/Reason_Conclusion.png){#fig-1-2-general width=124px fig-alt="Argument map: a conclusion at the top, supported by a reason through an inference. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-2-general"}
+{{< include /outlines/ch01/Reason_Conclusion_list.md >}}
+:::
+
+**The graphical representation of an argument is called an "argument
+map."** As we noted when looking at our Sunshine Soda example, argument
+maps show us how all of the claims in an argument are connected to each
+other and this makes complex arguments *much* easier to understand.
+That's why we'll always analyze arguments by mapping them.
+
+The map of the argument we're considering would look like this:
+
+> "(2) Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+![Map of the advertisement argument.](/images/ch01/Advertisement1.png){#fig-1-2-ad-1 width=351px fig-alt="Argument map concluding: 1) There’s no need to research items before making a major purchase. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-2-ad-1"}
+{{< include /outlines/ch01/Advertisement1_list.md >}}
+:::
+
+(We will label the inference lines with capital letters to make them
+easier to discuss when we see more structurally complex arguments
+later.)
+
+If we don't want to re-write the claims, we can just refer to them by
+number—which, after all, is why we numbered them in the first place.
+We can also write "A" instead of "Inference A" because we know that the
+green line is an inference. This would give us the following map:
+
+> "(2) Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+![The advertisement argument mapped with claim numbers only.](/images/ch01/1_A_2.png){#fig-1-2-ad-numbers width=68px fig-alt="Argument map: claim 1 at the top, supported by claim 2 through inference A. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-2-ad-numbers"}
+{{< include /outlines/ch01/1_A_2_list.md >}}
+:::
+
+We will usually put entire claims in the boxes and not just the numbers
+because this reduces the need to refer to the passage. If you are
+mapping by hand, however, it's often easier to number claims in the
+passage and then simply use the numbers in your map.
+
+All of the arguments in this chapter will have the simplest possible
+argument structure: one premise on the bottom, an ultimate conclusion at
+the top, and an inference connecting them, so they'll all be mapped the
+same way. Arguments will get more complicated before long, but for now,
+we'll take advantage of this structural simplicity to focus on the
+fundamentals of argument analysis and evaluation.
+
+And it's worth noting that I said the arguments in this chapter have the
+simplest possible *structure*. When I say that these arguments are
+simple, I mean that their *maps* are simple, not that their content is
+simple or that the process of analyzing or evaluating them is simple, so
+if you find some of these arguments tricky, fear not! Hydrogen,
+consisting of one proton and one electron, is the element with the
+simplest structure, but the process of discovering that structure was
+not easy!
+
+Now that we have our argument analyzed, let's evaluate it.
+
+## Step 3 – Evaluating the Argument
+
+Because an argument is a unit of reasoning that attempts to establish that
+a claim is true by citing other claims as evidence, **an argument is
+good if it *does* establish that the ultimate conclusion is probably
+true. If it *doesn't* establish that the conclusion is probably true, on
+the other hand, then the argument is bad.** Furthermore, the features of
+an argument that help or prevent an argument from establishing the truth
+of its conclusion are the only things that we want to spend time on.
+Other features of an argument (like how well it's written, for example)
+might be nice to notice, but they don't affect whether or not the
+argument is good or bad *as an argument*.
+
+So, let's look at our example argument again.
+
+> "(2) Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+![Map of the advertisement argument.](/images/ch01/Advertisement1.png){#fig-1-2-ad-2 width=351px fig-alt="Argument map concluding: 1) There’s no need to research items before making a major purchase. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-2-ad-2"}
+{{< include /outlines/ch01/Advertisement1_list.md >}}
+:::
+
+Is this argument good? Does it successfully establish that the
+conclusion is true?
+
+I don't think so. After all, do you now believe... *honestly believe*...
+that there's no need to research items before making a major purchase?
+No, probably not. (If you decided that the argument is good, you might
+have been thinking that you could understand *someone else* believing
+the ultimate conclusion on the basis of that premise, or something like
+that. But right now, don't think that hard. Just ask yourself, "Does
+this argument convince *me* that the ultimate conclusion is true? Do I,
+after reading this, *really believe* that there's no need to research
+items before making a major purchase?" And I bet you don't.)
+
+The fact that this argument hasn't given us reason to believe its
+ultimate conclusion means that the argument is bad. But *why* is it bad?
+What has gone wrong?
+
+It might be tempting to think that this argument is bad because the
+ultimate conclusion is false. In fact, the ultimate conclusion here *is*
+false but, strangely enough, **we never evaluate the ultimate conclusion
+of an argument when we evaluate the argument. This is because the
+central issue is whether or not the argument gives us good reason to
+believe the ultimate conclusion, not whether or not the ultimate
+conclusion is actually true.** What's the difference? Well, the
+conclusion can be true even if the argument doesn't give us good reason
+to think that it is. We'll talk more about this later.
+
+So, if the problem with this argument isn't that the ultimate conclusion
+is false, what is the problem? The problem is that the *premise* is
+false. Advertisements *aren't* designed to give the consumer completely
+accurate and comprehensive information about the product; they're
+designed to sell the product, and sometimes don't give the consumer any
+information about the product *at all*. (Think about the last commercial
+you saw that paired the product with images of popularity, for example.
+The advertiser's hope is that you'll identify the product with
+popularity and so want to buy it -- not that you'll learn a wealth of
+information about the product.)
+
+We can note in the map that the premise is bad.
+
+> "(2) Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+![Map of the advertisement argument, with the premise evaluated as false.](/images/ch01/Advertisement1_P_Eval.png){#fig-1-2-ad-eval-1 width=351px fig-alt="Argument map concluding: 1) There’s no need to research items before making a major purchase. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-2-ad-eval-1"}
+{{< include /outlines/ch01/Advertisement1_P_Eval_list.md >}}
+:::
+
+Since the premises are given as reason for us to believe the ultimate
+conclusion, and since false premises can't give us reason to believe
+anything (just like fabricated evidence can't *really* prove that the
+defendant in a trial is guilty or innocent), a false premise makes the
+argument bad.
+
+> "(2) Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+![Map of the advertisement argument, with the premise evaluated as false.](/images/ch01/Advertisement1_P_Eval.png){#fig-1-2-ad-eval-2 width=351px fig-alt="Argument map concluding: 1) There’s no need to research items before making a major purchase. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-2-ad-eval-2"}
+{{< include /outlines/ch01/Advertisement1_P_Eval_list.md >}}
+:::
+
+Note 1: This argument is bad because it has a false premise.
+
+### Evaluating Premises
+
+We've seen that the first thing we should do when looking at a premise
+is ask ourselves, **"Is this premise true?"**
+
+We can call an objection to an argument that asserts that a premise is
+false a "'not so' objection" because it looks at a premise and says, in
+effect, "That's not so."
+
+**A good argument needs true premises**. This is an important rule of
+evaluating arguments.
+
+Some people are troubled by this rule. They point out that sometimes we
+don't *know* whether a premise is true or false, that sometimes premises
+we *think* are true are *actually* false, and that sometimes premises we
+think are *false* are actually *true*. These people worry that such
+ignorance and error make it virtually impossible to tell whether or not
+a premise is true, and if we can't tell whether or not a premise is true
+then we can't evaluate an argument on the basis of the truth of its
+premises.
+
+This is a very good point, but things aren't as bleak as they seem as
+long as we're willing to admit when we don't know something and are
+happy to acknowledge when we've been wrong. In fact, **the ability to
+admit that we don't know something and the willingness to accept our
+mistakes and change our minds are very important *everywhere***. If you
+don't know something, say, "I don't know," and if you've been mistaken
+say, "I've been mistaken." Not knowing something isn't so bad; nobody
+knows everything. Being wrong isn't so bad; everyone is wrong sometimes.
+But pretending that we know things that we don't know and insisting that
+we're right when we know we're wrong will bring us *no end* of grief.
+
+If we don't know whether a premise is true or false, we might not be
+able to decide if the argument is good or bad. If we're mistaken in our
+assessment of the premise, we may be mistaken in our evaluation of the
+argument. That's okay. Ignorance and error are part of the human
+condition. We just need to be honest with ourselves and do the best with
+what we think we know.
+
+** **
+
+### Communicating Our Evaluation
+
+Strange as it might seem, it's *one* thing to be able to evaluate an
+argument and quite *another thing* to be able to articulate our
+evaluation to other people. And perhaps, upon reflection, that isn't too
+surprising. Surely, we've all been in the position of having a pretty
+good idea of what we want to say and still being unsure about how to say
+it.
+
+As we go along, then, it will be good to learn a few specific things
+that we can say to communicate our evaluation of an argument. Obviously,
+there are *many ways* that we can articulate our objections, so don't
+feel like you need to use exactly the same words that I'll give you
+here. Nevertheless, it *is* often very useful to memorize specific
+wording, at least at first, because it makes things easier. When you're
+learning a new language, for example, you don't need to learn a dozen
+different ways to ask for directions to the bathroom. Mastering one
+solid, dependable, way is just fine. The same principle applies here.
+
+**If an argument has a false premise, like the argument we've just seen,
+we can say, "This argument assumes \[state the premise\], and that's
+false because \[state why you think the premise is false\]."**
+
+In the case of this argument, for example, we can say, "This argument
+assumes that every advertisement is designed to give the consumer
+completely accurate and comprehensive information about the product, and
+that's not true because advertisements are designed to sell the product,
+and sometimes they don't give the consumer any information about the
+product at all."
+
+Note that we didn't mention the author of the argument. **Our task is to
+evaluate the *reasoning,* not criticize the reasoner and so we shouldn't
+personally attack the individual advancing the argument**. Most
+obviously, this principle rules out labeling and name-calling. Less
+obviously, it rules out giving the impression that the author of the
+argument was stupid, lazy, corrupt, or otherwise negligent for failing
+to see the problems in their reasoning. And because of this, we should
+portray our objections as non-obvious whenever possible. We can, after
+all, safely assume that the author of the argument didn't anticipate our
+objections, and so it can be insulting to present those objections as
+something that any thinking person should have considered.
+
+This principle can be difficult to apply when the topic of the argument
+is deeply contentious and the author of the argument is defending a
+viewpoint with which we strongly disagree, but it's in *just such
+situations* that this principle is *most important* because if we engage
+the author and not the argument, the disagreement will only become more
+heated and counterproductive. Nobody will be trying to deepen
+understanding or seek the truth because everybody will be too busy
+defending themselves, lashing out at others, and scoring cheap debating
+points. We've all seen this happen. Sometimes, of course, the author of
+the argument won't be extending you the same courtesy that you are
+extending to them, but nobody goes anywhere unless somebody takes the
+high road. Sometimes that somebody will have to be you, and sometimes
+you will walk the high road alone. That's frustrating and it's
+maddening, but it's still the best path forward because the low road is
+*very* muddy.
+
+But what if the person advancing the argument doesn't genuinely want to
+engage in a meaningful conversation about ideas? What if that person is
+simply a bully, advancing an argument to *appear* rational while trying
+to force their personal or political beliefs on others? It would be
+naïve to pretend that never happens and it's hard to know how to respond
+when it does. Generally speaking, however, **there are two ways to
+effect change in the world: reasoning (participating in a cooperative
+dialog that's aimed at the pursuit of truth) or wrestling (fighting it
+out with other people in order to dominate them and impose one's own
+will)**. If it becomes clear that someone is *actually* wrestling when
+it *looks* like they're reasoning, we can still engage their reasoning
+in the hopes of nudging the dynamics of the larger conversation in a
+more fruitful direction. If the situation is dire, of course, and if
+lives are at stake, we can wrestle back. But **it's prudent to wrestle
+only as a last resort, because if we wrestle more than we reason,
+decisions will be made by the strongest, not by the wisest**.
+
+### Thoughts about the Ultimate Conclusion
+
+Before we leave this argument, let's pause to remind ourselves that when
+we evaluated this argument, we did *not* evaluate the ultimate
+conclusion. In fact, **we will never evaluate the ultimate conclusion of
+an argument when we evaluate the argument itself**. This is because the
+central issue is whether or not the argument has given us good reason to
+believe the ultimate conclusion, and not whether or not the ultimate
+conclusion is actually true. (Can you see the difference? An argument
+can give us a bad reason to believe something that just happens to be
+true. We'll be talking about this later.)
+
+Nonetheless, **we can expect our evaluation of an argument to have some
+bearing upon our acceptance or rejection of the conclusion**. As a first
+step in working toward an understanding of what this relationship might
+be, let's take a look at the argument we just evaluated. We saw that
+this argument is bad. And, furthermore, we know that the ultimate
+conclusion is false.
+
+> "(2) Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+![Map of the advertisement argument, with the premise evaluated as false.](/images/ch01/Advertisement1_P_Eval.png){#fig-1-2-ad-eval-3 width=351px fig-alt="Argument map concluding: 1) There’s no need to research items before making a major purchase. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-2-ad-eval-3"}
+{{< include /outlines/ch01/Advertisement1_P_Eval_list.md >}}
+:::
+
+Note 1: This argument is bad because it has a false premise.\
+Note 2: This argument happens to have a false conclusion.
+
+Thus, we've seen that **a bad argument can have a false ultimate
+conclusion**. This might not be much of a discovery, but it is something
+and it takes us part of the way (specifically, one fourth of the way)
+toward a complete understanding of the relationship between an argument
+and its ultimate conclusion.
+
+For now, let's summarize what we've learned in this example.
+
+## Summary of Example 1
+
+We've finished working through our first example!
+
+> "Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product. Therefore,
+> there's no need to research items before making a major purchase."
+
+### Step 1 – Recognizing an Argument
+
+We asked, **"What is this passage doing? Is it trying to convince us
+that something is true?"**
+
+If a passage is trying to convince us of something, it contains an
+argument. We decided that this passage does contain an argument: it's
+trying to convince us that there's no need to research items before
+making a major purchase.
+
+Inference indicator expressions, like "therefore," can help us to
+recognize arguments, too, because all arguments have inferences.
+
+> "Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, there's no need to research items before making a major
+> purchase."
+
+### Step 2 – Analyzing the Argument
+
+To analyze this argument, the first question we asked was, **"What is
+the ultimate conclusion, or the main claim that this argument is trying
+to get us to believe?"**
+
+We decided that the ultimate conclusion was "there's no need to research
+items before making a major purchase."
+
+The inference indicator expression "therefore" can help us here as well
+because in addition to telling us that there's an inference in the
+passage, "therefore" shows us how the inference works by acting like a
+sign that says, "Here comes a conclusion!" **"Therefore" is a conclusion
+indicator expression.**
+
+We will always give the ultimate conclusion number 1.
+
+> "Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+There are a lot of conclusion expressions like "therefore." Here's a
+list of some of them:
+
+Conclusion Indicator Expressions:
+
+-   \[reason\]. Therefore \[conclusion\].
+
+-   \[reason\]. Thus \[conclusion\].
+
+-   \[reason\]. Consequently \[conclusion\].
+
+-   \[reason\]. Hence \[conclusion\].
+
+-   \[reason\], so \[conclusion\] / \[reason\], and so \[conclusion\].
+
+-   \[reason\] implies \[conclusion\].
+
+-   \[reason\] which means that \[conclusion\].
+
+-   \[reason\] which goes to show that \[conclusion\].
+
+-   \[reason\]. As a result, \[conclusion\].
+
+-   \[reason\]. That's why \[conclusion\].
+
+-   \[reason\]. It follows that \[conclusion\].
+
+We then returned to the beginning of the passage and asked, **"What else
+is being claimed?"** And **"Is this claim part of the argument?"** This
+allowed us to identify and number the other claim, "Every advertisement
+is designed to give the consumer completely accurate and comprehensive
+information about the product."
+
+> "(2) Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+Finally, we asked, **"How are these claims connected to each other?"**
+
+Once again, the conclusion indicator helped us to see that claim 2 was
+supporting claim 1.
+
+This gave us the following map of the argument, with the conclusion (1)
+on the top, the reason (2) on the bottom, and the inference represented
+as a green line between the conclusion and the reason. (We labeled the
+inference for easy reference.):
+
+> "(2) Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+![Map of the advertisement argument.](/images/ch01/Advertisement1.png){#fig-1-2-ad-3 width=351px fig-alt="Argument map concluding: 1) There’s no need to research items before making a major purchase. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-2-ad-3"}
+{{< include /outlines/ch01/Advertisement1_list.md >}}
+:::
+
+### Step 3 – Evaluating the Argument
+
+An argument is good if and only if it establishes that its ultimate
+conclusion is probably true. In order to establish that the ultimate
+conclusion is probably true, an argument needs true premises.
+Accordingly, a good question to ask when we evaluate an argument is
+**"Is this premise true?"**
+
+The premise in this argument isn't true, which makes the argument bad as
+a whole.
+
+> "(2) Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+![Map of the advertisement argument, with the premise evaluated as false.](/images/ch01/Advertisement1_P_Eval.png){#fig-1-2-ad-eval-4 width=351px fig-alt="Argument map concluding: 1) There’s no need to research items before making a major purchase. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-2-ad-eval-4"}
+{{< include /outlines/ch01/Advertisement1_P_Eval_list.md >}}
+:::
+
+Note 1: This argument is bad because it has a false premise.
+
+Objections to the effect that a premise is false are called 'not so'
+objections.
+
+When we communicate a "not so" objection we can say, "This argument
+assumes \[state the premise\], and that's false because \[state why you
+think the premise is false\]."
+
+We should always remember that our task is to evaluate the reasoning and
+not criticize the reasoner. This means that we shouldn't personally
+attack the author of the argument. It's also a good idea to avoid giving
+the impression that the person advancing the argument was stupid, lazy,
+corrupt, or negligent for failing to see the problems in their
+reasoning.
+
+#### Thoughts about the Ultimate Conclusion
+
+We noted that although we won't ever evaluate the conclusion as part of
+our evaluation of the argument, we *will* want to understand the
+relationship between arguments and the conclusions they support. Because
+the conclusion of this argument is almost certainly false, it shows us
+that a bad argument can have a false conclusion.
+
+> "(2) Every advertisement is designed to give the consumer completely
+> accurate and comprehensive information about the product.
+> **Therefore**, (1) there's no need to research items before making a
+> major purchase."
+
+![Map of the advertisement argument, with the premise evaluated as false.](/images/ch01/Advertisement1_P_Eval.png){#fig-1-2-ad-eval-5 width=351px fig-alt="Argument map concluding: 1) There’s no need to research items before making a major purchase. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-2-ad-eval-5"}
+{{< include /outlines/ch01/Advertisement1_P_Eval_list.md >}}
+:::
+
+Note 1: This argument is bad because it has a false premise.\
+Note 2: This argument happens to have a false conclusion.

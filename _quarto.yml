@@ -17,6 +17,7 @@ book:
     - part: "Chapter 1: Premise / Ultimate Conclusion Arguments"
       chapters:
         - chapters/ch01/01-01-introduction.qmd
+        - chapters/ch01/01-02-example-1.qmd
     - part: "Chapter 5: Missing Conclusions"
       chapters:
         - chapters/ch05/05-01-introduction.qmd

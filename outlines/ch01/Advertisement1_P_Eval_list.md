@@ -1,0 +1,3 @@
+- 1\) There’s no need to research items before making a major purchase.
+    - Inference A
+        - 2\) Every advertisement is designed to give the consumer completely accurate and comprehensive information about the product. \[Evaluation: False\] (Stopping Point)

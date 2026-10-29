@@ -1,0 +1,3 @@
+- Conclusion
+    - Inference
+        - Reason (Stopping Point)

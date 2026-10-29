@@ -98,3 +98,10 @@ body.quarto-dark .nav-page-text {
   color: #ffffff !important;
   fill: #ffffff !important;
 }
+
+/* Phone-width breadcrumb links (chapter > section): WCAG 2.2 minimum 24px target */
+.quarto-page-breadcrumbs .breadcrumb-item a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+}
