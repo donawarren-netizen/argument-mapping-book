@@ -1,0 +1,581 @@
+# 1.3 Example 2
+
+## Step 1 – Recognizing an Argument
+
+Let's try the first step again: determining whether or not a passage
+contains an argument. Ask yourself, **"What is this passage doing? Is it
+trying to convince us that something is true?"**
+
+> "Advertisements are designed to get people to buy the product because
+> they are designed to sell the product."
+
+I think this passage is trying to convince us that something is true by
+citing another claim as evidence, so I'd say that this passage contains
+an argument.
+
+If you thought that this passage *doesn't* contain an argument, you
+might have been picking up on the fact that this argument isn't very
+good and if an argument is very bad, it can be difficult to tell that
+it's an argument at *all*. That's because argumentation is a
+goal-directed activity; arguments are trying to give us good reason to
+accept the conclusion.
+
+All goal-directed activities have the characteristic that the more badly
+people fail at achieving their goal, the harder it is to tell that they
+were trying to achieve that goal in the first place. Just think about
+singing. That's a goal-directed activity because most singing tries to
+follow a tune. Now suppose you are walking through a music department,
+past a row of practice rooms, and you hear someone singing very well.
+Obviously, you'd have no problem telling that the person is singing. Now
+suppose you hear somebody singing less well. You'd still be able to tell
+that they're singing. Imagine that as you walk down the hall, passing
+practice-room after practice-room, the singing gets worse and worse as
+you go. At some point, you might legitimately wonder, "Is this person
+singing at all? Might this person be in pain? Should I call for help?"
+The only reason you'd have for thinking that the person was at least
+*trying* to sing is the fact that the person is making the sound in a
+room that's devoted to practicing singing. We might call the practice
+room a "singing indicator."
+
+All arguments have inferences, and I recognized the passage as
+containing an argument mostly because I spotted an inference indicator.
+Can you see it?
+
+The crucial word here is "because." It indicates that there's an
+inference between "advertisements are designed to get people to buy the
+product" and "advertisements are designed to sell the product."
+
+> "Advertisements are designed to get people to buy the product
+> **because** they are designed to sell the product."
+
+This allows us to say with some confidence that the passage contains an
+argument, even if it turns out to be a rather bad one.
+
+## Step 2 – Analyzing the Argument
+
+Now that we know that this passage contains an argument, we can analyze
+it. (Remember, we should always take the time to analyze an argument
+before we evaluate it.)
+
+As usual, we'll try to identify the ultimate conclusion first, so we
+should ask ourselves, **"What is the ultimate conclusion, or the main
+claim that this argument is trying to get us to believe?"**
+
+To answer this question, we'll note an additional function of the
+inference indicator word "because." We've already seen that "because"
+shows us that there's an inference between "advertisements are designed
+to get people to buy the product" and "advertisements are designed to
+sell the product."
+
+> "Advertisements are designed to get people to buy the product
+> **because** they are designed to sell the product."
+
+But "because" does *more* than that. In addition to telling us *that*
+one claim is supporting another, the "because" tells us *which* claim is
+supporting another: specifically, it tells us that "advertisements are
+designed to sell the product" is supporting "advertisements are designed
+to get people to buy the product."
+
+Remember how we called words like "therefore" "conclusion indicator
+expressions" because they function like signs that say, "here comes a
+conclusion"? We'll do the same thing here and call words like "because"
+"**reason indicator expressions**."
+
+**We can think about reason indicator expressions like signs that say,
+"Here comes a reason!"**
+
+There are a *lot* of inference indicator expressions that work like
+"because" and introduce reasons. Here is a list of some of the most
+common.
+
+A Reason Indicator introduces a reason (a claim at the bottom of an
+inference line):
+
+-   \[conclusion\] because \[reason\]. / Because \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] since \[reason\]. / Since \[reason\], \[conclusion\].
+
+-   \[conclusion\] assuming that \[reason\]. / Assuming that \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] given that \[reason\]. / Given that \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] inasmuch as \[reason\]. / Inasmuch as \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] in view of the fact that \[reason\]. / In view of the
+    fact that \[reason\], \[conclusion\].
+
+-   \[conclusion\]. The reason is that \[reason\].
+
+-   \[conclusion\]. After all \[reason\].
+
+-   \[conclusion\]. This follows from \[reason\].
+
+In the argument we're analyzing, the reason indicator expression
+"because" shows us that "advertisements are designed to sell the
+product" is being given as a reason to accept "advertisements are
+designed to get people to buy the product." This means that
+"advertisements are designed to get people to buy the product" must be
+the ultimate conclusion of the argument, and "they are designed to sell
+the product" must be the reason that supports that conclusion.
+
+> "(1) Advertisements are designed to get people to buy the product
+> **because** (2) they are designed to sell the product."
+
+(Let's stop here for a minute and notice that we divided one sentence
+into two claims around the "because." This is okay. In general, we'll
+want to divide sentences around inference indicator expressions because
+that will allow us to represent the inference in our map. We can't
+represent an inference between two claims, after all, unless we list the
+claims separately. We'll discuss all this in greater detail in Chapter 3.
+For now, we'll just divide sentences around inference indicator
+expressions as a matter of course.)
+
+Having identified these claims, we can ask ourselves, **"How are these
+claims connected to each other?"**
+
+Once again, "because" holds the key! The "because" tells us that claim 2
+is being given as a reason to believe claim 1 (Remember to use the
+inference indicator expressions!), so we'll map the argument like this:
+
+> "(1) Advertisements are designed to get people to buy the product
+> **because** (2) they are designed to sell the product."
+
+![Map of the advertisement argument.](/images/ch01/Advertisement2.png){#fig-1-3-ad-1 width=255px fig-alt="Argument map concluding: 1) Advertisements are designed to get people to buy the product. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-3-ad-1"}
+{{< include /outlines/ch01/Advertisement2_list.md >}}
+:::
+
+### A Word about Inference Indicator Expressions
+
+**It's incredibly important to train yourself to spot inference
+indicator expressions and to determine whether they introduce a
+conclusion (and so are conclusion indicator expressions like
+"therefore") or introduce a reason (and so are reason indicator
+expressions like "because").**
+
+When people have serious problems analyzing the more complex arguments
+later, *very often* (about 90% of the time) the source of their
+difficulty lies in an unfamiliarity with and inability to use inference
+indicator expressions. The time you spend recognizing and using
+inference indicator expressions now, when you might not need to rely on
+them, will save you time and frustration later, when you *will* need to
+rely on them.
+
+Here is our list of inference indicator expressions. There are other
+inference indicator expressions not included here, of course, but this
+is comprehensive enough to be useful.
+
+A Conclusion Indicator introduces a conclusion (a claim at the top of
+an inference line):
+
+-   \[reason\]. Therefore \[conclusion\].
+
+-   \[reason\]. Thus \[conclusion\].
+
+-   \[reason\]. Consequently \[conclusion\].
+
+-   \[reason\]. Hence \[conclusion\].
+
+-   \[reason\], so \[conclusion\] / \[reason\], and so \[conclusion\].
+
+-   \[reason\] implies \[conclusion\].
+
+-   \[reason\] which means that \[conclusion\].
+
+-   \[reason\] which goes to show that \[conclusion\].
+
+-   \[reason\]. As a result, \[conclusion\].
+
+-   \[reason\]. That's why \[conclusion\].
+
+-   \[reason\]. It follows that \[conclusion\].
+
+A Reason Indicator introduces a reason (a claim at the bottom of an
+inference line):
+
+-   \[conclusion\] because \[reason\]. / Because \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] since \[reason\]. / Since \[reason\], \[conclusion\].
+
+-   \[conclusion\] assuming that \[reason\]. / Assuming that \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] given that \[reason\]. / Given that \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] inasmuch as \[reason\]. / Inasmuch as \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] in view of the fact that \[reason\]. / In view of the
+    fact that \[reason\], \[conclusion\].
+
+-   \[conclusion\]. The reason is that \[reason\].
+
+-   \[conclusion\]. After all \[reason\].
+
+-   \[conclusion\]. This follows from \[reason\].
+
+Generally speaking, conclusion indicator expressions are easier to
+follow than reason indicator expressions. This is because conclusion
+indicator expressions have the following (very handy!) features:
+
+1.  A conclusion indicator expression, like "therefore," is always
+    placed *between* the reason and the conclusion.
+
+2.  When a conclusion indicator expression is used, the conclusion both
+    *follows* the reason in the passage and *follows from* the reason in
+    the argument.
+
+For example, consider this passage:
+
+> "Dr. Quack's Magic Elixir is nothing but flavored water. **Therefore**
+> the Elixir won't cure your cold."
+
+The conclusion ("the elixir won't cure your cold") *follows* the reason
+("Dr. Quack's Magic Elixir is nothing but flavored water") in the sense
+that it *comes after* it. The conclusion also *follows from* the reason
+in the sense that it *is supported by* it.
+
+Reason indicator expressions aren't like that. Instead:
+
+1.  Most reason indicator expressions, like "because," can appear in
+    *two places*: between the reason and the conclusion, and at the
+    beginning of the sentence.
+
+2.  When a reason indicator expression is placed between the conclusion
+    and the reason, the narrative order reverses the logical order. The
+    reason follows the conclusion in the passage but the conclusion
+    follows from the reason in the argument. When a reason indicator
+    expression is placed at the beginning of the sentence, the narrative
+    order is preserved but the reason indicator doesn't "take effect"
+    where it sits; instead, it points to a comma that occurs later in
+    the sentence.
+
+For example, consider this passage:
+
+> "Dr. Quack's Magic Elixir won't cure your cold **because** it's
+> nothing but flavored water."
+
+The reason ("it's nothing but flavored water") *follows* the conclusion
+("Dr. Quack's Magic Elixir won't cure your cold") in the sense that it
+*comes after* it. But the conclusion *follows from* the reason in the
+sense that it *is supported by* it.
+
+In short, although we read the claims from left to right, the
+relationship of support between the claims runs from right to left when
+a reason indicator expression is in the middle.
+
+Now let's consider this passage:
+
+> "**Because** Dr. Quack's Magic Elixir is nothing but flavored water,
+> the elixir won't cure your cold."
+
+Here, the reason indicator is placed at the beginning of the sentence. This
+preserves the narrative order; the conclusion ("the elixir won't cure
+your cold") both follows and follows from the reason ("Dr. Quack's Magic
+Elixir is nothing but flavored water") but the inference "takes effect"
+at the comma.
+
+It's worth noting here that the *map* of the argument will be the same,
+no matter how the argument is expressed.
+
+All these passages:
+
+> "(2) Dr. Quack's Magic Elixir is nothing but flavored water.
+> **Therefore** (1) the Elixir won't cure your cold."
+>
+> "(1) Dr. Quack's Magic Elixir won't cure your cold **because** (2)
+> it's nothing but flavored water."
+>
+> "**Because** (2) Dr. Quack's Magic Elixir is nothing but flavored
+> water, (1) the elixir won't cure your cold."
+
+Would be mapped like this:
+
+![Map of the Magic Elixir argument, however it is expressed.](/images/ch01/Elixir.png){#fig-1-3-elixir width=263px fig-alt="Argument map concluding: (1) Dr. Quack’s Magic Elixir won’t cure your cold. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-3-elixir"}
+{{< include /outlines/ch01/Elixir_list.md >}}
+:::
+
+## Step 3 – Evaluating the Argument
+
+Now that we've reflected upon inference indicator expressions, let's
+return to the argument in Example 2. So far, we've mapped the argument,
+taking full advantage of the reason indicator expression "because."
+
+> "(1) Advertisements are designed to get people to buy the product
+> **because** (2) they are designed to sell the product."
+
+![Map of the advertisement argument.](/images/ch01/Advertisement2.png){#fig-1-3-ad-2 width=255px fig-alt="Argument map concluding: 1) Advertisements are designed to get people to buy the product. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-3-ad-2"}
+{{< include /outlines/ch01/Advertisement2_list.md >}}
+:::
+
+The previous example taught us that we should ask, **"Is this premise
+true?"** So, what do you think? Is premise 2, the claim that
+advertisements are designed to sell the product, true?
+
+I'd say that this premise is true, but something about it feels wrong
+anyway.
+
+Remember, a good argument establishes that its conclusion is probably
+true. So, take a moment to look at the argument and ask yourself, "Does
+this argument establish that its conclusion is probably true? Does this
+argument establish that advertisements are designed to get people to buy
+the product? *Is this argument the sort of thing that could get somebody
+to believe this conclusion?*"
+
+In fact, this argument doesn't establish the truth of its conclusion
+because the premise of the argument ("Advertisements are designed to
+sell the product") is *basically the same thing* as the conclusion
+("Advertisements are designed to get people to buy the product").
+
+**The premise of this argument presupposes the conclusion, and that's a
+problem because an argument can't establish what it presupposes**.
+
+To see this, let's suppose that we're talking to people who don't
+already believe the conclusion of this argument, "Advertisements are
+designed to get people to buy the product." They don't need to think
+that the conclusion is false. They don't need to *disbelieve* it. They
+may have no opinion one way or the other. *They simply don't believe it
+going in*. Could we convince them of this conclusion by presenting them
+with the premise "Advertisements are designed to sell the product"? No,
+because *if they don't already believe the conclusion, they won't accept
+that premise*.
+
+The example shows us that it isn't enough to ask of a premise, "Is this
+premise true?" because premises need to be more than true. They also
+need to avoid presupposing the truth of the conclusion. **To ensure that
+a premise doesn't presuppose the conclusion, we can ask ourselves,
+"Could someone who doesn't already believe the ultimate conclusion
+believe this premise?"**
+
+**If the answer is "no," then the premise assumes the conclusion**, and
+that makes the argument bad because it prevents the argument from
+establishing the truth of the conclusion, which is what all good
+arguments do.
+
+The argument that we're studying is bad for that reason. The premise is
+true but it assumes the conclusion so both the premise and the argument
+fail. The fact that the premise assumes the conclusion makes this
+argument circular.
+
+> "(1) Advertisements are designed to get people to buy the product
+> **because** (2) they are designed to sell the product."
+
+![Map of the advertisement argument, with the premise evaluated as assuming the conclusion.](/images/ch01/Advertisement2_P_Eval.png){#fig-1-3-ad-eval-1 width=255px fig-alt="Argument map concluding: 1) Advertisements are designed to get people to buy the product. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-3-ad-eval-1"}
+{{< include /outlines/ch01/Advertisement2_P_Eval_list.md >}}
+:::
+
+Note 1: This argument is bad because it's circular.
+
+### Communicating Our Evaluation
+
+If an argument has a premise that assumes the conclusion, like the
+argument we've just seen, we can say, "This argument assumes \[state the
+premise\], and that assumes the conclusion \[state the conclusion\]
+because \[explain why people who don't believe the ultimate conclusion
+won't believe the premise\]."
+
+In the case of this argument, for example, we can say, "This argument
+assumes that advertisements are designed to sell the product, and that
+assumes the conclusion that advertisements are designed to get people to
+buy the product because nobody who doesn't already believe that
+advertisements are designed to get people to buy the product would
+accept that advertisements are designed to sell the product."
+
+### Thoughts about the Ultimate Conclusion
+
+Once again, before we leave this argument, let's examine the
+relationship between the argument and the ultimate conclusion.
+
+We saw that this argument is bad. But what about the conclusion?
+
+In fact, it looks like the ultimate conclusion of this argument is true!
+
+> "(1) Advertisements are designed to get people to buy the product
+> **because** (2) they are designed to sell the product."
+
+![Map of the advertisement argument, with the premise evaluated as assuming the conclusion.](/images/ch01/Advertisement2_P_Eval.png){#fig-1-3-ad-eval-2 width=255px fig-alt="Argument map concluding: 1) Advertisements are designed to get people to buy the product. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-3-ad-eval-2"}
+{{< include /outlines/ch01/Advertisement2_P_Eval_list.md >}}
+:::
+
+Note 1: This argument is bad because it's circular.
+
+Note 2: This argument happens to have a true conclusion.
+
+It's very easy to assume that bad arguments must have false conclusions,
+like the argument we saw in Example 1, but this example shows that
+assumption to be mistaken. If we decide that an argument is bad, all we
+know is that the argument *has not established* that the conclusion is
+true. Maybe the conclusion is true. Maybe it isn't. The argument can't
+help us decide. Consequently, **if we find that an argument is bad, we
+should neither accept nor reject the conclusion on that basis.** And,
+similarly, if we hear someone criticizing an argument, we shouldn't
+conclude that they agree or disagree with the ultimate conclusion. All
+we know is that they think the argument is bad.
+
+By the way, do you think that the same is true of good arguments? Can
+good arguments have true conclusions and false conclusions? We'll see.
+For now, let's summarize what we've learned in this example.
+
+## Summary of Example 2
+
+Here's the passage that we worked through in this example:
+
+> "Advertisements are designed to get people to buy the product because
+> they are designed to sell the product."
+
+### Step 1 – Recognizing an Argument
+
+We asked, **"What is this passage doing? Is it trying to convince us
+that something is true?"**
+
+And we decided that this passage was trying to convince us of something,
+making it an argument.
+
+The inference indicator expression "because" helped us too.
+
+> "Advertisements are designed to get people to buy the product
+> **because** they are designed to sell the product."
+
+### Step 2 – Analyzing the Argument
+
+To analyze this argument, we asked, **"What is the ultimate conclusion,
+or the main claim that this argument is trying to get us to believe?"**
+
+We decided that the ultimate conclusion was "advertisements are designed
+to get people to buy the product."
+
+The inference indicator expression "because" helped us to identify the
+ultimate conclusion because in addition to telling us that there's an
+inference in the passage, it shows us how the inference works by acting
+like a sign that says, "Here comes a reason to believe something else!"
+
+**"Because" is a reason indicator expression**. This means that
+"Advertisements are designed to sell the product" is a reason to
+believe, "Advertisements are designed to get people to buy the product,"
+making "Advertisements are designed to get people to buy the product"
+the ultimate conclusion.
+
+> "(1) Advertisements are designed to get people to buy the product
+> **because** (2) they are designed to sell the product."
+
+There are a lot of reason expressions like "because." Here's a list of
+some of them:
+
+A Reason Indicator introduces a reason (a claim at the bottom of an
+inference line):
+
+-   \[conclusion\] because \[reason\]. / Because \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] since \[reason\]. / Since \[reason\], \[conclusion\].
+
+-   \[conclusion\] assuming that \[reason\]. / Assuming that \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] given that \[reason\]. / Given that \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] inasmuch as \[reason\]. / Inasmuch as \[reason\],
+    \[conclusion\].
+
+-   \[conclusion\] in view of the fact that \[reason\]. / In view of the
+    fact that \[reason\], \[conclusion\].
+
+-   \[conclusion\]. The reason is that \[reason\].
+
+-   \[conclusion\]. After all \[reason\].
+
+-   \[conclusion\]. This follows from \[reason\].
+
+Finally, we asked, **"How are these claims connected to each other?"**
+
+Once again, the reason indicator helped us to see that claim 2 was
+supporting claim 1. This gave us the following map of the argument:
+
+> "(1) Advertisements are designed to get people to buy the product
+> **because** (2) they are designed to sell the product."
+
+![Map of the advertisement argument.](/images/ch01/Advertisement2.png){#fig-1-3-ad-3 width=255px fig-alt="Argument map concluding: 1) Advertisements are designed to get people to buy the product. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-3-ad-3"}
+{{< include /outlines/ch01/Advertisement2_list.md >}}
+:::
+
+### Step 3 – Evaluating the Argument
+
+Example 1 taught us to ask, **"Is this premise true?"** when we evaluate
+an argument.
+
+The premise in Example 2 probably *is* true, but it's a bad premise
+anyway. That's because the only people who can accept it are people who
+*already* accept the ultimate conclusion -- and that means that this
+argument can't ever *convince* someone to accept the conclusion.
+
+This gave us another question to ask of any premise: **"Could someone
+who doesn't already believe the ultimate conclusion believe this
+premise?"**
+
+In Example 2, the answer to that question is "No," and so the argument
+is bad.
+
+Premises that are bad because they can be believed only by people who
+already accept the conclusion are said to "assume the conclusion." They
+make an argument circular.
+
+> "(1) Advertisements are designed to get people to buy the product
+> **because** (2) they are designed to sell the product."
+
+![Map of the advertisement argument, with the premise evaluated as assuming the conclusion.](/images/ch01/Advertisement2_P_Eval.png){#fig-1-3-ad-eval-3 width=255px fig-alt="Argument map concluding: 1) Advertisements are designed to get people to buy the product. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-3-ad-eval-3"}
+{{< include /outlines/ch01/Advertisement2_P_Eval_list.md >}}
+:::
+
+Note 1: This argument is bad because it's circular.
+
+We can communicate this by saying something like, "This argument assumes
+\[state the premise\], and that assumes the conclusion because \[explain
+why people who don't believe the ultimate conclusion won't believe the
+premise\]."
+
+#### Thoughts about the Ultimate Conclusion
+
+We noted that although this argument is bad, the ultimate conclusion is
+true.
+
+> "(1) Advertisements are designed to get people to buy the product
+> **because** (2) they are designed to sell the product."
+
+![Map of the advertisement argument, with the premise evaluated as assuming the conclusion.](/images/ch01/Advertisement2_P_Eval.png){#fig-1-3-ad-eval-4 width=255px fig-alt="Argument map concluding: 1) Advertisements are designed to get people to buy the product. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-3-ad-eval-4"}
+{{< include /outlines/ch01/Advertisement2_P_Eval_list.md >}}
+:::
+
+Note 1: This argument is bad because it's circular.
+
+Note 2: This argument happens to have a true conclusion.
+
+This shows us that a bad argument can have a true conclusion. If we
+decide that an argument is bad, we should think that *it has not
+established* the truth of the conclusion but we shouldn't take that to
+mean that the conclusion is false. **Bad arguments tell us nothing at
+all about the truth or falsity of their ultimate conclusions.** That's
+useful to remember.
+
+Now let's take a look at another passage.

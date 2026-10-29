@@ -1,0 +1,3 @@
+- 1\) Advertisements are designed to get people to buy the product.
+    - Inference A
+        - 2\) Advertisements are designed to sell the product. (Stopping Point)

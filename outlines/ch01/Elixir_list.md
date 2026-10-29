@@ -1,0 +1,3 @@
+- \(1) Dr. Quack’s Magic Elixir won’t cure your cold.
+    - Inference A
+        - \(2) Dr. Quack’s Magic Elixir is nothing but flavored water. (Stopping Point)
