@@ -62,12 +62,12 @@ text:
 
 The chapters will introduce concepts and skills by walking you through a
 series of examples. As you read each example in the text, focus on
-***understanding*** what we're saying, but don't worry about
+***understanding*** what I'm saying, but don't worry about
 ***remembering*** all of it. Why? Because if you understand it,
 eventually you *will* remember it, but if you *just* remember it, you
-may never understand it. Besides, we'll keep track of the important
+may never understand it. Besides, I'll keep track of the important
 points of each example for you by summarizing these points at the end of
-each example. At the end of each chapter, we'll provide you with a
+each example. At the end of each chapter, I'll provide you with a
 handbook that summarizes the important points of the chapter as a whole.
 You can always return to the example summaries and chapter handbooks to
 remind yourself of the concepts and skills you're learning.
@@ -81,7 +81,7 @@ start to come into focus.
 
 ### 3. End with the Handbook.
 
-As we noted, each of the chapters comes with a handbook that summarizes
+As I noted, each of the chapters comes with a handbook that summarizes
 all of the most important concepts and skills in the textbook up to that
 point.
 
@@ -97,7 +97,7 @@ internalize the handbook and you won't need it anymore, but you can use
 it for as long as you like - for months or for years after you finish
 this book.
 
-If you follow those tips, we're confident that you'll find learning this
+If you follow those tips, I'm confident that you'll find learning this
 material to be manageable and fun! So let's get to it. We'll start by
 defining some important concepts and terms.
 

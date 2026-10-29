@@ -84,8 +84,8 @@ Consider, for example, the following mapped argument:
 {{< include /outlines/ch05/CH_5_Intro_1_AM_Is_Useful_list.md >}}
 :::
 
-This might not be the easiest argument to map, but we're confident that
-you would be able to map it, at least in part because we've stated all
+This might not be the easiest argument to map, but I'm confident that
+you would be able to map it, at least in part because I've stated all
 of the subconclusions.
 
 But suppose the author of this argument doesn't state claim 5, like so:
@@ -151,7 +151,7 @@ that missing conclusion ourselves and rebuild the bridges!*
 {{< include /outlines/ch05/CH_5_Intro_1_Unstated_S_AM_Is_Useful_list.md >}}
 :::
 
-We've actually been training for this since Chapter 3, where we noted
+We've actually been training for this since Chapter 3, where I noted
 that we should fill in the claim that follows from two dependent reasons
 as soon as we have decided that two claims [are]{.underline} dependent
 reasons.
