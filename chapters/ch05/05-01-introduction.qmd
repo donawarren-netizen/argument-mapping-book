@@ -161,3 +161,10 @@ we go along, whether the missing conclusion is a subconclusion (as
 above) or the ultimate conclusion itself!
 
 Let's see how this works by walking through some examples!
+
+## Summary of Introduction
+
+Sometimes, an author will leave a subconclusion unstated. In such
+cases, it’s a good idea for us to supply that missing subconclusion
+because this will help us to see how different parts of the argument
+work together.
