@@ -353,7 +353,7 @@ In this section, we learned some important concepts.
 -   An **argument map** displays the claims and connections that make up
     an argument.
 
-We saw that the four big steps of critical thinking are:
+We saw that the Four Big Steps of critical thinking are:
 
 1.  **Recognizing** arguments,
 
