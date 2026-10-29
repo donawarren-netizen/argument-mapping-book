@@ -235,7 +235,7 @@ indicator expressions have the following (very handy!) features:
 For example, consider this passage:
 
 > "Dr. Quack's Magic Elixir is nothing but flavored water. **Therefore**
-> the Elixir won't cure your cold."
+> the elixir won't cure your cold."
 
 The conclusion ("the elixir won't cure your cold") *follows* the reason
 ("Dr. Quack's Magic Elixir is nothing but flavored water") in the sense
@@ -288,7 +288,7 @@ no matter how the argument is expressed.
 All these passages:
 
 > "(2) Dr. Quack's Magic Elixir is nothing but flavored water.
-> **Therefore** (1) the Elixir won't cure your cold."
+> **Therefore** (1) the elixir won't cure your cold."
 >
 > "(1) Dr. Quack's Magic Elixir won't cure your cold **because** (2)
 > it's nothing but flavored water."
