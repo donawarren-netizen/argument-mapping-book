@@ -326,3 +326,39 @@ strokes, *before* the only alternative to swimming is sinking.
 
 It's time to look at our first example and work through each of the Four
 Big Steps!
+
+## Summary of Introduction
+
+In this section, we learned some important concepts.
+
+-   An **argument** is a unit of reasoning that attempts to establish
+    that one claim is true by citing other claims as evidence.
+
+-   Arguments are made up of **claims and connections** between the
+    claims.
+
+-   The claim that the argument tries to establish as true is called the
+    "**ultimate conclusion**" and sometimes it's just called "the
+    conclusion."
+
+-   Claims that the argument uses as evidence for the ultimate
+    conclusion, but that the argument assumes to be true without
+    providing evidence for them, are called "**premises**."
+
+-   An **inference** is the connection that holds between a set of
+    claims, call it 'R' for 'reason,' and another claim, call it 'C' for
+    'conclusion,' when the truth of the claims in R is supposed to
+    establish the truth of claim C.
+
+-   An **argument map** displays the claims and connections that make up
+    an argument.
+
+We saw that the four big steps of critical thinking are:
+
+1.  **Recognizing** arguments,
+
+2.  **Analyzing** arguments,
+
+3.  **Evaluating** arguments, and
+
+4.  **Constructing** arguments.
