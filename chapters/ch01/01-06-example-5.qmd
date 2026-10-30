@@ -168,7 +168,7 @@ believe, because he's gullible and accepts all premises), he'd be
 strongly inclined to believe that commercials are a boon for students
 everywhere (because he's rational, and it's rational to think that
 students would benefit from boosting their I.Q.). Of course, Gully
-*could* doubt the importance of IQ for academic success, which means
+*could* doubt the importance of I.Q. for academic success, which means
 that Gully isn't *compelled* to think that commercials are a boon for
 students everywhere, but it's reasonable to suppose that Gully
 *probably* would agree with the conclusion once he's told the premise.
@@ -188,7 +188,7 @@ even when we, personally, reject the premises.)
 
 Note: This argument is bad because it has a bad premise.
 
-The Gully Method is a great way to evaluate inferences because it can be
+The Gully Test is a great way to evaluate inferences because it can be
 applied to any argument. It also demonstrates why it's nice to be able
 to evaluate an inference even when we disagree with the premise.
 Evaluating inferences helps us to see how rationally the author of the
@@ -233,7 +233,7 @@ to review the studies myself."
 
 Because we like the inference, we can conclude our evaluation by saying
 something like, "Even though I don't accept that commercials raise
-I.Q.s, I certainly do see how the conclusion would follow from that
+I.Q.'s, I certainly do see how the conclusion would follow from that
 assumption. I agree that if watching commercials did raise I.Q.'s,
 commercials would be a wonderful thing for students!"
 
@@ -475,8 +475,6 @@ make the argument bad as a whole.
 :::
 
 Note: This argument is bad because it has a bad premise.
-
-![](/images/ch01/sad_face.png){.illustration width=40px fig-alt="A sad face."}
 
 Just for practice, we evaluated the inference by asking, **"If a
 perfectly gullible, perfectly rational person (Gully) believes the
