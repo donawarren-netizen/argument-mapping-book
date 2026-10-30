@@ -1,0 +1,3 @@
+- 1\) Cool and Fresh soap must be the best.
+    - Inference A
+        - 2\) This magazine ad shows someone giving a very good presentation at work after using Cool and Fresh soap. \[Evaluation: This premise is good.\] (Stopping Point)

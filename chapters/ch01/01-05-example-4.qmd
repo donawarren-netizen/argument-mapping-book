@@ -1,0 +1,437 @@
+# 1.5 Example 4
+
+## Step 1 – Recognizing an Argument
+
+Let's consider the following passage, asking ourselves **"What is this
+passage doing? Is it trying to convince us that something is true?"**
+
+> "Are you wondering which brand of soap is the superior product? This
+> magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, so Cool and Fresh soap must be the
+> best."
+
+I think that this passage does contain an argument because it's trying
+to establish that one claim is true by citing other claims as evidence.
+There's an inference indicator in this passage as well, the little word
+"so," which can help us to see that reasons are being given to support a
+claim.
+
+> "Are you wondering which brand of soap is the superior product? This
+> magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** Cool and Fresh soap must be
+> the best."
+
+## Step 2 – Analyzing the Argument
+
+We'll start to analyze this argument by identifying the ultimate
+conclusion, asking ourselves, **"What is the ultimate conclusion, or the
+main claim that this argument is trying to get us to believe?"**
+
+Because inference indicator expressions can help us out here, let's
+focus on the "so." To determine whether "so" is a conclusion indicator
+expression or a reason indicator expression, let's replace the "so" with
+"therefore," then replace the "so" with "because," and see which passage
+is more like the original.
+
+In this case, we get
+
+> "Are you wondering which brand of soap is the superior product? This
+> magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **therefore** Cool and Fresh soap
+> must be the best."
+
+and
+
+> "Are you wondering which brand of soap is the superior product? This
+> magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **because** Cool and Fresh soap must
+> be the best."
+
+Since it seems as though the first passage is more similar to the
+original, "so" works like "therefore" and not like "because." It's a
+conclusion indicator expression, not a reason indicator expression.
+
+(By the way, this is a nice way to determine whether an inference
+indicator expression is a conclusion indicator expression or a reason
+indicator expression. First replace the expression with "therefore";
+then replace it with "because," and see which passage is more like the
+original. Of course, you can look at the list of inference expressions,
+too, but sometimes you won't have that list handy and some inference
+indicator expressions aren't on the list, so it's a good idea to have a
+way to figure this out for yourself when you need to.)
+
+Because "so" is a conclusion indicator expression, we know that "Cool
+and Fresh soap must be the best" is the conclusion of this argument.
+
+> "Are you wondering which brand of soap is the superior product? This
+> magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** (1) Cool and Fresh soap must
+> be the best."
+
+Returning to the beginning of the passage, our next questions are,
+**"What else is being claimed?"** and **"Is this claim part of the
+argument?"** With this in mind, what should we do with the first
+sentence, "Are you wondering which brand of soap is the superior
+product?"
+
+That sentence is the first question that we've encountered in a passage
+that contains an argument. Is it part of the argument itself?
+
+Well, arguments are composed of claims. Claims are either true or false
+(even if we're not sure which it is), so a test for determining whether
+or not a sentence expresses a claim is to see whether or not it makes
+any sense for us to agree or disagree with it.
+
+When we apply that test, we see that **questions usually don't convey
+claims because they usually can't be true or false.** If I asked you
+"Are you wondering which brand of soap is the superior product?" you
+could answer "No. I'm not wondering which brand of soap is the superior
+product," but you couldn't really sensibly say "False! That question is
+false!" Normally, then, questions don't convey claims at all and so
+won't be included in our list of important claims. Let's just ignore the
+first sentence of this passage.
+
+****
+
+(Will we always be ignoring questions? No. In a subsequent chapter,
+we'll see special kinds of questions that *do* in fact convey claims,
+but for now we'll be ignoring questions because *normal* questions can't
+be true or false and because in this chapter we'll only be dealing with
+normal questions like that.)
+
+Finally, what should we do with the sentence "This magazine ad shows
+someone giving a very good presentation at work after using Cool and
+Fresh soap"? Does that convey a claim that's part of the argument?
+
+I think so. For one thing, if we don't include it, we'll have only one
+claim -- the ultimate conclusion. And if we only have one claim -- the
+ultimate conclusion -- we won't have any support for the ultimate
+conclusion and so won't have an argument. For another thing, this claim
+is connected to our ultimate conclusion with a "so," which indicates
+that there will be an inference going from one of these claims to the
+other. We definitely want to include this claim in the argument.
+
+> "Are you wondering which brand of soap is the superior product? (2)
+> This magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** (1) Cool and Fresh soap must
+> be the best."
+
+With these claims identified, we can ask ourselves, **"How are these
+claims connected to each other?"** And, as will often be the case, the
+inference indicator expression tells us. Because "so" is a conclusion
+indicator expression, we know that claim 1 follows from claim 2. That
+gives us the following argument map:
+
+> "Are you wondering which brand of soap is the superior product? (2)
+> This magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** (1) Cool and Fresh soap must
+> be the best."
+
+![Map of the soap advertisement argument.](/images/ch01/Advertisement4.png){#fig-1-5-ad-1 width=313px fig-alt="Argument map concluding: 1) Cool and Fresh soap must be the best. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-5-ad-1"}
+{{< include /outlines/ch01/Advertisement4_list.md >}}
+:::
+
+## Step 3 – Evaluating the Argument
+
+We've learned to evaluate premises by asking ourselves **"Is this
+premise true?"** and **"Could someone who doesn't already believe the
+ultimate conclusion believe this premise?"** so let's do that here.
+
+Our premise is "This magazine ad shows someone giving a very good
+presentation at work after using Cool and Fresh soap." Is that true? Of
+course we're not looking at the magazine ad right now, but let's take
+for granted that the premise is true.
+
+Now, could someone who doesn't already believe the conclusion, "Cool and
+Fresh soap must be the best," believe the premise? I think so. This
+means that we've finally seen an argument with a good premise!
+
+> "Are you wondering which brand of soap is the superior product? (2)
+> This magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** (1) Cool and Fresh soap must
+> be the best."
+
+![Map of the soap advertisement argument, with the premise evaluated as good.](/images/ch01/Advertisement4_P_Eval.png){#fig-1-5-ad-p-eval-1 width=313px fig-alt="Argument map concluding: 1) Cool and Fresh soap must be the best. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-5-ad-p-eval-1"}
+{{< include /outlines/ch01/Advertisement4_P_Eval_list.md >}}
+:::
+
+But is this a *good argument?* Does it, in other words, establish that
+its conclusion is probably true? I don't think so. **The problem with
+this argument lies with the inference**.
+
+An inference, remember, is the connection that holds between two claims
+when the truth of one of them (in this case, claim 2) is supposed to
+establish the truth of the other (in this case, claim 1).
+
+But claim 2 in this argument *doesn't* establish the truth of claim 1.
+The fact that a magazine ad shows someone giving a very good
+presentation at work after using Cool and Fresh soap (claim 2) doesn't
+establish that Cool and Fresh soap is the best (claim 1) because a
+photograph and some dialogue doesn't establish that there's any causal
+relationship between Cool and Fresh soap and strong performance on the
+job. (And, even if there *were* such a relationship, it wouldn't be
+enough to prove that Cool and Fresh soap is the best since many other
+soaps might have the same result, since Cool and Fresh soap could have
+nasty side effects, and so on.) In short, *the connection between the
+premise and conclusion here isn't very strong*. The inference in this
+argument is pretty bad.
+
+Remember how we call an objection that asserts that a premise is false a
+"'not so' objection" because it looks at that premise and says, in
+effect, "That's not so"? We'll call an objection that asserts that an
+inference is weak a "'so what' objection" because it looks at a claim
+and says, in effect, "So what? Even if this is true, we can't safely
+arrive at the conclusion from here because the bridge is so bad."
+
+We can note in the map that the inference is bad.
+
+> "Are you wondering which brand of soap is the superior product? (2)
+> This magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** (1) Cool and Fresh soap must
+> be the best."
+
+![Map of the soap advertisement argument, with the premise evaluated as good and the inference evaluated as bad.](/images/ch01/Advertisement4_I_Eval.png){#fig-1-5-ad-i-eval-1 width=313px fig-alt="Argument map concluding: 1) Cool and Fresh soap must be the best. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-5-ad-i-eval-1"}
+{{< include /outlines/ch01/Advertisement4_I_Eval_list.md >}}
+:::
+
+And because this bad inference prevents the argument from establishing
+the ultimate conclusion, this argument is bad.
+
+> "Are you wondering which brand of soap is the superior product? (2)
+> This magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** (1) Cool and Fresh soap must
+> be the best."
+
+![Map of the soap advertisement argument, with the premise evaluated as good and the inference evaluated as bad.](/images/ch01/Advertisement4_I_Eval.png){#fig-1-5-ad-i-eval-2 width=313px fig-alt="Argument map concluding: 1) Cool and Fresh soap must be the best. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-5-ad-i-eval-2"}
+{{< include /outlines/ch01/Advertisement4_I_Eval_list.md >}}
+:::
+
+Note: This argument is bad because it has a bad inference.
+
+### Evaluating Inferences and the Map Analogy
+
+As we've seen, it's often helpful to think of an argument like an
+attempt to direct us to a big, golden, boulder. The premise is the
+boulder that we start from. The ultimate conclusion is our destination.
+And the inference is the bridge that connects the two.
+
+![](/images/ch01/ladder_good.png){.illustration width=141px fig-alt="A sturdy wooden ladder leads from a gray boulder up to a golden boulder."}
+
+Examples 1 and 2 showed us that if we can't stand on our starting
+boulder (because the premise is false or assumes the conclusion), the
+argument won't help us reach the golden boulder.
+
+![](/images/ch01/ladder_cracked_boulder.png){.illustration width=121px fig-alt="A wooden ladder leads up to a golden boulder, but the gray boulder it stands on is split by a crack."}
+
+Now we've learned that we might not be able to reach the golden boulder
+because the bridge breaks down. Accordingly, if the inference is weak
+then the argument is bad too.
+
+![](/images/ch01/ladder_broken.png){.illustration width=172px fig-alt="A wooden ladder rises from a gray boulder toward a golden boulder, but the ladder is snapped in two in the middle."}
+
+Just like a dependable path needs to give us boulders we can stand on
+and bridges that are strong, a good argument needs good premises and
+good inferences. And just as boulders and bridges are not the same,
+**premises and inferences are very different things**.
+
+### The "Gully Test" for Evaluating Inferences
+
+Because premises and inferences are such different things, and because
+it's *very* easy to confuse our evaluation of a premise with our
+evaluation of an inference, we'll evaluate inferences with the
+"Perfectly Gullible but Perfectly Rational Person (Gully) Test." To use
+this test, we ask ourselves, **"If a perfectly gullible, perfectly
+rational person (we could call him 'Gully' for short) believes the
+reasons, how likely is that person to believe the conclusion?"** If
+Gully is highly likely to believe the conclusion on the basis of the
+reasons, then the inference is good. If Gully is not likely to believe
+the conclusion on the basis of the reasons, then the inference is bad.
+
+It's easy to see how this test would indicate that the inference in the
+argument that we're looking at is bad. If we tell Gully, "The magazine
+ad shows someone giving a presentation at work after using Cool and
+Fresh soap," Gully would not, on the basis of that, be inclined to think
+that Cool and Fresh soap must be the best. Gully is rational, after all,
+so he'd have all the concerns about the inference that we do.
+
+The Gully Test can really help us out -- but please remember that the
+Gully Test is used to evaluate inferences and *not* to evaluate
+premises! Since Gully believes everything we tell him and since we'll be
+telling him to believe all of the premises, Gully will like *all*
+premises, no matter how outlandish! We just can't depend upon Gully to
+help us decide whether or not a premise is good; he's far too gullible
+for that. According to Gully, *all* premises are good.
+
+### Communicating Our Evaluation
+
+Although our evaluation of an inference should be unaffected by our
+assessment of the reasons from which the inference stems, the way in
+which we *communicate* that assessment will often be a function of our
+attitude toward that reason.
+
+If we happen to like the reason in an inference but think that the
+inference is bad, we can use the **"just because... it doesn't follow
+that..."** construction, saying "Just because \[state the reason here\],
+it doesn't follow that \[state the conclusion here\] because \[explain
+how the reason can be true and the conclusion false at the same time\]."
+
+In the case of the argument we've evaluated, for instance, we can say,
+"Just because this magazine ad shows someone giving a very good
+presentation at work after using Cool and Fresh soap, it doesn't follow
+that Cool and Fresh soap must be the best because a photograph and some
+dialogue doesn't establish that there's any causal relationship between
+Cool and Fresh soap and strong performance on the job."
+
+Of course, if we *don't* happen to like the reason in an inference then
+we *won't* want to use the "Just because... it doesn't follow that..."
+construction, because that will sound like we endorse the reason. We
+will, instead, want to use the **"Even if... it wouldn't follow
+that..."** construction, saying "Even if \[state the reason here\], it
+wouldn't follow that \[state the conclusion here\] because \[explain how
+the reason can be true and the conclusion false at the same time\]."
+
+For example, suppose we discover that the magazine ad was *not* for Cool
+and Fresh soap but was, instead, for Rise and Shine energy supplement.
+In that case, we would say, "Even if this magazine ad showed someone
+giving a very good presentation at work after using Cool and Fresh soap
+(which, of course, it doesn't because the ad is for an energy
+supplement), it wouldn't follow that Cool and Fresh soap must be the
+best because a photograph and some dialogue doesn't establish that
+there's any causal relationship between Cool and Fresh soap and strong
+performance on the job."
+
+## Summary of Example 4
+
+The passage we considered in this example was:
+
+> "Are you wondering which brand of soap is the superior product? This
+> magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, so Cool and Fresh soap must be the
+> best."
+
+### Step 1 – Recognizing an Argument
+
+We asked, **"What is this passage doing? Is it trying to convince us
+that something is true?"**
+
+We decided that this passage is trying to convince us of something and
+so does contain an argument. The inference indicator expression "so"
+helped us, too.
+
+> "Are you wondering which brand of soap is the superior product? This
+> magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** Cool and Fresh soap must be
+> the best."
+
+### Step 2 – Analyzing the Argument
+
+We began our analysis of the argument by asking, **"What is the ultimate
+conclusion, or the main claim that this argument is trying to get us to
+believe?"**
+
+The fact that "so" is a conclusion indicator expression points to "Cool
+and Fresh soap must be the best" as the ultimate conclusion.
+
+> "Are you wondering which brand of soap is the superior product? This
+> magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** (1) Cool and Fresh soap must
+> be the best."
+
+At this point, we returned to the beginning of the passage and asked,
+**"What else is being claimed?"** and **"Is this claim part of the
+argument?"**
+
+Because the first sentence is a question and because questions don't
+usually convey claims, it's not part of the argument. We ignored it.
+
+"This magazine ad shows someone giving a very good presentation at work
+after using Cool and Fresh soap," on the other hand, is part of the
+argument.
+
+> "Are you wondering which brand of soap is the superior product? (2)
+> This magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** (1) Cool and Fresh soap must
+> be the best."
+
+At this point, we asked, **"How are these claims connected to each
+other?"** "So" has already allowed us to see that claim 1 is a
+conclusion following from claim 2, so we mapped the argument like this:
+
+> "Are you wondering which brand of soap is the superior product? (2)
+> This magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** (1) Cool and Fresh soap must
+> be the best."
+
+![Map of the soap advertisement argument.](/images/ch01/Advertisement4.png){#fig-1-5-ad-2 width=313px fig-alt="Argument map concluding: 1) Cool and Fresh soap must be the best. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-5-ad-2"}
+{{< include /outlines/ch01/Advertisement4_list.md >}}
+:::
+
+### Step 3 – Evaluating the Argument
+
+We evaluated the premise by asking **"Is this premise true?"** and
+**"Could someone who doesn't already believe the ultimate conclusion
+believe this premise?"** Because the answer to both of these questions
+was "yes," we decided that the premise is good.
+
+> "Are you wondering which brand of soap is the superior product? (2)
+> This magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** (1) Cool and Fresh soap must
+> be the best."
+
+![Map of the soap advertisement argument, with the premise evaluated as good.](/images/ch01/Advertisement4_P_Eval.png){#fig-1-5-ad-p-eval-2 width=313px fig-alt="Argument map concluding: 1) Cool and Fresh soap must be the best. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-5-ad-p-eval-2"}
+{{< include /outlines/ch01/Advertisement4_P_Eval_list.md >}}
+:::
+
+Unfortunately, the inference between the premise and the conclusion is
+weak. We saw this by asking, **"If a perfectly gullible, perfectly
+rational person (we could call him 'Gully' for short) believes the
+premise, how likely is that person to believe the conclusion?"** Gully
+could easily believe claim 2 without accepting claim 1, so inference A
+is bad. That's enough to make the argument bad as a whole.
+
+> "Are you wondering which brand of soap is the superior product? (2)
+> This magazine ad shows someone giving a very good presentation at work
+> after using Cool and Fresh soap, **so** (1) Cool and Fresh soap must
+> be the best."
+
+![Map of the soap advertisement argument, with the premise evaluated as good and the inference evaluated as bad.](/images/ch01/Advertisement4_I_Eval.png){#fig-1-5-ad-i-eval-3 width=313px fig-alt="Argument map concluding: 1) Cool and Fresh soap must be the best. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-5-ad-i-eval-3"}
+{{< include /outlines/ch01/Advertisement4_I_Eval_list.md >}}
+:::
+
+Note: This argument is bad because it has a bad inference.
+
+An objection to an argument that asserts that an inference is weak is a
+"'so what' objection" because it looks at a premise and says, in effect,
+"So what?"
+
+Although our assessment of an inference shouldn't be affected by our
+assessment of the premise, the way that we *express* our criticism of an
+inference *will* be influenced by our attitude toward the premise.
+
+-   If we happen to like the reason in an inference but think that the
+    inference is bad, we can use the "just because... it doesn't follow
+    that..." construction, saying "Just because \[state the reason
+    here\], it doesn't follow that \[state the conclusion here\] because
+    \[explain how the reason can be true and the conclusion false at the
+    same time\]."
+
+-   If we don't happen to like the reason in an inference but think that
+    the inference is bad, we can use the "Even if... it wouldn't follow
+    that..." construction, saying "Even if \[state the reason here\], it
+    wouldn't follow that \[state the conclusion here\] because \[explain
+    how the reason can be true and the conclusion false at the same
+    time\]."
