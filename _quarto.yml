@@ -19,6 +19,7 @@ book:
         - chapters/ch01/01-01-introduction.qmd
         - chapters/ch01/01-02-example-1.qmd
         - chapters/ch01/01-03-example-2.qmd
+        - chapters/ch01/01-04-example-3.qmd
     - part: "Chapter 5: Missing Conclusions"
       chapters:
         - chapters/ch05/05-01-introduction.qmd

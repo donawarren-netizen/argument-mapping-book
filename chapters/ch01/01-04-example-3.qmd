@@ -1,0 +1,153 @@
+# 1.4 Example 3
+
+## Step 1 – Recognizing an Argument
+
+As usual, we'll start by deciding if a passage contains an argument. Ask
+yourself, **"What is this passage doing? Is it trying to convince us
+that something is true?"**
+
+> "Television advertising is some of the most expensive. There's nothing
+> wrong with tricking people into buying things they don't need."
+
+If this passage contained an argument, it would be trying to convince us
+that something is true. And since it only makes two claims, either it
+would be trying to convince us that television advertising is some of
+the most expensive or it would be trying to convince us that there's
+nothing wrong with tricking people into buying things they don't need.
+
+Is it trying to convince us of either of these things?
+
+On the one hand, if this passage were trying to establish that
+television advertising is some of the most expensive, the evidence would
+have to be the claim that there's nothing wrong with tricking people
+into buying things they don't need. But how can the claim that there's
+nothing wrong with tricking people into buying things they don't need
+prove that television advertising is some of the most expensive? I don't
+see it.
+
+On the other hand, if the passage were trying to establish that there's
+nothing wrong with tricking people into buying things they don't need,
+the evidence would have to be the claim that television advertising is
+some of the most expensive. But how can the claim that television
+advertising is some of the most expensive show that there's nothing
+wrong with tricking people into buying things they don't need? Again, I
+don't see it.
+
+Since this passage is simply making claims, without attempting to prove
+any of them true, it doesn't contain an argument.
+
+****
+
+(It's also useful to note, at this point, that the passage doesn't
+contain any inference indicator expressions. This is a good reason to at
+least *suspect* that the passage doesn't contain an argument, but we
+can't rely on this too heavily because later on we'll be seeing
+arguments without inference indicator expressions.)
+
+This is the sort of passage that many people mistakenly think contains
+an argument, though. Can you guess why?
+
+### Two Common Mistakes When It Comes to Recognizing Arguments
+
+#### 1) Disagreement
+
+First, because the word "argument" can mean "disagreement," it's easy,
+but incorrect, to think that any passage with which someone could
+disagree must contain an argument. Certainly, someone could disagree
+with this passage, maintaining that there *is* something wrong with
+tricking people into buying things they don't need, but **the fact that
+someone could disagree with this passage, and argue against it, doesn't
+mean that the passage itself *contains* an argument.**
+
+#### 2) "Fact" vs. "Opinion"
+
+The second reason someone might mistakenly think that this passage
+contains an argument, even though it doesn't (and might mistakenly think
+that other passages *don't* contain arguments, when in fact they *do*),
+has to do with the distinction between fact and opinion.
+
+Some people would say that this passage must contain an argument because
+it deals with opinion, thinking that arguments can't concern themselves
+with facts. Other people would disagree and say that arguments *must*
+concern themselves with facts and that any passage that traffics in
+opinion can't be an argument. So, who's right?
+
+Well, what's a fact? Presumably, "Television advertisements are more
+expensive, per minute, than radio advertisements" and "The chemical
+composition of water is H~2~O" express facts. We're inclined to see them
+as facts, I think, because we recognize that they are true regardless of
+whether or not we happen to believe them (television ads can be more
+expensive than radio ads even if I think otherwise, and my views about
+water don't change its chemical composition) and because there are
+relatively objective ways that we can prove them to be true (we can
+compare advertising costs, for example, or run chemical experiments).
+
+Facts certainly can figure in arguments, both as premises and as
+conclusions. We might use the fact that television ads are more
+expensive than radio ads as a reason to believe that we should take out
+a radio ad, for example, and we can appeal to experimental results to
+prove that the chemical composition of water is H~2~O. Conversely, facts
+can appear in passages that aren't arguments. "The chemical composition
+of water is H~2~O. The chemical composition of hydrogen peroxide is
+H~2~O~2~. And the chemical composition of carbon dioxide is CO~2~," for
+instance, just lists three chemical facts and isn't an argument. In
+short, **we can't conclude that a passage does or does not contain an
+argument from the statement of facts in the passage; maybe there's an
+argument there; maybe there isn't**.
+
+Now what about opinions? What are *they* and what is their relationship
+to arguments? Frequently people use the word "opinion" to describe
+beliefs that, unlike facts, lack clear-cut objective proof. Some
+philosophers think that value judgments are like this. Aesthetic value
+judgments, like "That advertisement is a work of art," often can't be
+settled to everyone's satisfaction, and no scientific evidence can
+conclusively establish an ethical value judgment, like "There's nothing
+wrong with tricking people into buying things they don't need."
+
+But none of this prevents opinions from properly appearing in arguments,
+both as premises and as conclusions. We might use our opinion that an
+advertisement is a work of art as a premise in an argument for the
+ultimate conclusion that the advertisement deserves museum space, for
+example. This argument won't convince people who don't share our view
+about the advertisement, but it might convince some people and if our
+opinion happens to be *true* then it can prove that the ultimate conclusion
+is true. Similarly, we might give an argument for the conclusion that
+the advertisement is a work of art, and thereby bring more people to
+share our opinion, so there's nothing necessarily wrong with opinions
+showing up in arguments. Conversely, opinions can appear in passages
+that aren't arguments. "This advertisement is a work of art. It's
+morally wrong to market cigarettes to children. No commercials for
+alcoholic beverages should be run on television before nine in the
+evening," for example, just lists three opinions and isn't an argument.
+In short, **we can't conclude that a passage does or does not contain an
+argument from the presence of opinions in the passage; maybe there's an
+argument there; maybe there isn't.**
+
+In general, the "fact" vs. "opinion" distinction isn't a particularly
+helpful one for us.
+
+Let's summarize what we've learned from this passage.
+
+## Summary of Example 3
+
+Example 3 presented us with this passage:
+
+> "Television advertising is some of the most expensive. There's nothing
+> wrong with tricking people into buying things they don't need."
+
+### Step 1 – Recognizing an Argument
+
+We asked, **"What is this passage doing? Is it trying to convince us
+that something is true?"**
+
+This time, we decided that the passage *wasn't* trying to convince us of
+anything, so we decided that it doesn't contain an argument.
+
+Reflecting upon this example shows us that:
+
+-   not every passage with which we can disagree, or argue, contains an
+    argument.
+
+-   the "fact" vs. "opinion" distinction doesn't help us much.
+
+Now let's take a look at another passage.
