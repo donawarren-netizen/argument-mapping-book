@@ -1,0 +1,3 @@
+- Lee is a Martian.
+    - Inference A
+        - Lee is a green-blooded Martian. (Stopping Point)

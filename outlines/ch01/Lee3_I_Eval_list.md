@@ -1,0 +1,3 @@
+- Lee likes pepperoni pizza.
+    - Inference A \[Evaluation: This inference is bad.\]
+        - Lee is a green-blooded Martian. (Stopping Point)

@@ -1,0 +1,3 @@
+- Lee believes in extra-terrestrial life.
+    - Inference A \[Evaluation: This inference is good but not perfect.\]
+        - Lee is a green-blooded Martian. (Stopping Point)

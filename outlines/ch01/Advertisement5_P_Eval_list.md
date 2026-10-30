@@ -1,0 +1,3 @@
+- 1\) Commercials are a boon for students everywhere.
+    - Inference A
+        - 2\) Studies have shown that each commercial watched safely and permanently increases the viewer’s I.Q. by an average of 5 points. \[Evaluation: This premise is false.\] (Stopping Point)

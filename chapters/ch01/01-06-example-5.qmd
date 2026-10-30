@@ -1,0 +1,506 @@
+# 1.6 Example 5
+
+## Step 1 – Recognizing an Argument
+
+Take a look at the following passage and ask yourself, **"What is this
+passage doing? Is it trying to convince us that something is true?"**
+
+> "Commercials are a boon for students everywhere, since studies have
+> shown that each commercial watched safely and permanently increases
+> the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+I'd say that this passage contains an argument because it's trying to
+prove that one claim is true by citing other claims as evidence. There's
+an inference indicator in this passage that might help us to see this,
+too. Did you spot it? It's "since."
+
+> "Commercials are a boon for students everywhere, **since** studies
+> have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+## Step 2 – Analyzing the Argument
+
+As usual, we'll begin our analysis of the argument by asking, **"What is
+the ultimate conclusion, or the main claim that this argument is trying
+to get us to believe?"**
+
+The inference indicator expression "since" can help us once we decide if
+it's a conclusion indicator or a reason indicator. So which is it? Does
+"since" introduce a conclusion (making it a conclusion indicator
+expression like "therefore") or does it introduce a reason to believe
+something else (making it a reason indicator expression like "because")?
+
+Let's figure it out by first replacing the "since" with "therefore,"
+then replacing the "since" with "because," and seeing which passage
+sounds more like the original.
+
+Here's the original:
+
+> "Commercials are a boon for students everywhere, **since** studies
+> have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+Here's what we get when we replace "since" with "therefore":
+
+> "Commercials are a boon for students everywhere, **therefore** studies
+> have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+And here's what we get when we replace "since" with "because":
+
+> "Commercials are a boon for students everywhere, **because** studies
+> have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+It seems to me that the second passage is more like the original, which
+means that "since" is more like "because." It's a reason indicator
+expression. This tells us that "studies have shown that each commercial
+watched safely and permanently increases the viewer's I.Q. by an average
+of 5 points" is being given as a reason to believe "Commercials are a
+boon for students everywhere." And this, in turn, means that
+"Commercials are a boon for students everywhere" is the conclusion.
+
+> "(1) Commercials are a boon for students everywhere, **since** studies
+> have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+Our next questions are, **"What else is being claimed?"** and **"Is this
+claim part of the argument?"**
+
+The claim "studies have shown that each commercial watched safely and
+permanently increases the viewer's I.Q. by an average of 5 points" is
+definitely important. We know this because it's introduced with the word
+"since." Because "since" is a reason indicator expression, this shows
+that the claim that follows it is being given as a reason in support of
+something else.
+
+> "(1) Commercials are a boon for students everywhere, **since** (2)
+> studies have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+But what about the last sentence, "Imagine that!"? Should this go in our
+list?
+
+As we've seen, claims are either true or false, so a test for
+determining whether or not a sentence expresses a claim is to see
+whether or not it makes any sense for us to agree or disagree with it.
+We've also seen that questions (like "What is the evidence for that?")
+can't be true or false and so don't convey claims.
+
+Sentences that tell us to do something, like "Buy this product," and
+"Please change the channel" can't be true or false either, since it
+wouldn't make much sense for you to say "False!" if I said, "Buy this
+product" or "Please change the channel." (Of course, you could refuse to
+*obey* me, but that's not the same as saying that my order or request
+is false.) We'll call these kinds of sentences "commands." **Commands
+usually don't convey claims because they usually can't be true or
+false** and so they won't be included in the argument. Let's just ignore
+the last sentence of this passage.
+
+(Will we always be ignoring commands? No. As with questions, in a
+subsequent chapter we'll see special kinds of commands that do in fact
+convey claims, but for now we'll be ignoring commands because *normal*
+commands can't be true or false and because in this chapter we'll only
+be dealing with normal commands.)
+
+Now that we have some claims identified, we can ask, **"How are these
+claims connected to each other?"** And as often happens, there's an
+inference indicator expression to help us out. (Whenever you see
+inference indicator expressions, take full advantage of them! They live
+to serve.) The "since" tells us that claim 2 is being given as a reason
+to believe claim 1, so we'll map the argument like this:
+
+> "(1) Commercials are a boon for students everywhere, **since** (2)
+> studies have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+![Map of the commercials argument.](/images/ch01/Advertisement5.png){#fig-1-6-ad-1 width=289px fig-alt="Argument map concluding: 1) Commercials are a boon for students everywhere. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-ad-1"}
+{{< include /outlines/ch01/Advertisement5_list.md >}}
+:::
+
+We're now ready to evaluate this argument.
+
+## Step 3 – Evaluating the Argument
+
+Let's start with the premise, "studies have shown that each commercial
+watched safely and permanently increases the viewer's I.Q. by an average
+of 5 points," asking, **"Is this premise true?"** and **"Could someone
+who doesn't already believe the ultimate conclusion believe this
+premise?"**
+
+I'd say that this premise is bad because it's false. (At least I
+strongly *suspect* that it's false.) And if a premise is false, we don't
+need to worry about whether it assumes the conclusion. That's enough, on
+its own, to make the argument bad.
+
+> "(1) Commercials are a boon for students everywhere, **since** (2)
+> studies have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+![Map of the commercials argument, with the premise evaluated as false.](/images/ch01/Advertisement5_P_Eval.png){#fig-1-6-ad-p-eval-1 width=289px fig-alt="Argument map concluding: 1) Commercials are a boon for students everywhere. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-ad-p-eval-1"}
+{{< include /outlines/ch01/Advertisement5_P_Eval_list.md >}}
+:::
+
+Note: This argument is bad because it has a bad premise.
+
+But even though this argument is bad, let's talk about it some more. In
+particular, let's examine the inference, just for practice. What do you
+think? Is the connection between the premise and the conclusion strong?
+
+It's very tempting to say that this inference is bad, thinking that
+because claim 2 is *false* it can't establish the truth of 1. But this
+way of thinking is mistaken since it doesn't really focus on the
+*inference*. It focuses on the premise instead, and (as we've seen)
+inferences are not premises.
+
+Remember the Gully Test for evaluating inferences? Let's use it now.
+We'll ask ourselves, **"If a perfectly gullible, perfectly rational
+person (Gully) believes the reasons, how likely is he to believe the
+conclusion?"** What do you think?
+
+It seems to me that if Gully believes that each commercial watched
+increases the viewer's I.Q. by an average of 5 points (which he would
+believe, because he's gullible and accepts all premises), he'd be
+strongly inclined to believe that commercials are a boon for students
+everywhere (because he's rational, and it's rational to think that
+students would benefit from boosting their I.Q.). Of course, Gully
+*could* doubt the importance of IQ for academic success, which means
+that Gully isn't *compelled* to think that commercials are a boon for
+students everywhere, but it's reasonable to suppose that Gully
+*probably* would agree with the conclusion once he's told the premise.
+This means that the inference is good, even though the premise is bad.
+(The Gully Test is designed to help us to appreciate good inferences
+even when we, personally, reject the premises.)
+
+> "(1) Commercials are a boon for students everywhere, **since** (2)
+> studies have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+![Map of the commercials argument, with the premise evaluated as false and the inference evaluated as good.](/images/ch01/Advertisement5_I_Eval.png){#fig-1-6-ad-i-eval-1 width=292px fig-alt="Argument map concluding: 1) Commercials are a boon for students everywhere. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-ad-i-eval-1"}
+{{< include /outlines/ch01/Advertisement5_I_Eval_list.md >}}
+:::
+
+Note: This argument is bad because it has a bad premise.
+
+The Gully Method is a great way to evaluate inferences because it can be
+applied to any argument. It also demonstrates why it's nice to be able
+to evaluate an inference even when we disagree with the premise.
+Evaluating inferences helps us to see how rationally the author of the
+argument is thinking, and it's very useful to realize when the author is
+thinking rationally, *especially if* the author has beliefs, expressed
+as premises, that we don't share—as is the case here.
+
+This argument is still *bad*, of course, because the premise is still
+bad. An argument is good only if it establishes the truth of its
+ultimate conclusion. Since the premise is false, it can't establish that
+the ultimate conclusion is true. The good inference isn't enough to save
+this argument but it's nice to see that the inference *is* good because
+it enables us to see that even though we disagree with the author's
+premise, we agree with the author's 'logic,' so to speak.
+
+### Communicating Our Evaluation
+
+We've already seen that we shouldn't criticize the person offering the
+argument or make their mistakes seem outrageous. It's even *better* if
+we can **find something in the argument with which we *agree***. This
+shows that we respect the author of the argument, and *that* helps to
+build the trust necessary to talk about controversial subjects and solve
+difficult problems.
+
+This argument, for instance, has a false premise but a reasonably good
+inference.
+
+> "(1) Commercials are a boon for students everywhere, **since** (2)
+> studies have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+![Map of the commercials argument, with the premise evaluated as false and the inference evaluated as good.](/images/ch01/Advertisement5_I_Eval.png){#fig-1-6-ad-i-eval-2 width=292px fig-alt="Argument map concluding: 1) Commercials are a boon for students everywhere. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-ad-i-eval-2"}
+{{< include /outlines/ch01/Advertisement5_I_Eval_list.md >}}
+:::
+
+Because we think the premise is false, we can say something like, "This
+argument assumes that studies have shown that commercials raise a
+viewer's I.Q. and that seems unlikely to me. At the very least, I'd want
+to review the studies myself."
+
+Because we like the inference, we can conclude our evaluation by saying
+something like, "Even though I don't accept that commercials raise
+I.Q.s, I certainly do see how the conclusion would follow from that
+assumption. I agree that if watching commercials did raise I.Q.'s,
+commercials would be a wonderful thing for students!"
+
+### Valid, Good, and Bad Inferences
+
+Evaluating inferences can be a little tricky, so let's think about it
+some more.
+
+#### Valid Inferences
+
+To better understand how the strength of the inference between two
+claims is independent of the actual truth of either claim, let's
+consider the inference from the premise, "Lee is a green-blooded
+Martian," to the conclusion, "Lee is a Martian."
+
+![Map of the inference from "Lee is a green-blooded Martian" to "Lee is a Martian."](/images/ch01/Lee1.png){#fig-1-6-lee1 width=260px fig-alt="Argument map concluding: Lee is a Martian. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-lee1"}
+{{< include /outlines/ch01/Lee1_list.md >}}
+:::
+
+I very much doubt that the claims in this argument are true, but we're
+not considering the truth of the claims. We're focusing on the
+*connection* or *inference* between these two claims, and *that* seems
+to be excellent because if "Lee is a green-blooded Martian" *were* true
+then "Lee is a Martian" would have to be true as well.
+
+We can see this with the Gully Test. We tell Gully, "You know, Lee is a
+green-blooded Martian." Gully, being gullible, would probably say, "Wow.
+That's interesting!" How likely would Gully be to believe that Lee is a
+Martian at that point? Gully simply couldn't *avoid* thinking that Lee
+is a Martian! To think that Lee is a green-blooded Martian without
+thinking that Lee is a Martian would be irrational. And Gully is
+rational. The conclusion is forced upon Gully, once Gully accepts the
+premise.
+
+We call perfect inferences like this "valid inferences." **When we say
+that an inference is valid, we mean that if the premise were true (which
+it might not actually be) then the conclusion would *have* to be true as
+well (which, again, it might not actually be)**.
+
+![Map of the inference from "Lee is a green-blooded Martian" to "Lee is a Martian," evaluated as valid.](/images/ch01/Lee1_I_Eval.png){#fig-1-6-lee1-eval width=289px fig-alt="Argument map concluding: Lee is a Martian. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-lee1-eval"}
+{{< include /outlines/ch01/Lee1_I_Eval_list.md >}}
+:::
+
+(By the way, whenever we use the word "valid" we'll be referring to
+inferences. Outside logic and critical thinking, we can talk about a
+point or claim being valid. But not here. Here only *inferences* are
+valid. For us, points and claims aren't valid; they're good or bad, true
+or false, but they aren't valid or invalid.)
+
+#### Good Inferences
+
+Of course, not every inference is valid. In fact, very few inferences
+are valid. "Valid," after all, means "perfect" and almost *everything*
+falls short of perfection. Almost all inferences are imperfect, or
+*invalid*.
+
+When we say that the inference between a reason and a conclusion is
+*good* (although not perfect), we mean that if the reason were true then
+the conclusion would *most likely* be true as well, although it
+wouldn't *have* to be true.
+
+For example, consider the inference from the premise, "Lee is a
+green-blooded Martian," to the conclusion, "Lee believes in
+extra-terrestrial life."
+
+![Map of the inference from "Lee is a green-blooded Martian" to "Lee believes in extra-terrestrial life."](/images/ch01/Lee2.png){#fig-1-6-lee2 width=274px fig-alt="Argument map concluding: Lee believes in extra-terrestrial life. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-lee2"}
+{{< include /outlines/ch01/Lee2_list.md >}}
+:::
+
+It doesn't matter whether or not either of these claims is actually
+true. The question is "If it *were* true that Lee is a green-blooded
+Martian, *would* it be true that Lee believes in extra-terrestrial
+life?"
+
+I think that the answer to this question is "Very likely, but not for
+certain." After all, maybe Lee is suffering from amnesia. Maybe Lee
+doesn\'t *know* that Lee is a green-blooded Martian. Nonetheless,
+barring such a situation, I think that Lee probably would believe in
+extra-terrestrial life if Lee were a green-blooded Martian, and so I'd
+say that this inference is good even though it isn't perfect.
+
+The Gully Test would get us the same result, of course. If we tell
+Gully, "Lee is a green-blooded Martian," Gully would think that Lee
+*probably* believes in extra-terrestrial life, but Gully would recognize
+that Lee might not believe in extra-terrestrial life for the reason that
+we just discussed. Once again, the inference turns out to be good but
+not perfect.
+
+![Map of the inference from "Lee is a green-blooded Martian" to "Lee believes in extra-terrestrial life," evaluated as good but not perfect.](/images/ch01/Lee2_I_Eval.png){#fig-1-6-lee2-eval width=379px fig-alt="Argument map concluding: Lee believes in extra-terrestrial life. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-lee2-eval"}
+{{< include /outlines/ch01/Lee2_I_Eval_list.md >}}
+:::
+
+#### Bad Inferences
+
+When we say that the inference between a reason and a conclusion is
+*bad*, we mean that if the reason were true, the conclusion could *very
+easily* still be false. The reason has very little bearing upon the
+conclusion.
+
+For example, consider the inference from the premise, "Lee is a
+green-blooded Martian," to the conclusion, "Lee likes pepperoni pizza."
+
+![Map of the inference from "Lee is a green-blooded Martian" to "Lee likes pepperoni pizza."](/images/ch01/Lee3.png){#fig-1-6-lee3 width=260px fig-alt="Argument map concluding: Lee likes pepperoni pizza. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-lee3"}
+{{< include /outlines/ch01/Lee3_list.md >}}
+:::
+
+This inference is bad because even if Lee *were* a green-blooded
+Martian, Lee could still *very easily* not like pepperoni pizza. If we
+told Gully, "Lee is a green-blooded Martian," Gully would not be likely
+to accept that Lee likes pepperoni pizza on that basis. Any way you look
+at it, this inference is horrible.
+
+![Map of the inference from "Lee is a green-blooded Martian" to "Lee likes pepperoni pizza," evaluated as bad.](/images/ch01/Lee3_I_Eval.png){#fig-1-6-lee3-eval width=284px fig-alt="Argument map concluding: Lee likes pepperoni pizza. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-lee3-eval"}
+{{< include /outlines/ch01/Lee3_I_Eval_list.md >}}
+:::
+
+#### Degrees of Goodness
+
+Note that although "valid" and "invalid" (as well as "strong" and
+"weak") are reserved for inferences, and although "true" and "false" are
+reserved for claims, both claims *and* inferences can be described as
+"good" and "bad." Most of the time we'll use "good" and "bad" for
+exactly this reason. We won't have to worry about whether or not we're
+using the right kind of term because "good" and "bad" cover everything.
+
+As we've seen, inferences come in *degrees* of goodness, lying on a
+continuum from very bad to perfect, or valid. (Validity *itself*, of
+course, doesn't come in degrees. An inference can't be "sort of" valid
+just like something can't be "sort of" perfect. Either something is
+perfect, or it isn't. Either an inference is valid, or it's not.)
+
+Once we start talking about degrees of goodness, it can be difficult to
+decide how good something needs to be. How good an inference needs to be
+in order to be "good enough" is largely a matter of context and personal
+preference. Under some circumstances (say when deciding if a plane is
+safe to fly) we want our inferences to be *very* good because the stakes
+are high. Under other circumstances (say when deciding whether or not to
+attend a certain movie) we can make do with weaker inferences because it
+doesn't really matter much if we make a mistake. Similarly, some people
+are just more risk-averse than others, and they'll hold inferences to a
+fairly high standard most of the time. Other people are more comfortable
+with error, and they'll accept less certainty in their reasoning.
+
+## Summary of Example 5
+
+Here's the passage that we considered in this example:
+
+> "Commercials are a boon for students everywhere, since studies have
+> shown that each commercial watched safely and permanently increases
+> the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+### Step 1 – Recognizing an Argument
+
+We asked, **"What is this passage doing? Is it trying to convince us
+that something is true?"**
+
+We decided that this passage is trying to convince us of something and
+so does contain an argument. The inference indicator expression "since"
+helped us, too.
+
+> "Commercials are a boon for students everywhere, **since** studies
+> have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+### Step 2 – Analyzing the Argument
+
+Our first question when analyzing this argument was, **"What is the
+ultimate conclusion, or the main claim that this argument is trying to
+get us to believe?"**
+
+The fact that "since" is a reason indicator expression allowed us to see
+that "studies have shown that each commercial watched safely and
+permanently increases the viewer's I.Q. by an average of 5 points" is
+being given as a reason to believe "commercials are a boon for students
+everywhere," making "commercials are a boon for students everywhere" the
+ultimate conclusion of this argument.
+
+> "(1) Commercials are a boon for students everywhere, **since** studies
+> have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+Our next questions were, **"What else is being claimed?"** and **"Is
+this claim part of the argument?"**
+
+Because "since" is an inference indicator, we knew that the claim that
+follows it is part of the argument.
+
+> "(1) Commercials are a boon for students everywhere, **since** (2)
+> studies have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+"Imagine that," on the other hand, is a command sentence. Commands
+usually don't contain claims because they usually can't be true or
+false. We ignored that sentence.
+
+At this point, we asked, **"How are these claims connected to each
+other?"** "Since" has already allowed us to see that claim 2 is a reason
+to accept claim 1, so we mapped the argument like this:
+
+> "(1) Commercials are a boon for students everywhere, **since** (2)
+> studies have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+![Map of the commercials argument.](/images/ch01/Advertisement5.png){#fig-1-6-ad-2 width=289px fig-alt="Argument map concluding: 1) Commercials are a boon for students everywhere. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-ad-2"}
+{{< include /outlines/ch01/Advertisement5_list.md >}}
+:::
+
+### Step 3 – Evaluating the Argument
+
+We evaluated the premise by asking **"Is this premise true?"** and
+**"Could someone who doesn't already believe the ultimate conclusion
+believe this premise?"**
+
+We decided that this premise is bad because it's false. That's enough to
+make the argument bad as a whole.
+
+> "(1) Commercials are a boon for students everywhere, **since** (2)
+> studies have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+![Map of the commercials argument, with the premise evaluated as false.](/images/ch01/Advertisement5_P_Eval.png){#fig-1-6-ad-p-eval-2 width=289px fig-alt="Argument map concluding: 1) Commercials are a boon for students everywhere. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-ad-p-eval-2"}
+{{< include /outlines/ch01/Advertisement5_P_Eval_list.md >}}
+:::
+
+Note: This argument is bad because it has a bad premise.
+
+![](/images/ch01/sad_face.png){.illustration width=40px fig-alt="A sad face."}
+
+Just for practice, we evaluated the inference by asking, **"If a
+perfectly gullible, perfectly rational person (Gully) believes the
+reasons, how likely is he to believe the conclusion?"**
+
+We decided that the inference was pretty good!
+
+> "(1) Commercials are a boon for students everywhere, **since** (2)
+> studies have shown that each commercial watched safely and permanently
+> increases the viewer's I.Q. by an average of 5 points. Imagine that!"
+
+![Map of the commercials argument, with the premise evaluated as false and the inference evaluated as good.](/images/ch01/Advertisement5_I_Eval.png){#fig-1-6-ad-i-eval-3 width=292px fig-alt="Argument map concluding: 1) Commercials are a boon for students everywhere. A full text description is provided."}
+
+::: {.map-outline fig="fig-1-6-ad-i-eval-3"}
+{{< include /outlines/ch01/Advertisement5_I_Eval_list.md >}}
+:::
+
+Note: This argument is bad because it has a bad premise.
+
+This doesn't make the argument good, of course, but it does give us
+something *good to say* about the argument when we express our
+evaluation. "Even though I doubt studies have shown that commercials
+raise a viewer's I.Q.," we can say, "I agree that if watching
+commercials raised I.Q.'s, it would be a wonderful thing for students!"
+
+It's a good idea to find something good to say about an argument, even
+when the argument is bad. It keeps the lines of communication open.

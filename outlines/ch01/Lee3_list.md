@@ -1,0 +1,3 @@
+- Lee likes pepperoni pizza.
+    - Inference A
+        - Lee is a green-blooded Martian. (Stopping Point)
