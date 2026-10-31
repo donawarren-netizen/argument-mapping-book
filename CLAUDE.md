@@ -42,6 +42,8 @@ base name), and any other images (e.g. flattened illustrations).
   "A full text description is provided."
 - Convert the .docx with pandoc to Markdown, then clean up: drop Word style
   classes on headings, move figures out of block quotes, remove Word image sizes.
+  Delete empty bold lines (`** **`, `****`): invisible in Word, but `****` on its
+  own line renders as a horizontal rule.
 - Illustrations built from stacked image fragments in Word: use the flattened
   image files Dona supplies, with `fig-alt` and no caption (`.illustration`, px width).
 - Callouts: Dona marks boxed text in her Word documents with plain-text markers,
