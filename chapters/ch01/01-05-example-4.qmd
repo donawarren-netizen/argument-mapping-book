@@ -91,8 +91,6 @@ false!" Normally, then, questions don't convey claims at all and so
 won't be included in our list of important claims. Let's just ignore the
 first sentence of this passage.
 
-****
-
 (Will we always be ignoring questions? No. In a subsequent chapter,
 we'll see special kinds of questions that *do* in fact convey claims,
 but for now we'll be ignoring questions because *normal* questions can't

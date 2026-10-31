@@ -36,8 +36,6 @@ don't see it.
 Since this passage is simply making claims, without attempting to prove
 any of them true, it doesn't contain an argument.
 
-****
-
 (It's also useful to note, at this point, that the passage doesn't
 contain any inference indicator expressions. This is a good reason to at
 least *suspect* that the passage doesn't contain an argument, but we
