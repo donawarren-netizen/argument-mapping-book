@@ -1,0 +1,3 @@
+- 1\) False advertisements are unethical.
+    - Inference A
+        - 2\) False advertisements are a form of deception motivated by greed. \[Evaluation: This premise is good.\] (Stopping Point)
