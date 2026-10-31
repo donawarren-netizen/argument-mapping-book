@@ -58,7 +58,7 @@ describes as following**.
 -   In "P. This follows from Q," "P" is described as following (it's the
     referent of "this"), so "P" is the conclusion.
 
-In the argument we're considering, the claim in back of "It follows
+In the argument we're considering, the claim after "It follows
 that" is the thing described as following, so it's a conclusion. In
 fact, in this passage, it's the ultimate conclusion.
 
@@ -230,7 +230,7 @@ with the conclusion, but maybe she agrees with the conclusion and simply
 thinks that the argument at hand doesn't do a good job proving it.)
 
 **2. If we decide that an argument is good, we should be inclined to
-think that the argument's ultimate conclusion is true.**
+think that the argument's ultimate conclusion is probably true.**
 
 This is because deciding that an argument is good involves deciding that
 its premises are true and that its inferences are strong. And if we put
