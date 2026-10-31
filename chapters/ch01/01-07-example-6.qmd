@@ -10,9 +10,14 @@ doing? Is it trying to convince us that something is true?"**
 > Don't you agree?"
 
 I don't think that this passage is trying to convince us of anything.
-Instead, it's simply relaying facts to us and trusting that we'll take
-them for granted. Since this passage is simply making claims, *without
-attempting to prove any of them*, it doesn't contain an argument.
+Instead, it's simply telling us things and trusting that we'll accept
+them.
+
+"Don't you agree?" might appear to engage us in some critical
+reflection, but what if we *don't* agree? Is the passage saying anything
+that might *get* us to agree? No. Since this passage is making claims,
+*without attempting to establish any of them*, it doesn't contain an
+argument.
 
 (It's also useful to note that the passage doesn't contain any inference
 indicator expressions, and this is a good reason to at least *suspect*
