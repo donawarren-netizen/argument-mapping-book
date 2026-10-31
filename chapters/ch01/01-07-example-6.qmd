@@ -1,0 +1,37 @@
+# 1.7 Example 6
+
+## Step 1 – Recognizing an Argument
+
+Consider the following passage, asking yourself, **"What is this passage
+doing? Is it trying to convince us that something is true?"**
+
+> "Advertisements appear in newspapers, in magazines, on billboards, on
+> radio, and on television. A good advertisement should be memorable.
+> Don't you agree?"
+
+I don't think that this passage is trying to convince us of anything.
+Instead, it's simply relaying facts to us and trusting that we'll take
+them for granted. Since this passage is simply making claims, *without
+attempting to prove any of them*, it doesn't contain an argument.
+
+(It's also useful to note that the passage doesn't contain any inference
+indicator expressions, and this is a good reason to at least *suspect*
+that the passage doesn't contain an argument. We can't rely on this too
+heavily, though, because later on we'll be seeing arguments without
+inference indicator expressions.)
+
+## Summary of Example 6
+
+Here's the passage that we considered in this example:
+
+> "Advertisements appear in newspapers, in magazines, on billboards, on
+> radio, and on television. A good advertisement should be memorable.
+> Don't you agree?"
+
+### Step 1 – Recognizing an Argument
+
+We asked, **"What is this passage doing? Is it trying to convince us
+that something is true?"** And we decided that it wasn't. There's no
+argument here.
+
+Let's see if the next passage contains an argument.
