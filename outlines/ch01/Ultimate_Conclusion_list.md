@@ -1,0 +1,1 @@
+- 1\) We shouldn’t aspire to be as independent and autonomous as possible. (Stopping Point)
