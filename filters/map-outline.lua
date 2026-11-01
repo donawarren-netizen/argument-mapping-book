@@ -23,6 +23,13 @@ Word also: each chapter starts on a new page with its title (from the
 `part:` entry in _quarto.yml, e.g. "Chapter 1: ..."), as a large,
 centered Heading 1 — Quarto itself leaves part titles out of Word.
 
+Handbook pages (front matter `handbook: true`), web only: a print-only
+"Appendix: Text Descriptions" is added at the end of the page with every
+map's description, and each map gets a print-only pointer to it
+("Text description: see the appendix, Figure 2"). On screen both are
+hidden (display: none, so screen readers skip them too); the collapsible
+boxes are hidden when printing. See styles.css (@media print).
+
 Optional attributes:
   label="..."   custom wording for the collapsible box's summary line
 ]]
@@ -34,6 +41,11 @@ local pending_chapter = nil -- chapter number the pending blocks belong to
 local current_chapter = nil
 local current_section = nil
 local counter = 0
+local handbook = false      -- page has `handbook: true` in its front matter
+local print_appendix = {}   -- HTML handbook pages: print-only appendix blocks
+local handbook_file = false -- rendering a handbook's own Word file
+                            -- (tools/build-handbooks.py): no chapter title
+                            -- page, plain "Appendix" wording, "Figure N" labels
 
 local function is_docx()
   return quarto.doc.is_format("docx")
@@ -94,7 +106,7 @@ local function handle_div(div)
     end
     pending_chapter = current_chapter
     -- In the section text: a pointer to the description.
-    local where = current_chapter
+    local where = (current_chapter and not handbook_file)
       and ("appendix to Chapter " .. current_chapter)
       or "appendix"
     return pandoc.Para({
@@ -113,6 +125,20 @@ local function handle_div(div)
     })
     blocks:extend(div.content)
     blocks:insert(pandoc.RawBlock("html", "</details>"))
+    if handbook and fig then
+      local function figref()
+        return pandoc.Cite({ pandoc.Str("@" .. fig) },
+          { pandoc.Citation(fig, "NormalCitation") })
+      end
+      blocks:insert(pandoc.Div(pandoc.Para({
+        pandoc.Str("Text description: see the appendix,"), pandoc.Space(),
+        figref(), pandoc.Str(".")
+      }), pandoc.Attr("", {"print-only", "print-pointer"})))
+      table.insert(print_appendix, pandoc.Para({ pandoc.Strong({ figref() }) }))
+      for _, blk in ipairs(div.content) do
+        table.insert(print_appendix, blk:clone())
+      end
+    end
     return blocks
   end
 
@@ -120,7 +146,7 @@ local function handle_div(div)
 end
 
 local function appendix()
-  local title = pending_chapter
+  local title = (pending_chapter and not handbook_file)
     and ("Appendix to Chapter " .. pending_chapter .. ": Text descriptions of argument maps")
     or "Appendix: Text descriptions of argument maps"
   local out = pandoc.Blocks({
@@ -174,6 +200,9 @@ end
 function Pandoc(doc)
   local result = pandoc.Blocks({})
   local part_titles = is_docx() and read_part_titles() or {}
+  handbook_file = doc.meta["handbook-file"] ~= nil
+  handbook = doc.meta.handbook == true
+    or (doc.meta.handbook and pandoc.utils.stringify(doc.meta.handbook) == "true")
   for _, blk in ipairs(doc.blocks) do
     if blk.t == "Header" and blk.level == 1 then
       local text = pandoc.utils.stringify(blk.content)
@@ -182,7 +211,7 @@ function Pandoc(doc)
       if is_docx() and #pending > 0 and new_chapter ~= pending_chapter then
         result:extend(appendix())
       end
-      if is_docx() and ch and ch ~= current_chapter then
+      if is_docx() and ch and ch ~= current_chapter and not handbook_file then
         result:insert(chapter_title(part_titles[ch] or ("Chapter " .. ch)))
       end
       current_chapter = ch
@@ -197,6 +226,16 @@ function Pandoc(doc)
   end
   if is_docx() and #pending > 0 then
     result:extend(appendix())
+  end
+  if quarto.doc.is_format("html") and #print_appendix > 0 then
+    local content = pandoc.Blocks({
+      pandoc.Header(2, "Appendix: Text Descriptions",
+        pandoc.Attr("", {"unnumbered", "unlisted"}))
+    })
+    content:extend(print_appendix)
+    result:insert(pandoc.Div(content,
+      pandoc.Attr("print-appendix", {"print-only"})))
+    print_appendix = {}
   end
   doc.blocks = result
   return doc

@@ -105,3 +105,52 @@ body.quarto-dark .nav-page-text {
   align-items: center;
   min-height: 24px;
 }
+
+/* Handbook pages: download link at the top */
+.handbook-download {
+  border: 1px solid var(--bs-border-color, #ccc);
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  margin: 0 0 1.5rem;
+}
+
+/* Shown only when printing (handbook appendix and pointers) */
+.print-only { display: none; }
+
+/* ---------- Printing ----------
+   Print just the page content: no sidebar, top bar, search, table of
+   contents, light/dark switch or next/previous links; black text on white
+   even when the reader is in dark mode. Collapsible text descriptions are
+   left out of the printout; on handbook pages they are printed in an
+   appendix at the end instead (see filters/map-outline.lua). */
+@media print {
+  #quarto-header, .quarto-secondary-nav, #quarto-sidebar,
+  #quarto-margin-sidebar, #quarto-search, .quarto-color-scheme-toggle,
+  .page-navigation, .nav-footer, #quarto-back-to-top,
+  .handbook-download, details.map-outline {
+    display: none !important;
+  }
+  .print-only { display: block !important; }
+  #quarto-content, #quarto-document-content, main.content {
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: none !important;
+    width: 100% !important;
+    grid-column: 1 / -1 !important;
+  }
+  .page-columns, .page-layout-article .page-columns {
+    display: block !important;
+  }
+  html, body, main, p, li, h1, h2, h3, h4, h5, h6,
+  blockquote, figcaption, .figure-caption {
+    color: #000 !important;
+    background: #fff !important;
+  }
+  a { color: #000 !important; text-decoration: none !important; }
+  figure, .quarto-float, img { break-inside: avoid; page-break-inside: avoid; }
+  h1, h2, h3, h4 { break-after: avoid; page-break-after: avoid; }
+  .print-pointer p { font-style: italic; margin-top: 0.25rem; }
+  #print-appendix { break-before: page; page-break-before: always; }
+  #print-appendix ul { padding-left: 1.25rem; }
+  #print-appendix ul ul { padding-left: 1.5rem; }
+}

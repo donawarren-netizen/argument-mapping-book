@@ -1,0 +1,3 @@
+- 1\) Ultimate Conclusion
+    - Inference A
+        - 2\) Premise (Stopping Point)

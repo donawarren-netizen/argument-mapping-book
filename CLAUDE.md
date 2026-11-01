@@ -76,3 +76,15 @@ base name), and any other images (e.g. flattened illustrations).
   tools/fix-duplicate-ids.py (post-render) handle those; search-label.html
   renames the search field from Quarto's "Submit" to "Search" for screen readers.
 - Look at the page at phone width (no sideways scrolling) and the Word file.
+
+## Handbook pages (one per chapter, its last section)
+- Front matter `handbook: true` (first: 1.10 Chapter 1 Handbook). Under the
+  title, an HTML-only box links `/downloads/Chapter-N-Handbook.docx`.
+- `tools/build-handbooks.py` (run after `quarto render`; the workflow does it)
+  renders each handbook on its own to Word, title without the section number,
+  map descriptions in a plain "Appendix" at the end, saved in `_book/downloads/`.
+- Printing (styles.css `@media print`, all pages): only the page content, black
+  on white; collapsible descriptions left out. On handbook pages,
+  map-outline.lua adds a print-only appendix of the descriptions and a
+  print-only "see the appendix, Figure N" line under each map. Check by
+  printing to PDF (Playwright `page.pdf`), from dark mode too.
