@@ -1,0 +1,47 @@
+# 2.2 Example 1
+
+## Step 1 – Recognizing an Argument
+
+As we learned in the last chapter, the first thing we want to do when
+faced with a passage is ask ourselves, **"What is this passage doing? Is
+it trying to convince us that something is true?"**
+
+So let's begin this chapter by asking that question of this text:
+
+> "Censorship is the practice of suppressing claims and images which are
+> considered to be obscene, dangerous, offensive or otherwise
+> objectionable. Governments, religious organizations, media outlets,
+> and even educational institutions can engage in censorship, which is
+> essential for a well-run society."
+
+It might be tempting to say, "This contains an argument because I could
+argue with it." After all, it's pretty controversial to say that
+censorship is essential for a well-run society! But remember,
+"argument," for us, doesn't mean "dispute." The issue at hand isn't how
+provocative a passage might be. The only question is whether or not the
+passage is trying to convince us of something (controversial or not) by
+advancing reasons to support it. In this case, it doesn't seem to me
+that the passage *is* trying to convince us something is true, so I'll
+say that this passage doesn't contain an argument.
+
+("Which is" might look like an inference indicator expression, but it
+isn't. It's basically short for the sentence "Censorship is essential
+for a well-run society." In fact, there are no inference indicator
+expressions in this passage, and for now this can be a clue that there's
+no argument here. Later on, though, we'll see arguments that don't
+contain inference indicator expressions, so we shouldn't get in the
+habit of relying too heavily on that.)
+
+## Summary of Example 1
+
+ 
+
+We saw that the following passage doesn't convey an argument because it
+isn't trying to convince us that something is true, even though it might
+be controversial.
+
+> "Censorship is the practice of suppressing claims and images which are
+> considered to be obscene, dangerous, offensive or otherwise
+> objectionable. Governments, religious organizations, media outlets,
+> and even educational institutions can engage in censorship, which is
+> essential for a well-run society."
