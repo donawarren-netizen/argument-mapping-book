@@ -214,7 +214,7 @@ the ultimate conclusion, this argument is bad.
 
 Note: This argument is bad because it has a bad inference.
 
-### Evaluating Inferences and the Map Analogy
+### Evaluating Inferences vs. Evaluating Premises
 
 As we've seen, it's often helpful to think of an argument like an
 attempt to direct us to a big, golden, boulder. The premise is the
