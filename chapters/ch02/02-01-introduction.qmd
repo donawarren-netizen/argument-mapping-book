@@ -33,7 +33,7 @@ More about **constructing arguments**. Specifically,
 So far, we've seen arguments that we can represent with very short maps
 that take us from one boulder to another, like this:
 
-![](/images/ch02/boulders_one_ladder.png){.illustration width=140px fig-alt="A ladder leads from a gray boulder up to a golden boulder."}
+![](/images/ch02/boulders_one_ladder.png){.illustration width=140px fig-alt="A bridge leads from a gray boulder up to a golden boulder."}
 
 It often happens, however, that the distance between our starting
 boulder (our premise) and the boulder that we want to reach (the
@@ -43,7 +43,7 @@ boulder* (which we'll call a "subconclusion"), on the way from our
 starting boulder (the premise) to the golden boulder (the ultimate
 conclusion). Like this:
 
-![](/images/ch02/boulders_subconclusion.png){.illustration width=125px fig-alt="A ladder leads from a gray boulder up to a second gray boulder, and another ladder leads from there up to a golden boulder."}
+![](/images/ch02/boulders_subconclusion.png){.illustration width=125px fig-alt="A bridge leads from a gray boulder up to a second gray boulder, and another bridge leads from there up to a golden boulder."}
 
 That's the sort of argument we'll be seeing in this chapter. So let's
 get to it!

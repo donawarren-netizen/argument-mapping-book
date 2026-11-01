@@ -221,19 +221,19 @@ attempt to direct us to a big, golden, boulder. The premise is the
 boulder that we start from. The ultimate conclusion is our destination.
 And the inference is the bridge that connects the two.
 
-![](/images/ch01/ladder_good.png){.illustration width=141px fig-alt="A sturdy wooden ladder leads from a gray boulder up to a golden boulder."}
+![](/images/ch01/ladder_good.png){.illustration width=141px fig-alt="A sturdy wooden bridge leads from a gray boulder up to a golden boulder."}
 
 Examples 1 and 2 showed us that if we can't stand on our starting
 boulder (because the premise is false or assumes the conclusion), the
 argument won't help us reach the golden boulder.
 
-![](/images/ch01/ladder_cracked_boulder.png){.illustration width=121px fig-alt="A wooden ladder leads up to a golden boulder, but the gray boulder it stands on is split by a crack."}
+![](/images/ch01/ladder_cracked_boulder.png){.illustration width=121px fig-alt="A wooden bridge leads up to a golden boulder, but the gray boulder it starts from is split by a crack."}
 
 Now we've learned that we might not be able to reach the golden boulder
 because the bridge breaks down. Accordingly, if the inference is weak
 then the argument is bad too.
 
-![](/images/ch01/ladder_broken.png){.illustration width=172px fig-alt="A wooden ladder rises from a gray boulder toward a golden boulder, but the ladder is snapped in two in the middle."}
+![](/images/ch01/ladder_broken.png){.illustration width=172px fig-alt="A wooden bridge rises from a gray boulder toward a golden boulder, but the bridge is snapped in two in the middle."}
 
 Just like a dependable path needs to give us boulders we can stand on
 and bridges that are strong, a good argument needs good premises and

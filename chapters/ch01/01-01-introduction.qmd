@@ -241,7 +241,7 @@ too.
 How do we get from one boulder to another? By crossing a bridge! The
 bridges are inferences.
 
-![](/images/ch01/ladder.png){.illustration width=80px fig-alt="A wooden ladder standing upright."}
+![](/images/ch01/ladder.png){.illustration width=80px fig-alt="A wooden bridge, shown on its own."}
 
 Thinking about it this way, we can draw a map of the argument that we've
 been considering. "Sunshine Soda should be included in school
@@ -249,7 +249,7 @@ lunches" is the golden boulder that we're trying to reach. "Sunshine
 Soda is nutritious," is the boulder we're starting from. And the
 inference between them is a bridge connecting the two.
 
-![](/images/ch01/boulders_soda_labeled.png){.illustration width=300px fig-alt="A ladder leads from a gray boulder up to a golden boulder. The gray boulder is labeled \"Sunshine Soda is nutritious.\" The ladder is labeled \"Inference.\" The golden boulder is labeled \"Sunshine Soda should be included in school lunches.\""}
+![](/images/ch01/boulders_soda_labeled.png){.illustration width=300px fig-alt="A bridge leads from a gray boulder up to a golden boulder. The gray boulder is labeled \"Sunshine Soda is nutritious.\" The bridge is labeled \"Inference.\" The golden boulder is labeled \"Sunshine Soda should be included in school lunches.\""}
 
 This map clearly displays (and allows us to distinguish between) the two
 different things that make up arguments: Boulders and Bridges -- or, in
