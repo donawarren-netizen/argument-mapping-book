@@ -1,0 +1,165 @@
+# 2.4 Example 3
+
+## Step 1 – Recognizing an Argument
+
+Here's another passage for us to consider.
+
+> "The students have engaged in angry demonstrations every day since
+> their newspaper was shut down. Of course, you know that. We've heard
+> them marching on campus. But are you wondering why they're doing this?
+> I think I can explain it. Students are protesting because they're at
+> an age when they're beginning to solidify their own identities, and
+> losing their newspaper is triggering the unconscious fear of identity
+> erosion."
+
+Does this passage contain an argument? **Is this passage trying to
+convince us that something is true?**
+
+It is *very tempting* to say that this passage contains an argument.
+After all, it uses the inference indicator expression "because" and (as
+we've seen) inference indicators often show up in arguments.
+
+> "The students have engaged in angry demonstrations every day since
+> their newspaper was shut down. Of course, you know that. We've heard
+> them marching on campus. But are you wondering why they're doing this?
+> I think I can explain it. Students are protesting **because** they're
+> at an age when they're beginning to solidify their own identities, and
+> losing their newspaper is triggering the unconscious fear of identity
+> erosion."
+
+But when recognizing arguments, the key question isn't "Is there an
+inference indicator expression in the passage?" The key question is "Is
+this passage trying to convince us that something is true?" And *is*
+this passage doing that? I don't think so. We can't always identify
+arguments by spotting inference indicator expressions. Things are a
+little more complicated than that. Let's see why.
+
+### Explanations
+
+Let's look at this passage again, returning to the reason indicator
+expression "because."
+
+> "The students have engaged in angry demonstrations every day since
+> their newspaper was shut down. Of course, you know that. We've heard
+> them marching on campus. But are you wondering why they're doing this?
+> I think I can explain it. Students are protesting **because** they're
+> at an age when they're beginning to solidify their own identities, and
+> losing their newspaper is triggering the unconscious fear of identity
+> erosion."
+
+Since "because" is a reason indicator expression, if this passage
+contained an argument, it would be giving, "\[students are\] at an age
+when they're beginning to solidify their own identities, and losing
+their newspaper is triggering the unconscious fear of identity erosion"
+as a reason to believe "Students are protesting." It would, in other
+words, be trying to convince us that students are protesting.
+
+But if we look *carefully,* we see that the passage is *not* trying to
+convince us of this. The passage assumes that we already *know* that
+students are protesting. (In fact, it says, "Of course, you know that.")
+It's simply trying to account for *why* this is happening. The assertion
+that students are solidifying their identities and see the loss of their
+paper as a threat to that process is cited as the *cause* of their
+protests, explaining how it came about, and isn't supposed to convince
+us *that* the protests occurred. This means that **this passage contains
+an explanation, not an argument.**
+
+This example teaches us something very important. Until now, we've
+relied upon inference indicator expressions when identifying arguments.
+And so far it's worked because up until now both of the following
+conditions held: 1) if a passage *did* contain inference indicator
+expressions then it *was* an argument, and 2) if a passage *didn't*
+contain inference indicator expressions then it *wasn't* an argument.
+
+In real life, however, inference indicator expressions don't
+conclusively establish that something is an argument. Sometimes a
+passage can contain inference indicator expressions without containing
+an argument and sometimes a passage can contain an argument without
+containing inference indicator expressions. We'll examine passages that
+contain arguments even though they don't contain inference indicator
+expressions in Chapter 3. For now, we'll note that **a passage can
+contain inference indicator expressions even though it doesn't contain
+an argument. This can happen because *both* arguments *and* explanations
+can use indicator expressions, even though they are very different
+things. Arguments try to convince us *that* something is the case,
+whereas explanations assume that we already know that something is the
+case and try to explain to us *why* things are the way they are**.
+
+While we're still on the subject of explanations, however, I'd like to
+respond to a common question about explanations and give you a quick
+word of advice.
+
+First the common question. Many people notice that an explanation wants
+us to accept that a certain explanation is correct, and they wonder why
+this doesn't make the explanation an argument.
+
+Although it's true that an explanation of why wants us to believe that a
+certain explanation is the right one, this doesn't make the explanation
+an argument because it isn't really trying to *convince* us that a
+certain explanation is correct. It's just presenting that explanation.
+
+Suppose, for example, that I say, "Janice missed the interview because
+her car broke down," thereby explaining why Janice missed the interview.
+Am I trying to convince you that this explanation is correct? I don't
+think so. I'm simply *giving* you the explanation. I want you to believe
+it, of course, but I'm not trying to convince you of it. I'm just
+*telling* you.
+
+If I were trying to *convince* you of this explanation, I'd say
+something like "I think that Janice missed the interview because her car
+broke down. Elliot thinks she missed it because she didn't really want
+the job. But he's wrong and I'm right. My explanation is better than
+his. After all, Janice has been talking about that interview for weeks
+and she even bought a new suit to wear. She needs the money desperately
+and the position was exactly the kind of job she's trained for. Clearly,
+she wanted to make it to that interview! However, Janice's car has been
+giving her problems for a long time, and I saw it getting towed to a
+garage around the time Janice should have been at the interview. So,
+Janice missed the interview because her car broke down and not for any
+other reason."
+
+See the difference? In the first case, I just *said* something. What I
+said was an explanation, and I wanted you to believe it, but I didn't
+give you any *reason* to believe it. In the second case, I *did* give
+you reason to believe the explanation. That's why the second case is an
+argument and the first case isn't.
+
+Now the quick word of advice. Sometimes it can be difficult to determine
+whether a passage contains an argument or an explanation. When you're
+uncertain, it's a good idea to first identify the "target" of the
+passage—the claim that would be the ultimate conclusion if the
+passage were an argument and would be the fact explained if the passage
+were an explanation. Then you can ask yourself, **"Does this passage try
+to convince us *that* this is true, or does it take for granted that we
+already *know* that it's true and try to help us understand *why* it's
+true, what *caused* it, or *how* it came about?"** If the passage is
+trying to convince us *that* this claim is true, it's an argument. If a
+passage assumes that we already know that this claim is true and tries
+to help us understand *why* it's true, what *caused* it, or *how* it
+came about, it's an explanation. (Remember, when a child asks for an
+explanation for why the sky is blue, she doesn't want an argument to
+prove *that* it's blue. If she didn't already *know* that it's blue, she
+couldn't wonder *why* it's blue.)
+
+## Summary of Example 3
+
+Here's the passage we considered in this example:
+
+> "The students have engaged in angry demonstrations every day since
+> their newspaper was shut down. Of course, you know that. We've heard
+> them marching on campus. But are you wondering why they're doing this?
+> I think I can explain it. Students are protesting because they're at
+> an age when they're beginning to solidify their own identities, and
+> losing their newspaper is triggering the unconscious fear of identity
+> erosion."
+
+### Step 1 – Recognizing an Argument
+
+We asked ourselves, **"What is this passage doing? Is it trying to
+convince us that something is true?"** and we decided that even though
+this passage contains the inference indicator expression "because," it
+*isn't* trying to convince us that something is true. Instead, this
+passage is explaining *why* something is true. This passage contains an
+explanation, not an argument. In general, not every passage that
+contains an inference indicator expression contains an argument, because
+inference indicator expressions can appear in explanations too.
