@@ -1,0 +1,5 @@
+- Ultimate Conclusion
+    - Inference
+        - Subconclusion
+            - Inference
+                - Premise (Stopping Point)

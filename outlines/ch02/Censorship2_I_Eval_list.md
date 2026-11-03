@@ -1,0 +1,5 @@
+- 1\) The administration shut down the student newspaper.
+    - Inference B
+        - 2\) Only the administration had the ability to make the website vanish.
+            - Inference A \[Evaluation: This is so-so.\]
+                - 3\) Only the administration has the high-level network permissions required to do something like making the website vanish. (Stopping Point)
