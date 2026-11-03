@@ -523,7 +523,7 @@ Inference A. This argument is bad.
 
 Does this mean that the conclusion is false and that the administration
 *didn't* shut down the student newspaper? No. It just means that we
-haven't yet proven that the administration is guilty of doing this.
+haven't yet established that the administration is guilty of doing this.
 
 ## Summary of Example 2
 
@@ -551,7 +551,7 @@ newspaper" so we gave that claim number 1.
 
 > "You probably noticed that the online student newspaper seems to have
 > disappeared. Who took it down? It seems pretty clear to me. I think
-> (1) [the administration shut down the student newspaper]{.underline}.
+> (1) the administration shut down the student newspaper.
 > After all, only the administration had the ability to make the website
 > vanish because only the administration has the high-level network
 > permissions required to do something like that."
