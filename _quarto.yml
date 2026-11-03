@@ -60,6 +60,9 @@ format:
     css: styles.css
     include-after-body: search-label.html
     lightbox: true
+    # Right-hand contents list shows headings down to level 4, always expanded
+    toc-depth: 4
+    toc-expand: true
     fig-align: center
   docx:
     toc: true
