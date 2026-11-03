@@ -26,6 +26,15 @@ details.map-outline > summary {
   details.map-outline ul ul { padding-left: 0.7rem; }
 }
 
+/* Phones and tablets: the slide-out section menu keeps long chapter names
+   on one line and runs them off the screen; let them wrap instead */
+@media (max-width: 991.98px) {
+  #quarto-sidebar { max-width: 100vw; }
+  #quarto-sidebar .sidebar-item-text,
+  #quarto-sidebar .menu-text,
+  #quarto-sidebar .sidebar-item-container { white-space: normal; }
+}
+
 /* Boulder illustrations sit in a row on wide screens, stack on phones */
 .illustration img {
   max-width: 100%;
