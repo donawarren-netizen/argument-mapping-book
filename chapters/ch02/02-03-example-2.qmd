@@ -422,7 +422,7 @@ Inference B? If Inference B is bad, the argument could still be good
 because the Subconclusion could be supported by Premise 3 and Inference
 C. We have more work to do.
 
-#### Evaluating Subconclusions
+### Evaluating Subconclusions
 
 But now, what about subconclusions? Should we evaluate them as part of
 our evaluation of an argument?
