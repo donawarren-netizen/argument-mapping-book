@@ -93,7 +93,7 @@ First the common question. Many people notice that an explanation wants
 us to accept that a certain explanation is correct, and they wonder why
 this doesn't make the explanation an argument.
 
-Although it's true that an explanation of why wants us to believe that a
+Although it's true that an explanation wants us to believe that a
 certain explanation is the right one, this doesn't make the explanation
 an argument because it isn't really trying to *convince* us that a
 certain explanation is correct. It's just presenting that explanation.
