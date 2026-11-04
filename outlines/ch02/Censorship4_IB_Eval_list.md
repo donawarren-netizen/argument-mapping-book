@@ -1,0 +1,5 @@
+- 1\) The administration should oversee the student newspaper.
+    - Inference B \[Evaluation: This inference is bad.\]
+        - 3\) Students are incapable of running the paper responsibly.
+            - Inference A
+                - 2\) The last twelve editions were riddled with libelous errors. (Stopping Point)

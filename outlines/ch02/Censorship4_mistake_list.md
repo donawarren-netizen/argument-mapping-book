@@ -1,0 +1,3 @@
+- 1\) The administration should oversee the student newspaper.
+    - Inference A
+        - 2\) The last twelve editions were riddled with libelous errors. (Stopping Point)
