@@ -107,8 +107,8 @@ Now that we have some claims identified, we can ask, **"How are these
 claims connected to each other?"** And as often happens, there's an
 inference indicator expression to help us out. (Whenever you see
 inference indicator expressions, take full advantage of them! They live
-to serve.) The "since" tells us that claim 2 is being given as a reason
-to believe claim 1, so we'll map the argument like this:
+to serve.) The "since" tells us that Claim 2 is being given as a reason
+to believe Claim 1, so we'll map the argument like this:
 
 > "(1) Commercials are a boon for students everywhere, **since** (2)
 > studies have shown that each commercial watched safely and permanently
@@ -152,7 +152,7 @@ particular, let's examine the inference, just for practice. What do you
 think? Is the connection between the premise and the conclusion strong?
 
 It's very tempting to say that this inference is bad, thinking that
-because claim 2 is *false* it can't establish the truth of 1. But this
+because Claim 2 is *false* it can't establish the truth of 1. But this
 way of thinking is mistaken since it doesn't really focus on the
 *inference*. It focuses on the premise instead, and (as we've seen)
 inferences are not premises.
@@ -442,8 +442,8 @@ usually don't contain claims because they usually can't be true or
 false. We ignored that sentence.
 
 At this point, we asked, **"How are these claims connected to each
-other?"** "Since" has already allowed us to see that claim 2 is a reason
-to accept claim 1, so we mapped the argument like this:
+other?"** "Since" has already allowed us to see that Claim 2 is a reason
+to accept Claim 1, so we mapped the argument like this:
 
 > "(1) Commercials are a boon for students everywhere, **since** (2)
 > studies have shown that each commercial watched safely and permanently

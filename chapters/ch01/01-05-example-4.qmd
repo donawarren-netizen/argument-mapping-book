@@ -117,7 +117,7 @@ other. We definitely want to include this claim in the argument.
 With these claims identified, we can ask ourselves, **"How are these
 claims connected to each other?"** And, as will often be the case, the
 inference indicator expression tells us. Because "so" is a conclusion
-indicator expression, we know that claim 1 follows from claim 2. That
+indicator expression, we know that Claim 1 follows from Claim 2. That
 gives us the following argument map:
 
 > "Are you wondering which brand of soap is the superior product? (2)
@@ -162,13 +162,13 @@ its conclusion is probably true? I don't think so. **The problem with
 this argument lies with the inference**.
 
 An inference, remember, is the connection that holds between two claims
-when the truth of one of them (in this case, claim 2) is supposed to
-establish the truth of the other (in this case, claim 1).
+when the truth of one of them (in this case, Claim 2) is supposed to
+establish the truth of the other (in this case, Claim 1).
 
-But claim 2 in this argument *doesn't* establish the truth of claim 1.
+But Claim 2 in this argument *doesn't* establish the truth of Claim 1.
 The fact that a magazine ad shows someone giving a very good
-presentation at work after using Cool and Fresh soap (claim 2) doesn't
-establish that Cool and Fresh soap is the best (claim 1) because a
+presentation at work after using Cool and Fresh soap (Claim 2) doesn't
+establish that Cool and Fresh soap is the best (Claim 1) because a
 photograph and some dialogue doesn't establish that there's any causal
 relationship between Cool and Fresh soap and strong performance on the
 job. (And, even if there *were* such a relationship, it wouldn't be
@@ -360,8 +360,8 @@ argument.
 > be the best."
 
 At this point, we asked, **"How are these claims connected to each
-other?"** "So" has already allowed us to see that claim 1 is a
-conclusion following from claim 2, so we mapped the argument like this:
+other?"** "So" has already allowed us to see that Claim 1 is a
+conclusion following from Claim 2, so we mapped the argument like this:
 
 > "Are you wondering which brand of soap is the superior product? (2)
 > This magazine ad shows someone giving a very good presentation at work
@@ -396,7 +396,7 @@ Unfortunately, the inference between the premise and the conclusion is
 weak. We saw this by asking, **"If a perfectly gullible, perfectly
 rational person (we could call him 'Gully' for short) believes the
 premise, how likely is that person to believe the conclusion?"** Gully
-could easily believe claim 2 without accepting claim 1, so inference A
+could easily believe Claim 2 without accepting Claim 1, so inference A
 is bad. That's enough to make the argument bad as a whole.
 
 > "Are you wondering which brand of soap is the superior product? (2)

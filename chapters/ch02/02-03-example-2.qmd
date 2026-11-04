@@ -183,8 +183,8 @@ indicator expressions in our argument, "after all," and "because."
 > **because** (3) only the administration has the high-level network
 > permissions required to do something like that."
 
-Should we look at the "after all" first, connecting claims 1 and 2?
-Should we look at the "because" first, connecting claims 2 and 3? Does
+Should we look at the "after all" first, connecting Claims 1 and 2?
+Should we look at the "because" first, connecting Claims 2 and 3? Does
 it matter?
 
 Oh, *it matters*.
@@ -194,13 +194,13 @@ ambiguous. It might apply to the claim that is immediately next to it,
 *or* it might apply to the entire chain of reasoning that follows or
 precedes it.
 
-Suppose, for example, that we have an ultimate conclusion, claim 1,
+Suppose, for example, that we have an ultimate conclusion, Claim 1,
 connected with a reason indicator, like "because," and followed by an
-argument composed of claims 2 through 9.
+argument composed of Claims 2 through 9.
 
 > "1 because 2 \.... 9"
 
-The "because" might tell us that claim 2 directly supports the
+The "because" might tell us that Claim 2 directly supports the
 conclusion, with an inference running from 2 to 1.
 
 > "(1 because 2) \.... 9"
@@ -211,13 +211,13 @@ specifically going from 2 to 1.
 
 > "1 because (2 \.... 9)"
 
-Similarly, we might have an ultimate conclusion, claim 1, connected with
+Similarly, we might have an ultimate conclusion, Claim 1, connected with
 a conclusion indicator, like "therefore," and preceded by an argument
-composed of claims 2 through 9.
+composed of Claims 2 through 9.
 
 > "2 \.... 9 therefore 1."
 
-In this case, the "therefore" might tell us that claim 9 directly
+In this case, the "therefore" might tell us that Claim 9 directly
 supports the conclusion, with an inference running from 9 to 1.
 
 > "2 \.... (9 therefore 1)."
@@ -234,7 +234,7 @@ we'll try to *identify* the ultimate conclusions first, because knowing
 where we're going helps us to follow the reasoning, we won't *map* it
 first. Instead, we'll map it near the end of the mapping process.**
 
-In this case, then, we should look at claims 2 and 3 and ask, **"How are
+In this case, then, we should look at Claims 2 and 3 and ask, **"How are
 they related to each other?"**
 
 > "You probably noticed that the online student newspaper seems to have
@@ -244,16 +244,16 @@ they related to each other?"**
 > **because** (3) only the administration has the high-level network
 > permissions required to do something like that."
 
-The "because" tells us that claim 3 is a reason to believe claim 2,
+The "because" tells us that Claim 3 is a reason to believe Claim 2,
 giving us the following map:
 
-![Map of the inference from claim 3 to claim 2.](/images/ch02/Censorship2_partial.png){#fig-2-3-partial-1 width=289px fig-alt="Argument map concluding: 2) Only the administration had the ability to make the website vanish. A full text description is provided."}
+![Map of the inference from Claim 3 to Claim 2.](/images/ch02/Censorship2_partial.png){#fig-2-3-partial-1 width=289px fig-alt="Argument map concluding: 2) Only the administration had the ability to make the website vanish. A full text description is provided."}
 
 ::: {.map-outline fig="fig-2-3-partial-1"}
 {{< include /outlines/ch02/Censorship2_partial_list.md >}}
 :::
 
-With claims 2 and 3 connected properly, we can think of that argument
+With Claims 2 and 3 connected properly, we can think of that argument
 module as one thing. This allows us to ask, **"How is this part of the
 argument related to what has gone before?"** In other words, how is the
 "3 to 2" bit related to the "1" bit?
@@ -291,8 +291,8 @@ the role of each claim directly off the map itself.
     *stops* at this claim.
 
 -   Claim 2 is a **subconclusion** because it is both supported by a
-    claim (claim 3, which is underneath it) and supporting another claim
-    (claim 1, which is above it). The reasoning *passes through* this
+    claim (Claim 3, which is underneath it) and supporting another claim
+    (Claim 1, which is above it). The reasoning *passes through* this
     claim.
 
 -   Claim 3 is a **premise** because there is no claim supporting it
@@ -595,7 +595,7 @@ conclusion for last. This led us to map the relationship between Claims
 > because (3) only the administration has the high-level network
 > permissions required to do something like that."
 
-![Map of the inference from claim 3 to claim 2.](/images/ch02/Censorship2_partial.png){#fig-2-3-partial-2 width=289px fig-alt="Argument map concluding: 2) Only the administration had the ability to make the website vanish. A full text description is provided."}
+![Map of the inference from Claim 3 to Claim 2.](/images/ch02/Censorship2_partial.png){#fig-2-3-partial-2 width=289px fig-alt="Argument map concluding: 2) Only the administration had the ability to make the website vanish. A full text description is provided."}
 
 ::: {.map-outline fig="fig-2-3-partial-2"}
 {{< include /outlines/ch02/Censorship2_partial_list.md >}}
@@ -639,7 +639,7 @@ evaluate the claims and inferences that support it, trying to formulate
 our final evaluation of the argument as an evaluation of premises and
 inferences.
 
-In this case, our discomfort with claim 2 (a subconclusion) led us to
+In this case, our discomfort with Claim 2 (a subconclusion) led us to
 question Inference A and Claim 3 (a premise).
 
 > "You probably noticed that the online student newspaper seems to have

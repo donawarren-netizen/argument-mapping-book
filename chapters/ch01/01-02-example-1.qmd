@@ -258,7 +258,7 @@ green line is an inference. This would give us the following map:
 > **Therefore**, (1) there's no need to research items before making a
 > major purchase."
 
-![The advertisement argument mapped with claim numbers only.](/images/ch01/1_A_2.png){#fig-1-2-ad-numbers width=68px fig-alt="Argument map: claim 1 at the top, supported by claim 2 through inference A. A full text description is provided."}
+![The advertisement argument mapped with claim numbers only.](/images/ch01/1_A_2.png){#fig-1-2-ad-numbers width=68px fig-alt="Argument map: Claim 1 at the top, supported by Claim 2 through inference A. A full text description is provided."}
 
 ::: {.map-outline fig="fig-1-2-ad-numbers"}
 {{< include /outlines/ch01/1_A_2_list.md >}}
@@ -628,8 +628,8 @@ information about the product."
 
 Finally, we asked, **"How are these claims connected to each other?"**
 
-Once again, the conclusion indicator helped us to see that claim 2 was
-supporting claim 1.
+Once again, the conclusion indicator helped us to see that Claim 2 was
+supporting Claim 1.
 
 This gave us the following map of the argument, with the conclusion (1)
 on the top, the reason (2) on the bottom, and the inference represented

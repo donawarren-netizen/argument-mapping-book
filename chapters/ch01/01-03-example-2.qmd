@@ -137,8 +137,8 @@ expressions as a matter of course.)
 Having identified these claims, we can ask ourselves, **"How are these
 claims connected to each other?"**
 
-Once again, "because" holds the key! The "because" tells us that claim 2
-is being given as a reason to believe claim 1 (Remember to use the
+Once again, "because" holds the key! The "because" tells us that Claim 2
+is being given as a reason to believe Claim 1 (Remember to use the
 inference indicator expressions!), so we'll map the argument like this:
 
 > "(1) Advertisements are designed to get people to buy the product
@@ -504,8 +504,8 @@ inference line):
 
 Finally, we asked, **"How are these claims connected to each other?"**
 
-Once again, the reason indicator helped us to see that claim 2 was
-supporting claim 1. This gave us the following map of the argument:
+Once again, the reason indicator helped us to see that Claim 2 was
+supporting Claim 1. This gave us the following map of the argument:
 
 > "(1) Advertisements are designed to get people to buy the product
 > **because** (2) they are designed to sell the product."

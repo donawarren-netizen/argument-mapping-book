@@ -54,11 +54,11 @@ divide there.)
 > **which proves that** (3) students are incapable of running the paper
 > responsibly."
 
-It might be tempting to relate claim 2 to claim 1 at this point, but
+It might be tempting to relate Claim 2 to Claim 1 at this point, but
 remember what we learned in Example 2. We **identify the relationships
 between claims as soon as we have identified two claims that are part of
 the argument, *not counting the ultimate conclusion***, so we'll look to
-our next claim, number 3, and ask, **"How are claims 2 and 3 related to
+our next claim, number 3, and ask, **"How are Claims 2 and 3 related to
 each other?"**
 
 As usual, we'll take advantage of the inference indicator expression
@@ -73,7 +73,7 @@ map that relationship like this:
 > **which proves that** (3) students are incapable of running the paper
 > responsibly."
 
-![Map of the inference from claim 2 to claim 3.](/images/ch02/Censorship4_Partial.png){#fig-2-5-partial-1 width=277px fig-alt="Argument map concluding: 3) Students are incapable of running the paper responsibly. A full text description is provided."}
+![Map of the inference from Claim 2 to Claim 3.](/images/ch02/Censorship4_Partial.png){#fig-2-5-partial-1 width=277px fig-alt="Argument map concluding: 3) Students are incapable of running the paper responsibly. A full text description is provided."}
 
 ::: {.map-outline fig="fig-2-5-partial-1"}
 {{< include /outlines/ch02/Censorship4_Partial_list.md >}}
@@ -81,7 +81,7 @@ map that relationship like this:
 
 With that part of the argument in hand, we can ask, **"How is this part
 of the argument (the partial map) related to what has gone before (i.e.,
-claim 1)?"**
+Claim 1)?"**
 
 And now we can look at the inference indicator expression "the reason is
 that."
@@ -94,7 +94,7 @@ that."
 > responsibly."
 
 As a reason indicator expression, "the reason is that" introduces a
-reason to believe the conclusion. What is this reason? It's *not* claim
+reason to believe the conclusion. What is this reason? It's *not* Claim
 2. Instead, *it's the part of the argument that we've already mapped*,
 so our final map of the argument looks like this:
 
@@ -119,7 +119,7 @@ If we had mapped Claim 1 right away, we might have been tempted to look
 at "the reason is that" and mapped Claim 2 directly under Claim 1, like
 so:
 
-![A mistaken map, with claim 2 placed directly under claim 1.](/images/ch02/Censorship4_mistake.png){#fig-2-5-mistake-1 width=278px fig-alt="Mistaken argument map concluding: 1) The administration should oversee the student newspaper, with claim 2 directly beneath it. A full text description is provided."}
+![A mistaken map, with Claim 2 placed directly under Claim 1.](/images/ch02/Censorship4_mistake.png){#fig-2-5-mistake-1 width=278px fig-alt="Mistaken argument map concluding: 1) The administration should oversee the student newspaper, with Claim 2 directly beneath it. A full text description is provided."}
 
 ::: {.map-outline fig="fig-2-5-mistake-1"}
 {{< include /outlines/ch02/Censorship4_mistake_list.md >}}
@@ -257,7 +257,7 @@ that," we mapped Claim 2 supporting Claim 3.
 > **which proves that** (3) students are incapable of running the paper
 > responsibly."
 
-![Map of the inference from claim 2 to claim 3.](/images/ch02/Censorship4_Partial.png){#fig-2-5-partial-2 width=277px fig-alt="Argument map concluding: 3) Students are incapable of running the paper responsibly. A full text description is provided."}
+![Map of the inference from Claim 2 to Claim 3.](/images/ch02/Censorship4_Partial.png){#fig-2-5-partial-2 width=277px fig-alt="Argument map concluding: 3) Students are incapable of running the paper responsibly. A full text description is provided."}
 
 ::: {.map-outline fig="fig-2-5-partial-2"}
 {{< include /outlines/ch02/Censorship4_Partial_list.md >}}

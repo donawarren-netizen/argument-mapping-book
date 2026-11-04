@@ -59,6 +59,8 @@ base name), and any other images (e.g. flattened illustrations).
 - Figure ids MUST start with the section number (`fig-5-1-full`): in Word all
   sections become one document, so ids must be unique book-wide.
 - Match each map image to its outline by file name.
+- Capital C when the text refers to a specific claim in an argument ("Claim 2",
+  "Claims 2 and 3"), in body text, captions and alt text (Dona, Nov 4).
 - Flag (don't silently fix) wording differences between the text and the maps,
   and anything Claude invented (captions, alt text, titles).
 

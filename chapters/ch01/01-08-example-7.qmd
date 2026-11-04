@@ -89,8 +89,8 @@ claims.
 
 With the claims identified, we can ask ourselves, **"How are these
 claims connected to each other?"** Since we've already seen that "it
-follows that" introduces a conclusion, we know that claim 1 is a
-conclusion from claim 2. The map of the argument, then, looks like this:
+follows that" introduces a conclusion, we know that Claim 1 is a
+conclusion from Claim 2. The map of the argument, then, looks like this:
 
 > "Have you ever wondered about the morality of false advertisements?
 > Wonder no more! (2) False advertisements are a form of deception
@@ -410,8 +410,8 @@ we gave it the number "2".
 > motivated by greed. **It follows that** (1) they are unethical."
 
 At this point, we asked, **"How are these claims connected to each
-other?"** "It follows that" has already allowed us to see that claim 1
-is a conclusion supported by claim 2, so we mapped the argument like
+other?"** "It follows that" has already allowed us to see that Claim 1
+is a conclusion supported by Claim 2, so we mapped the argument like
 this:
 
 > "Have you ever wondered about the morality of false advertisements?

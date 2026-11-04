@@ -88,7 +88,7 @@ This might not be the easiest argument to map, but I'm confident that
 you would be able to map it, at least in part because I've stated all
 of the subconclusions.
 
-But suppose the author of this argument doesn't state claim 5, like so:
+But suppose the author of this argument doesn't state Claim 5, like so:
 
 > "(1) Argument mapping is useful. This is because (2) arguments are
 > composed of claims and connections so (3) to understand an argument,
@@ -119,16 +119,16 @@ This would give us an argument map with three disconnected parts.
 {{< include /outlines/ch05/CH_5_Intro_1_Part_3_AM_Is_Useful_list.md >}}
 :::
 
-Without claim 5, it would be hard to see how these argument modules are
+Without Claim 5, it would be hard to see how these argument modules are
 linked to each other because the natural connections (or bridges)
 between them will be out.
 
 There are two ways to solve this problem.
 
-First, we could treat claims 3, 4, and 6 as a set of three dependent
+First, we could treat Claims 3, 4, and 6 as a set of three dependent
 reasons, like so:
 
-![Claims 3, 4, and 6 treated as three dependent reasons.](/images/ch05/CH_5_Intro_1_3_DR_AM_Is_Useful.png){#fig-5-1-three-dr width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful, with claims 3, 4, and 6 as three dependent reasons. A full text description is provided."}
+![Claims 3, 4, and 6 treated as three dependent reasons.](/images/ch05/CH_5_Intro_1_3_DR_AM_Is_Useful.png){#fig-5-1-three-dr width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful, with Claims 3, 4, and 6 as three dependent reasons. A full text description is provided."}
 
 ::: {.map-outline fig="fig-5-1-three-dr"}
 {{< include /outlines/ch05/CH_5_Intro_1_3_DR_AM_Is_Useful_list.md >}}
@@ -137,7 +137,7 @@ reasons, like so:
 *However*, as we saw in Chapter 2, we naturally combine claims *two at a
 time*. (Remember that math problem, 7 + 4 + 3 + 5 = 19? You almost
 certainly added these numbers together two at a time.) Consequently,
-seeing that claims 3, 4, and 6 should be combined in this way requires
+seeing that Claims 3, 4, and 6 should be combined in this way requires
 us to do something that we do not naturally do.
 
 In other words, this first way to solve our problem is hard.
@@ -145,7 +145,7 @@ In other words, this first way to solve our problem is hard.
 Second (and this is usually the *much* better option), we can *supply
 that missing conclusion ourselves and rebuild the bridges!*
 
-![The map with the missing subconclusion, claim 5, supplied.](/images/ch05/CH_5_Intro_1_Unstated_S_AM_Is_Useful.png){#fig-5-1-supplied width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful, with the unstated subconclusion (5) supplied. A full text description is provided."}
+![The map with the missing subconclusion, Claim 5, supplied.](/images/ch05/CH_5_Intro_1_Unstated_S_AM_Is_Useful.png){#fig-5-1-supplied width=100% fig-alt="Argument map concluding: (1) Argument mapping is useful, with the unstated subconclusion (5) supplied. A full text description is provided."}
 
 ::: {.map-outline fig="fig-5-1-supplied"}
 {{< include /outlines/ch05/CH_5_Intro_1_Unstated_S_AM_Is_Useful_list.md >}}
