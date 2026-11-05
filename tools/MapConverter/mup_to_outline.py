@@ -52,6 +52,7 @@ from pathlib import Path
 MAX_LEVEL = 9
 
 
+import html
 import re
 
 
@@ -86,6 +87,7 @@ def cap(level):
 
 
 ROLE2_PATTERN = re.compile(r"\s*\(r2\)\s*", re.IGNORECASE)
+HTML_TAG_PATTERN = re.compile(r"</?[A-Za-z][A-Za-z0-9]*(\s[^<>]*)?/?>")
 
 
 def clean_claim_title(title):
@@ -98,6 +100,12 @@ def clean_claim_title(title):
     convention, before it was replaced because NVDA's default punctuation
     verbosity setting skips asterisks silently)."""
     is_role2 = False
+
+    # Because can save formatting as HTML tags inside a claim's text
+    # (e.g. "<b>3) Entering students...</b>"). The tags aren't part of the
+    # claim, and a screen reader would read them aloud, so drop them.
+    title = HTML_TAG_PATTERN.sub("", title)
+    title = html.unescape(title)
 
     if ROLE2_PATTERN.search(title):
         is_role2 = True

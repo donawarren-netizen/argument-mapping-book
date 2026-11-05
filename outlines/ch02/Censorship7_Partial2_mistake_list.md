@@ -1,0 +1,5 @@
+- 4\) We shouldn’t impose additional stress upon entering students.
+    - Inference B
+        - 2\) We should protect new college students from ideas that make them uncomfortable.
+            - Inference A
+                - 3\) Entering students are already adjusting to a lot of changes. (Stopping Point)
