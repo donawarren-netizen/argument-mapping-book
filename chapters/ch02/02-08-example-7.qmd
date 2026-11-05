@@ -347,7 +347,7 @@ that Inference B sounded wrong, and then tried something else. That's
 perfectly fine. In the process of repairing that error, I would come to
 a better understanding of the argument.
 
-**Being able to map an argument is often an end in itself because it
+**Being able to map an argument is important because it
 helps us to understand the argument better**. This may not have been
 obvious in Chapter 1, where the arguments were structurally simple and
 we might not have *needed* to map the arguments in order to see how they
