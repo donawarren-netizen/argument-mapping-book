@@ -1,0 +1,3 @@
+- 2\) Censorship runs directly counter to the ideals of higher education.
+    - Inference A
+        - 3\) Higher education is supposed to expose students to controversial opinions. (Stopping Point)

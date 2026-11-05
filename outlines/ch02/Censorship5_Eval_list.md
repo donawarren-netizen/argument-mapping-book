@@ -1,0 +1,5 @@
+- 1\) You should stand up against any attempt to censor the student newspaper.
+    - Inference B \[Evaluation: This inference is fine.\]
+        - 2\) Censorship runs directly counter to the ideals of higher education.
+            - Inference A \[Evaluation: This inference is fine.\]
+                - 3\) Higher education is supposed to expose students to controversial opinions. \[Evaluation: This premise is fine.\] (Stopping Point)

@@ -33,6 +33,7 @@ book:
         - chapters/ch02/02-03-example-2.qmd
         - chapters/ch02/02-04-example-3.qmd
         - chapters/ch02/02-05-example-4.qmd
+        - chapters/ch02/02-06-example-5.qmd
     - part: "Chapter 5: Missing Conclusions"
       chapters:
         - chapters/ch05/05-01-introduction.qmd
