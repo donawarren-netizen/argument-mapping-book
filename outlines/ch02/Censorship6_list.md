@@ -1,0 +1,5 @@
+- 1\) Any kind of censorship is wrong.
+    - Inference B
+        - 2\) Science can’t advance without the free dissemination of ideas.
+            - Inference A
+                - 3\) The practice of science requires scientists to share their theories and experiments with each other. (Stopping Point)
