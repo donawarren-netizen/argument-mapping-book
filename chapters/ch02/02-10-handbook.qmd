@@ -143,6 +143,11 @@ those claims.
     the connections between them.
 :::
 
+```{=openxml}
+<w:p><w:pPr><w:spacing w:before="0" w:after="0"/></w:pPr></w:p>
+```
+
+::: {.blank-line-before}
 1.  Identify the ultimate conclusion right away, if possible, **New:
     but *don't map it right away* because the author might take their time
     getting there.**
@@ -163,6 +168,7 @@ those claims.
 
         As soon as you see an inference indicator, represent it (unless
         it's connected to the ultimate conclusion).
+:::
 
 ## III) Evaluating an Argument
 
