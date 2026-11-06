@@ -1,0 +1,5 @@
+- 1\) Ultimate Conclusion
+    - Inference A
+        - 2\) Sub Conclusion
+            - Inference B
+                - 3\) Premise (Stopping Point)

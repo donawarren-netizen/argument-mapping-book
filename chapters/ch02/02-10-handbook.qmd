@@ -1,0 +1,260 @@
+---
+handbook: true
+---
+
+# 2.10 Chapter 2 Handbook
+
+::: {.content-visible when-format="html"}
+::: {.handbook-download}
+[Download this handbook (Word)](/downloads/Chapter-2-Handbook.docx){download="Chapter-2-Handbook.docx"} · or print this page; the text description of the map is printed in an appendix at the end.
+:::
+:::
+
+## Important Concepts and Terms
+
+An **argument** is a unit of reasoning that attempts to establish that
+one claim is true by citing other claims as evidence.
+
+Arguments are composed of **claims** and **connections** between the
+claims.
+
+An **argument map** displays the claims and connections that make up an
+argument.
+
+![An argument map with an ultimate conclusion, a subconclusion, and a premise.](/images/ch02/Ch2_Handbook.png){#fig-2-10-map width=196px fig-alt="Argument map with 1) Ultimate Conclusion at the top, connected by Inference A to 2) Sub Conclusion, connected by Inference B to 3) Premise at the bottom. A full text description is provided."}
+
+::: {.map-outline fig="fig-2-10-map"}
+{{< include /outlines/ch02/Ch2_Handbook_list.md >}}
+:::
+
+### Claims
+
+There are different kinds of claims.
+
+In an argument map, claims are written in boxes.
+
+-   **Ultimate Conclusion**
+
+    The ultimate conclusion (sometimes just called the "conclusion") is
+    the main claim that the argument tries to establish as true.
+
+    In an argument map, the ultimate conclusion will be at the top.
+
+-   **Subconclusion**
+
+    A subconclusion is used to support the ultimate conclusion and is
+    supported by other claims in the argument.
+
+    In an argument map, subconclusions will have claims above them and
+    below them.
+
+-   **Premise**
+
+    A premise is a claim that is used to support the ultimate conclusion
+    and that the argument assumes to be true without providing support
+    for it.
+
+    In an argument map, premises will be at the bottom.
+
+### Connections
+
+There are different kinds of connections.
+
+In an argument map, connections between claims are shown as lines
+between the boxes.
+
+-   **Inference**
+
+    An inference is the connection that holds between a set of claims
+    (which we can call "R" for "reason") and another claim (which we can
+    call "C" for "conclusion"), when the truth of the claims in R is
+    supposed to establish the truth of claim C.
+
+    In an argument map, an inference is represented with a vertical line
+    between the reason and the conclusion.
+
+#### Indicator Expressions
+
+Connections in a map often correspond to indicator expressions.
+
+-   **Inference Indicator Expressions**
+
+    A Conclusion Indicator introduces a conclusion (a claim at the top
+    of an inference line):
+
+    -   \[reason\]. Therefore \[conclusion\].
+    -   \[reason\]. Thus \[conclusion\].
+    -   \[reason\]. Consequently \[conclusion\].
+    -   \[reason\]. Hence \[conclusion\].
+    -   \[reason\], so \[conclusion\] / \[reason\], and so
+        \[conclusion\].
+    -   \[reason\] implies \[conclusion\].
+    -   \[reason\] which means that \[conclusion\].
+    -   \[reason\] which goes to show that \[conclusion\].
+    -   \[reason\]. As a result, \[conclusion\].
+    -   \[reason\]. That's why \[conclusion\].
+    -   \[reason\]. It follows that \[conclusion\].
+
+    A Reason Indicator introduces a reason (a claim at the bottom of an
+    inference line):
+
+    -   \[conclusion\] because \[reason\]. / Because \[reason\],
+        \[conclusion\].
+    -   \[conclusion\] since \[reason\]. / Since \[reason\],
+        \[conclusion\].
+    -   \[conclusion\] assuming that \[reason\]. / Assuming that
+        \[reason\], \[conclusion\].
+    -   \[conclusion\] given that \[reason\]. / Given that \[reason\],
+        \[conclusion\].
+    -   \[conclusion\] inasmuch as \[reason\]. / Inasmuch as \[reason\],
+        \[conclusion\].
+    -   \[conclusion\] in view of the fact that \[reason\]. / In view of
+        the fact that \[reason\], \[conclusion\].
+    -   \[conclusion\]. The reason is that \[reason\].
+    -   \[conclusion\]. After all \[reason\].
+    -   \[conclusion\]. This follows from \[reason\].
+
+## I) Recognizing an Argument
+
+To recognize an argument, we ask "What is this passage doing? Is it
+trying to convince us that something is true?" If a passage is trying to
+convince us that something is true, it contains an argument.
+
+-   **Not all passages that contain inference indicator expressions are
+    arguments (because explanations can contain them too).**
+
+## II) Analyzing an Argument
+
+Analyzing an argument consists of correctly identifying the claims that
+compose the argument and accurately tracking the connections between
+those claims.
+
+-   **Sometimes identifying the claims in an argument will require us to
+    rephrase the sentences in the argument.**
+-   Mapping an argument is a good way to identify the claims and track
+    the connections between them.
+
+1.  Identify the ultimate conclusion right away, if possible, **but
+    *don't map it right away* because the author might take their time
+    getting there.**
+
+2.  **Starting at the beginning of the passage**, identify and map
+    connections as you read, following these general principles:
+
+    -   **Think about only two things at a time.**
+
+        The things can be individual claims or combinations of claims
+        that have been mapped into a group.
+
+        As soon as you have identified two things (not counting the
+        ultimate conclusion), identify and represent the connection
+        between them, thereby transforming them into one thing.
+
+    -   **Inference indicators trump everything else.**
+
+        As soon as you see an inference indicator, represent it (unless
+        it's connected to the ultimate conclusion).
+
+## III) Evaluating an Argument
+
+We've seen that an argument is a unit of reasoning that attempts to
+establish that one claim is true by citing other claims as evidence, so
+an argument is good if and only if it succeeds in establishing that this
+claim (the ultimate conclusion) is probably true.
+
+Evaluating an argument consists of correctly assessing the claims and
+connections that compose the argument.
+
+### Where to Start
+
+-   **If a claim or connection strikes us as confusing or incorrect,
+    it's a good idea to start our evaluation there.**
+-   **If nothing strikes us as confusing or incorrect, it's a good idea
+    to start evaluating the argument at the top of the map and work our
+    way down, beginning with the inference(s) closest to the ultimate
+    conclusion.**
+
+### Evaluating Claims
+
+**If a claim strikes you as problematic, determine if it's a conclusion
+or a premise and evaluate it accordingly.**
+
+-   **Ultimate Conclusion & Subconclusion**
+
+    If we disagree with a conclusion, we should examine the reasoning
+    supporting it, trying to trace our objection to a premise or an
+    inference.
+
+    We never evaluate a conclusion as part of our evaluation of the
+    argument.
+
+-   **Premise**
+
+    To evaluate a premise, we ask:
+
+    1)  "Is this true?"
+
+        If not, we can say, "This argument assumes P, and P is false
+        because \[evidence for P's falsity\]."
+
+    2)  "Could someone who doesn't already believe the ultimate
+        conclusion think this is true?"
+
+        If not, we can say, "This argument assumes P, and that assumes
+        the conclusion U because \[explain how belief in P presupposes
+        belief in U / explain why people who don't believe U won't
+        believe P\]."
+
+### Evaluating Connections
+
+-   **Inference**
+
+    To evaluate an inference, we ask: "If a perfectly gullible,
+    perfectly rational person believed the claim(s) at the bottom of
+    this inference line, how likely would that person be to accept the
+    claim at the top of this inference line on that basis?"
+
+    If an inference between reason R and conclusion C is bad, we can
+    say, "Just because R, it doesn't follow that C because \[explain how
+    R can be true and C false at the same time\]," or "Even if R, it
+    wouldn't follow that C because \[explain how R can be true and C
+    false at the same time\]."
+
+### Evaluating Combinations
+
+-   **Argument as a Whole**
+
+    An argument is good if and only if all of its premises and
+    inferences are good.
+
+### Implications for the Ultimate Conclusion
+
+-   If we think that an argument is good, we should be inclined to think
+    that the ultimate conclusion is true.
+-   If we think that an argument is bad, that tells us nothing about the
+    truth or falsity of the ultimate conclusion.
+
+## IV) Constructing an Argument
+
+### Formulate the Thesis (our Conclusion)
+
+1.  Pose a question that you'd like to answer.
+2.  Consider some answers to your question.
+3.  Formulate the answer you accept.
+
+### Argue in Favor of the Thesis
+
+4.  Identify one reason to accept that answer. If that reason isn't
+    true, revise it.
+5.  **If that reason requires support, provide it.**
+6.  **Repeat the process until you arrive at claims that don't require
+    support.**
+
+### Communicate the Argument
+
+-   **Decide in what order you want to state the claims.**
+    -   **It's a good idea to put the ultimate conclusion near the
+        beginning of the argument unless it's controversial, in which
+        case start with a claim that your reader would accept.**
+-   Make the connections between the claims clear to your audience by
+    using indicator expressions.
