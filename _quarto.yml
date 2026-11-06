@@ -36,6 +36,7 @@ book:
         - chapters/ch02/02-06-example-5.qmd
         - chapters/ch02/02-07-example-6.qmd
         - chapters/ch02/02-08-example-7.qmd
+        - chapters/ch02/02-09-constructing-arguments.qmd
     - part: "Chapter 5: Missing Conclusions"
       chapters:
         - chapters/ch05/05-01-introduction.qmd
