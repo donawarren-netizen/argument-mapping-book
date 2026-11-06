@@ -65,6 +65,9 @@ base name), and any other images (e.g. flattened illustrations).
   and anything Claude invented (captions, alt text, titles).
 
 ## Checks before committing
+- Local rendering: `pip install --break-system-packages quarto-cli==1.10.19`
+  (the version pinned in the workflow; downloading from GitHub may be blocked).
+  `soffice --headless --convert-to pdf` shows the Word output.
 - `quarto render` with no warnings. map-outline.lua warns if a map needs more
   than 9 Word heading levels (map root sits at H2) — report it to Dona.
 - axe-core WCAG 2.x A/AA on the rendered pages, light and dark: 0 violations.
@@ -88,6 +91,12 @@ base name), and any other images (e.g. flattened illustrations).
   (`**New: …**`), so screen readers announce it (bold alone isn't announced);
   a new term label is `**New: *Subconclusion***`. A note under the title says
   so. Ask Dona whether each new handbook follows this.
+  A sub-bullet under an item already marked new stays bold, without its own
+  "New:" (Dona, Nov 6).
+- Extra blank line where Dona asks for one (e.g. 2.10's Analyzing section): wrap
+  the block in `::: {.blank-line-before}` (styles.css pads it on web/print) and
+  put an empty raw-openxml paragraph before it for Word:
+  ```` ```{=openxml} ```` / `<w:p><w:pPr><w:spacing w:before="0" w:after="0"/></w:pPr></w:p>`.
 - `tools/build-handbooks.py` (run after `quarto render`; the workflow does it)
   renders each handbook on its own to Word, title without the section number,
   map descriptions in a plain "Appendix" at the end, saved in `_book/downloads/`.
