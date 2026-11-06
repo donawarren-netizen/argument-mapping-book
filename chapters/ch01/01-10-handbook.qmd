@@ -12,13 +12,13 @@ handbook: true
 
 ## Important Concepts and Terms
 
-An **argument** is a unit of reasoning that attempts to establish that
+An *argument* is a unit of reasoning that attempts to establish that
 one claim is true by citing other claims as evidence.
 
-Arguments are composed of **claims** and **connections** between the
+Arguments are composed of *claims* and *connections* between the
 claims.
 
-An **argument map** displays the claims and connections that make up an
+An *argument map* displays the claims and connections that make up an
 argument.
 
 ![A basic argument map.](/images/ch01/Ch1_Handbook.png){#fig-1-10-map width=196px fig-alt="Argument map with 1) Ultimate Conclusion at the top, connected by Inference A to 2) Premise below. A full text description is provided."}
@@ -33,14 +33,14 @@ There are different kinds of claims.
 
 In an argument map, claims are written in boxes.
 
--   **Ultimate Conclusion**
+-   *Ultimate Conclusion*
 
     The ultimate conclusion (sometimes just called the "conclusion") is
     the main claim that the argument tries to establish as true.
 
     In an argument map, the ultimate conclusion will be at the top.
 
--   **Premise**
+-   *Premise*
 
     A premise is a claim that is used to support the ultimate conclusion
     and that the argument assumes to be true without providing support
@@ -55,7 +55,7 @@ There are different kinds of connections.
 In an argument map, connections between claims are shown as lines
 between the boxes.
 
--   **Inference**
+-   *Inference*
 
     An inference is the connection that holds between a set of claims
     (which we can call "R" for "reason") and another claim (which we can
@@ -69,7 +69,7 @@ between the boxes.
 
 Connections in a map often correspond to indicator expressions.
 
--   **Inference Indicator Expressions**
+-   *Inference Indicator Expressions*
 
     A Conclusion Indicator introduces a conclusion (a claim at the top
     of an inference line):
@@ -134,7 +134,7 @@ connections that compose the argument.
 
 ### Evaluating Claims
 
--   **Premise**
+-   *Premise*
 
     To evaluate a premise, we ask:
 
@@ -153,7 +153,7 @@ connections that compose the argument.
 
 ### Evaluating Connections
 
--   **Inference**
+-   *Inference*
 
     To evaluate an inference, we ask: "If a perfectly gullible,
     perfectly rational person believed the claim(s) at the bottom of
@@ -168,7 +168,7 @@ connections that compose the argument.
 
 ### Evaluating Combinations
 
--   **Argument as a Whole**
+-   *Argument as a Whole*
 
     An argument is good if and only if all of its premises and
     inferences are good.

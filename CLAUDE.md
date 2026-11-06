@@ -82,6 +82,12 @@ base name), and any other images (e.g. flattened illustrations).
 ## Handbook pages (one per chapter, its last section)
 - Front matter `handbook: true` (first: 1.10 Chapter 1 Handbook). Under the
   title, an HTML-only box links `/downloads/Chapter-N-Handbook.docx`.
+- Bold means new material only (Dona, Nov 6). Key terms and term labels
+  (argument, Ultimate Conclusion, Premise, Inference…) are italic. In handbooks
+  after Chapter 1, every bold span starts with "New:" inside the bold
+  (`**New: …**`), so screen readers announce it (bold alone isn't announced);
+  a new term label is `**New: *Subconclusion***`. A note under the title says
+  so. Ask Dona whether each new handbook follows this.
 - `tools/build-handbooks.py` (run after `quarto render`; the workflow does it)
   renders each handbook on its own to Word, title without the section number,
   map descriptions in a plain "Appendix" at the end, saved in `_book/downloads/`.
