@@ -5,10 +5,10 @@ of our own?
 
 Let's return to the map we constructed in Chapter 1:
 
-![The argument from Chapter 1, with the premise "Some virtues require a level of interdependence."](/images/ch01/Revised_Reason.png){#fig-2-9-chapter1 width=289px fig-alt="Argument map concluding: 1) We shouldn't aspire to be as independent and autonomous as possible. A full text description is provided."}
+![The argument from Chapter 1, with the premise "Some virtues require a level of interdependence."](/images/ch02/Reason.png){#fig-2-9-chapter1 width=289px fig-alt="Argument map concluding: 1) We shouldn't aspire to be as independent and autonomous as possible. A full text description is provided."}
 
 ::: {.map-outline fig="fig-2-9-chapter1"}
-{{< include /outlines/ch01/Revised_Reason_list.md >}}
+{{< include /outlines/ch02/Reason_list.md >}}
 :::
 
 In the process of constructing this map, we learned one way to fix a

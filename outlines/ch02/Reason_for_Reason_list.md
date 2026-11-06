@@ -1,0 +1,5 @@
+- 1\) We shouldn’t aspire to be as independent and autonomous as possible.
+    - Inference A
+        - 2\) Some virtues require a level of interdependence.
+            - Inference B
+                - 3\) Gratitude and forgiveness require interdependence. (Stopping Point)
