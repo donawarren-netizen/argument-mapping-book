@@ -163,3 +163,6 @@ body.quarto-dark .nav-page-text {
   #print-appendix ul { padding-left: 1.25rem; }
   #print-appendix ul ul { padding-left: 1.5rem; }
 }
+
+/* An extra blank line before a list, where Dona asks for one (2.10 handbook). */
+.blank-line-before { padding-top: 1.5em; }
