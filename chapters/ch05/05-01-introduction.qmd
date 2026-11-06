@@ -63,7 +63,7 @@ bridges would be out. We'd be faced with three disconnected parts.
 
 ![](/images/ch05/boulders_missing.png){.illustration width=300px fig-alt="The same map with the joined pair of boulders just below the golden boulder removed. The golden boulder floats out of reach above two separate groups of boulders, and a puzzled stick figure stands on one of the bridges."}
 
-Exactly the same thing can happen in an argument when a sub-conclusion
+Exactly the same thing can happen in an argument when a subconclusion
 is unstated!
 
 Consider, for example, the following mapped argument:
