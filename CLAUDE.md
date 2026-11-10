@@ -85,14 +85,15 @@ base name), and any other images (e.g. flattened illustrations).
 ## Handbook pages (one per chapter, its last section)
 - Front matter `handbook: true` (first: 1.10 Chapter 1 Handbook). Under the
   title, an HTML-only box links `/downloads/Chapter-N-Handbook.docx`.
-- Bold means new material only (Dona, Nov 6). Key terms and term labels
-  (argument, Ultimate Conclusion, Premise, Inference…) are italic. In handbooks
-  after Chapter 1, every bold span starts with "New:" inside the bold
-  (`**New: …**`), so screen readers announce it (bold alone isn't announced);
-  a new term label is `**New: *Subconclusion***`. A note under the title says
-  so. Ask Dona whether each new handbook follows this.
-  A sub-bullet under an item already marked new stays bold, without its own
-  "New:" (Dona, Nov 6).
+- Structure (rebuilt Nov 10 from Dona's new handbooks): kinds of claims and
+  connections are headings (Ultimate Conclusion, Premise, Inference…), with
+  bulleted explanations; key terms in definitions italic. Word heading levels
+  shift down one under the page title.
+- New material (handbooks after Chapter 1; Dona's Word files, Nov 10): marked
+  with a bold "NEW:" label only (`**NEW:** text`); the rest of the item is not
+  bold. In headings, plain "NEW: " in the heading text. Her Word highlight on
+  "NEW" is dropped (not announced; contrast). A note under the title says so.
+  (Replaces the Nov 6 "whole item bold, New:" convention.)
 - Extra blank line where Dona asks for one (e.g. 2.10's Analyzing section): wrap
   the block in `::: {.blank-line-before}` (styles.css pads it on web/print) and
   put an empty raw-openxml paragraph before it for Word:

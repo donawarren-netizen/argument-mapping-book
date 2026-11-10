@@ -1,3 +1,3 @@
-- 1\) Ultimate Conclusion
+- 1\) Claim
     - Inference A
-        - 2\) Premise (Stopping Point)
+        - 2\) Claim (Stopping Point)

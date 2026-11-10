@@ -1,5 +1,5 @@
-- 1\) Ultimate Conclusion
+- 1\) Claim
     - Inference A
-        - 2\) Subconclusion
+        - 2\) Claim
             - Inference B
-                - 3\) Premise (Stopping Point)
+                - 3\) Claim (Stopping Point)
