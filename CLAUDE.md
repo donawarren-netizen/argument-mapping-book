@@ -97,8 +97,12 @@ base name), and any other images (e.g. flattened illustrations).
 - Wording Dona wants in all handbooks (Nov 10): Constructing step 2 is
   "Research answers."; claim order is "Lead with the conclusion unless it would
   alienate your reader, in which case start with a claim that your reader would
-  accept." Under "Communicating an Argument", "1) Make the connections clear."
-  comes first; later items continue the numbering (2), 3)…).
+  accept." Order under "Communicating an Argument" (Dona, Nov 10), numbered
+  from 1) with only the topics a chapter has covered: Decide what claims you
+  want to state (from Chapter 3) → Decide in what order you want to state the
+  claims (from Chapter 2) → Make the connections clear (Chapter 1). So Ch1:
+  1) Make the connections clear; Ch2: 1) Decide in what order…, 2) Make the
+  connections clear.
 - Extra blank line where Dona asks for one (e.g. 2.10's Analyzing section): wrap
   the block in `::: {.blank-line-before}` (styles.css pads it on web/print) and
   put an empty raw-openxml paragraph before it for Word:
