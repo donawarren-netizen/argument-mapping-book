@@ -94,6 +94,11 @@ base name), and any other images (e.g. flattened illustrations).
   bold. In headings, plain "NEW: " in the heading text. Her Word highlight on
   "NEW" is dropped (not announced; contrast). A note under the title says so.
   (Replaces the Nov 6 "whole item bold, New:" convention.)
+- Wording Dona wants in all handbooks (Nov 10): Constructing step 2 is
+  "Research answers."; claim order is "Lead with the conclusion unless it would
+  alienate your reader, in which case start with a claim that your reader would
+  accept." Under "Communicating an Argument", "1) Make the connections clear."
+  comes first; later items continue the numbering (2), 3)…).
 - Extra blank line where Dona asks for one (e.g. 2.10's Analyzing section): wrap
   the block in `::: {.blank-line-before}` (styles.css pads it on web/print) and
   put an empty raw-openxml paragraph before it for Word:

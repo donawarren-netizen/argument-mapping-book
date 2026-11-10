@@ -244,11 +244,12 @@ connections that compose the argument.
 
 ### Communicating an Argument
 
--   **NEW:** Decide in what order you want to state the claims.
-    -   Lead with the conclusion unless it would alienate your reader,
-        in which case start with a claim that your reader would accept.
-
 #### 1) Make the connections clear.
 
 -   Make the connections between the claims clear to your audience by
     using indicator expressions.
+
+#### NEW: 2) Decide in what order you want to state the claims.
+
+-   Lead with the conclusion unless it would alienate your reader, in
+    which case start with a claim that your reader would accept.
