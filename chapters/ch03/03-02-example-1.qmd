@@ -1,0 +1,71 @@
+# 3.2 Example 1
+
+## Step 1 – Recognizing an Argument
+
+Back in Chapter 1, we were able to rely entirely upon inference
+indicator expressions when recognizing arguments; if a passage contained
+an inference indicator expression, then it was an argument, and if a
+passage didn't contain an inference indicator expression, then it wasn't
+an argument.
+
+Things got a little more complicated in Chapter 2, when we encountered
+explanations. Since explanations can contain inference indicator
+expressions just like arguments do, we can't just assume that any
+passage containing an inference indicator expression is an argument.
+Instead, we need to ask ourselves, "What is this passage doing?"
+Arguments try to convince us *that* something is true. Explanations try
+to account for *why* something is the case.
+
+With this in mind, let's take a look at the following passage. **"What
+is this passage doing? Is it trying to convince us that something is
+true?"**
+
+> "Why do people want to put some criminals to death instead of
+> sentencing them to life in prison with no possibility of parole? It's
+> because a lust for vengeance is hardwired into our brains as part of
+> our evolutionary heritage. Sometimes, only capital punishment will
+> satisfy that lust."
+
+The first thing we might notice is the location of the reason indicator
+expression "because."
+
+> "Why do people want to put some criminals to death instead of
+> sentencing them to life in prison with no possibility of parole? It's
+> **because** a lust for vengeance is hardwired into our brains as part
+> of our evolutionary heritage. Sometimes, only capital punishment will
+> satisfy that lust."
+
+If this were an argument, the claim that a lust for vengeance is
+hardwired into our brains—the claim following the "because"—would be
+given as a reason for us to believe that people want to put some
+criminals to death. But this passage doesn't try to convince us that
+people want to put some criminals to death and it doesn't try to
+convince us that the death penalty is justified. Instead, this passage
+confines itself to explaining *why* people advocate the death penalty, a
+fact which we are assumed to know already. Consequently, this passage
+contains an explanation, not an argument.
+
+Sometimes, people report that the more arguments they encounter, the
+more likely they are to mistake an explanation for an argument. That's
+normal. When people are mastering a hammer, everything can start to look
+like a nail. The key is to ask yourself, "Is this passage trying to
+convince me that something is true?" If not, it isn't an argument.
+
+## Summary of Example 1
+
+This example presented us with the following passage:
+
+> "Why do people want to put some criminals to death instead of
+> sentencing them to life in prison with no possibility of parole? It's
+> because a lust for vengeance is hardwired into our brains as part of
+> our evolutionary heritage. Sometimes, only capital punishment will
+> satisfy that lust."
+
+### Step 1 – Recognizing an Argument
+
+We asked ourselves, **"What is this passage doing? Is it trying to
+convince us that something is true?"**
+
+Because this passage is accounting for why something is true without
+attempting to convince us that it is true, this passage contains an
+explanation, not an argument.

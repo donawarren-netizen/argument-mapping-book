@@ -41,6 +41,7 @@ book:
     - part: "Chapter 3: Arguments with Dependent Reasons"
       chapters:
         - chapters/ch03/03-01-introduction.qmd
+        - chapters/ch03/03-02-example-1.qmd
     - part: "Chapter 5: Missing Conclusions"
       chapters:
         - chapters/ch05/05-01-introduction.qmd
