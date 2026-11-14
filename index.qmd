@@ -13,7 +13,7 @@ Every argument map in this book comes with a full text description.
   heading, so you can explore a map using the Navigation Pane or your
   screen reader's heading navigation.
 
-A claim marked "(Stopping Point)" has nothing further supporting it.
+A claim marked "(Stopping Point)" has nothing further supporting or objecting to it.
 
 ## License
 
