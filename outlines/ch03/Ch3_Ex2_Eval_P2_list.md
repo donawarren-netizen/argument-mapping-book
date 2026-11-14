@@ -1,0 +1,4 @@
+- 1\) Capital punishment has no place in our justice system.
+    - Inference A
+        - 2\) Capital punishment is disproportionately applied to economically disadvantaged people. \[Evaluation: Support would help.\] (Stopping Point)
+        - 3\) If a punishment is disproportionately applied to economically disadvantaged people then it has no place in our justice system. (Stopping Point)

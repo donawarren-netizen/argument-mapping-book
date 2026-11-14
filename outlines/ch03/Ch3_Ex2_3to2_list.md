@@ -1,0 +1,3 @@
+- 2\) Capital punishment is disproportionately applied to economically disadvantaged people.
+    - Inference A
+        - 3\) If a punishment is disproportionately applied to economically disadvantaged people then it has no place in our justice system. (Stopping Point)

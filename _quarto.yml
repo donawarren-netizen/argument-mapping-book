@@ -42,6 +42,7 @@ book:
       chapters:
         - chapters/ch03/03-01-introduction.qmd
         - chapters/ch03/03-02-example-1.qmd
+        - chapters/ch03/03-03-example-2.qmd
     - part: "Chapter 5: Missing Conclusions"
       chapters:
         - chapters/ch05/05-01-introduction.qmd

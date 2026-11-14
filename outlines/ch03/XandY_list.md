@@ -1,0 +1,4 @@
+- Z
+    - Inference A
+        - X (Stopping Point)
+        - Y (Stopping Point)
