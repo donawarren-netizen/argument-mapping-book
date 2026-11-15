@@ -8,7 +8,7 @@ Consider the following:
 
 What is this passage doing? Is it trying to establish that something is true?
 
-It looks to me like that this passage is trying to establish that something is true, so I'd say that it contains an argument.
+It looks to me like this passage is trying to establish that something is true, so I'd say that it contains an argument.
 
 ## Step 2 – Analyzing the Argument
 
@@ -46,13 +46,13 @@ Now, how is Claim 4 related to the part of the argument that we've already mappe
 
 ### The Principle of Proximity
 
-There's a analysis tip that can come in handy sometimes. It's the ***Principle of Proximity*: If two claims are near each other in the passage, there's a good chance that they will be near each other in the map.**
+There's an analysis tip that can come in handy sometimes. It's the ***Principle of Proximity*: If two claims are near each other in the passage, there's a good chance that they will be near each other in the map.**
 
 The Principle of Proximity doesn't *always* hold, but it holds often enough for us to wonder if Claim 4 might be related to Claim 3. And it looks to me like Claims 3 and 4 are connected to each other somehow. But how?
 
-Is Claim 3 being given as a reason to believe Claim 4? I don't think so. If we mapped it that way, with Claim 3 supporting Claim 4, and read down the inference line, we'd get "(4) We shouldn't send the message that human life isn't important **because** (3) if we have the death penalty then we send the message that human life isn't important." But Claim 3 doesn't give us reason to believe Claim 4.
+Is Claim 3 being given as a reason to believe Claim 4? I don't think so. If we mapped it that way, with Claim 3 supporting Claim 4, and read down the inference line, we'd get "(4) We shouldn't send the message that human life is unimportant **because** (3) if we have the death penalty then we send the message that human life isn't important." But Claim 3 doesn't give us reason to believe Claim 4.
 
-Is Claim 4 being given as a reason to believe Claim 3? Again, I don't think so. If we mapped it that way, with Claim 4 supporting Claim 3, and read down the inference line, we'd get "(3) If we have the death penalty then we send the message that human life isn't important **because** (4) we shouldn't send the message that human life isn't important." But Claim 4 doesn't give us reason to believe Claim 3.
+Is Claim 4 being given as a reason to believe Claim 3? Again, I don't think so. If we mapped it that way, with Claim 4 supporting Claim 3, and read down the inference line, we'd get "(3) If we have the death penalty then we send the message that human life isn't important **because** (4) we shouldn't send the message that human life is unimportant." But Claim 4 doesn't give us reason to believe Claim 3.
 
 Well, if Claim 3 and Claim 4 aren't related to each other with an inference but still seem to be connected to each other *somehow*, maybe they are dependent reasons working together to support some other claim, like this:
 
@@ -66,7 +66,7 @@ Let's look at Claims 3 and 4 with the Puzzle Piece Test in mind. Do they have co
 
 The conclusion that follows from Claims 3 and 4 will be composed of the parts that are *unique* to each claim. When we ignore sending the message that human life isn't important, we're left with "we have the death penalty" as the unique part from Claim 3 and "we shouldn't" as the unique part from Claim 4. Putting those unique parts together gives us "We shouldn't have the death penalty" as the conclusion from Claims 3 and 4.
 
-And low and behold, that is Claim 1 in our passage!
+And lo and behold, that is Claim 1 in our passage!
 
 > "The debate over capital punishment seems to be unending. But just think about it. Because (2) the death penalty involves taking a human life, (3) if we have the death penalty then we send the message that human life isn't important. (4) Obviously, we shouldn't send that message. Consequently, (1) we shouldn't have the death penalty."
 
@@ -78,7 +78,7 @@ And low and behold, that is Claim 1 in our passage!
 
 ### Supply Conclusions
 
-Notice what we did: As soon as we saw that Claims 3 and Claims 4 were dependent reasons, **we *supplied the conclusion* that follows from them. We didn't wait to find in the passage. Instead, we figured it out proactively.** This is a *very smart move*.
+Notice what we did: As soon as we saw that Claims 3 and 4 were dependent reasons, **we *supplied the conclusion* that follows from them. We didn't wait to find it in the passage. Instead, we figured it out proactively.** This is a *very smart move*.
 
 Why shouldn't we try to locate the conclusion in the argument? Because *sometimes the author won't state the conclusion*. Sometimes, two dependent reasons will lead to an unstated subconclusion, and unless we supply that subconclusion for ourselves, the argument will be very hard to understand. We won't encounter missing conclusions until Chapter 5, but if we start to develop the habit of figuring out the conclusions for ourselves right now, it will be very easy for us to supply missing conclusions later on.
 
@@ -96,7 +96,7 @@ The conclusion of this inference, Claim 1, is what we call a "**normative claim*
 
 Claim 4 is normative as well because it, like Claim 1, contains that normative notion "shouldn't."
 
-Claim 3, on the other hand, is *not* normative. It isn't making a judgment or saying that something is good or bad. It's simply saying that that the death penalty would send the message that human life isn't important without stating or implying that this is a good or bad thing. We can call a statement like this a "**descriptive claim**."
+Claim 3, on the other hand, is *not* normative. It isn't making a judgment or saying that something is good or bad. It's simply saying that the death penalty would send the message that human life isn't important without stating or implying that this is a good or bad thing. We can call a statement like this a "**descriptive claim**."
 
 ![Map with Claims 1 and 4 labeled normative and Claim 3 labeled descriptive.](/images/ch03/Ch3_Ex3_DandN.png){#fig-3-4-dandn-1 width=456px fig-alt="Argument map concluding: 1) We shouldn’t have the death penalty, labeled NORMATIVE, supported by Claim 3, labeled DESCRIPTIVE, and Claim 4, labeled NORMATIVE, together. A full text description is provided."}
 
@@ -198,7 +198,7 @@ You would probably have no difficulty with this inference because you know that 
 
 Now these are clearly different arguments. The first has an "if... then..." conclusion and doesn't assume that we have vinegar. The second doesn't have an "if... then..." conclusion and does assume that we have vinegar. But the *inferences* are equivalent, so instead of evaluating the inference in the argument with one reason and an "if\... then\..." conclusion (which is hard), we can evaluate the inference in the argument with two reasons and without an "if\... then\..." conclusion (which is easier).
 
-And that's the trick! **If the conclusion of an inference is an "If\... then\..." sentence, we can ask "If a perfectly gullible person but perfectly rational person (Gully) believed the claims(s) at the bottom of the inference line, and believed the front part of the 'If\... then\...' conclusion, how likely would that person be to believe the back part of the 'If\... then\...' conclusion?"**
+And that's the trick! **If the conclusion of an inference is an "If\... then\..." sentence, we can ask "If a perfectly gullible but perfectly rational person (Gully) believed the claim(s) at the bottom of the inference line, and believed the front part of the 'If\... then\...' conclusion, how likely would that person be to believe the back part of the 'If\... then\...' conclusion?"**
 
 Now let's apply this trick to Inference A in our argument.
 
@@ -214,7 +214,7 @@ If Gully believes that Claim 2 (the death penalty involves taking a human life) 
 
 Your opinion here could easily differ from mine, but I don't think Gully would be inclined to believe that we're sending the message that human life isn't important. Some advocates of capital punishment say that by putting to death convicted murderers, society shows its *appreciation* for the importance of human life by demanding the severest penalty for taking one.
 
-Because I think that inference A is bad, I have to conclude that the argument is bad as whole.
+Because I think that Inference A is bad, I have to conclude that the argument is bad as a whole.
 
 > "The debate over capital punishment seems to be unending. But just think about it. Because (2) the death penalty involves taking a human life, (3) if we have the death penalty then we send the message that human life isn't important. (4) Obviously, we shouldn't send that message. Consequently, (1) we shouldn't have the death penalty."
 
@@ -224,7 +224,7 @@ Because I think that inference A is bad, I have to conclude that the argument is
 {{< include /outlines/ch03/Ch3_Ex3_Eval_list.md >}}
 :::
 
-It is important to note that I must think that this argument is bad regardless of how I feel about the ultimate conclusion. The question isn't "Do I think that the ultimate conclusion true?" but "Do I think that *this argument establishes* that the ultimate conclusion is true?" and if Inference A is weak, then it doesn't.
+It is important to note that I must think that this argument is bad regardless of how I feel about the ultimate conclusion. The question isn't "Do I think that the ultimate conclusion is true?" but "Do I think that *this argument establishes* that the ultimate conclusion is true?" and if Inference A is weak, then it doesn't.
 
 In general, we might vehemently agree with the ultimate conclusion of an argument while still recognizing that an argument supporting that conclusion is bad. In fact, we have a special duty to view with a critical eye the arguments for positions that we support. Not only do we need to be alert to the natural tendency to favor arguments for the positions that we hold, but also (and more importantly) it's in our best interests to ensure that conclusions we endorse aren't allied with bad arguments because there's a natural (although irrational) tendency to assume that conclusions allied with bad arguments are bad by association. We don't want people who don't share our views to think that our views are mistaken simply because they're associated with bad arguments.
 
@@ -284,7 +284,7 @@ Reflecting upon the relationship between Claims 3 and 4 and Claim 1, we were abl
 
 ### Step 3 – Evaluating the Argument
 
-When we evaluated this argument, we saw how to assess inferences that support "if... then..." claims: we can ask "If a perfectly gullible person but perfectly rational person (Gully) believed the claims(s) at the bottom of the inference line, and believed the front part of the 'If\... then\...' conclusion, how likely would that person be to believe the back part of the 'If\... then\..." conclusion?"
+When we evaluated this argument, we saw how to assess inferences that support "if... then..." claims: we can ask "If a perfectly gullible but perfectly rational person (Gully) believed the claim(s) at the bottom of the inference line, and believed the front part of the 'If\... then\...' conclusion, how likely would that person be to believe the back part of the 'If\... then\...' conclusion?"
 
 Thinking about Inference A in that way, I decided that it's bad. This was enough for me to think that the argument as a whole was bad.
 
