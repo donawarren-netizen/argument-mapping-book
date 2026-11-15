@@ -258,7 +258,9 @@ when they resist accepting that good arguments establish their
 conclusions, so let's take a moment to address some of the most common
 reasons for spitting out the pill.
 
-#### "I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because I don't want anyone to tell me what to believe."
+#### "You can't tell me what to believe."
+
+"I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because I don't want anyone to tell me what to believe."
 
 Good! I don't want anyone to tell you what to believe either (within
 reason, of course; it's important to listen to experts). But that's not
@@ -267,7 +269,9 @@ what's going on here. It's not as though *somebody else* is telling you,
 You are adjusting your acceptance of the conclusion to *your own*
 assessment of the argument.
 
-#### "I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because some good arguments have false conclusions, for instance ..."
+#### "Some convincing arguments have false conclusions."
+
+"I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because some good arguments have false conclusions, for instance ..."
 
 At this point, the sentence is completed in one of two ways. Either the
 speaker will present an argument that is *clever* but has an obviously
@@ -293,7 +297,9 @@ wrong with an argument that supports it. We can be justified in
 believing *that* an argument is bad even if we're hard-pressed to say
 exactly *why* it's bad. And don't let anybody tell you otherwise.
 
-#### "I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because an argument that I think is good now could turn out to be bad later."
+#### "I might change my mind."
+
+"I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because an argument that I think is good now could turn out to be bad later."
 
 Indeed! As we gather more evidence and learn more about the world, it
 might happen that we'll change our minds about our evaluation of an
@@ -304,7 +310,9 @@ conclusion accordingly. We don't need to commit ourselves to an
 argument's conclusion forever. We should allow our confidence in the
 conclusion to vary with our assessment of the argument.
 
-#### "I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because other people might evaluate the argument differently."
+#### "Others might disagree."
+
+"I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because other people might evaluate the argument differently."
 
 It is important to realize that we often won't reach unanimous agreement
 about the evaluation of an argument. Sometimes, of course, a premise or
@@ -323,7 +331,9 @@ is good, you might also disagree with other people about the degree to
 which the conclusion of the argument has been established. That is
 simply the way of this complex world.
 
-#### "I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because I might think that the argument is just 'sort of' good."
+#### "The argument might be only sort of good."
+
+"I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because I might think that the argument is just 'sort of' good."
 
 In fact, very few arguments are absolutely, 100%, fantastically good,
 the sort of argument that establishes the truth of its conclusion beyond
@@ -339,7 +349,9 @@ probably true but can't be proven beyond a reasonable doubt, or perhaps
 because the inference is fairly strong but not valid) we should be "sort
 of" confident that the conclusion is true.
 
-#### "I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because I might have a good argument for a conclusion and another good argument for the opposite conclusion."
+#### "There can be strong arguments on both sides."
+
+"I don't think that I should be inclined to accept the conclusion if I decide that an argument is good because I might have a good argument for a conclusion and another good argument for the opposite conclusion."
 
 Because arguments lie on a continuum between good and bad, arguments are
 more often better or worse than each other than they are absolutely
