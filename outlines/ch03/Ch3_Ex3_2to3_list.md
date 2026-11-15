@@ -1,0 +1,3 @@
+- 3\) If we have the death penalty then we send the message that human life isn’t important.
+    - Inference A
+        - 2\) The death penalty involves taking a human life. (Stopping Point)

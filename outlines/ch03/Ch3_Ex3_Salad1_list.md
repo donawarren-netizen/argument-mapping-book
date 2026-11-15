@@ -1,0 +1,3 @@
+- If we have vinegar then we can make salad dressing.
+    - Inference
+        - We have olive oil. (Stopping Point)

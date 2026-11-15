@@ -1,0 +1,3 @@
+- If Front Part then Back Part.
+    - Inference
+        - Reason (Stopping Point)
