@@ -76,7 +76,7 @@ And lo and behold, that is Claim 1 in our passage!
 {{< include /outlines/ch03/Ch3_Ex3_list.md >}}
 :::
 
-### Supply Conclusions
+### Supplying Conclusions
 
 Notice what we did: As soon as we saw that Claims 3 and 4 were dependent reasons, **we *supplied the conclusion* that follows from them. We didn't wait to find it in the passage. Instead, we figured it out proactively.** This is a *very smart move*.
 
