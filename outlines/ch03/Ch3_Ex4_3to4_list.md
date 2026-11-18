@@ -1,0 +1,3 @@
+- 4\) Justice demands that the murderer’s own life be taken.
+    - Inference A
+        - 3\) Murder involves taking another person’s life. (Stopping Point)

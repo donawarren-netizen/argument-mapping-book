@@ -1,0 +1,6 @@
+- 1\) We should have the death penalty.
+    - Inference B
+        - 2\) An important purpose of punishment is exacting justice. (Stopping Point)
+        - 4\) Justice demands that the murderer’s own life be taken.
+            - Inference A
+                - 3\) Murder involves taking another person’s life. (Stopping Point)

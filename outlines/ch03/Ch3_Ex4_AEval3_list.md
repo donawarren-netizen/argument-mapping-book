@@ -1,0 +1,7 @@
+- 1\) We should have the death penalty.
+    - Inference B
+        - 2\) An important purpose of punishment is exacting justice. (Stopping Point)
+        - 4\) Justice demands that the murderer’s own life be taken.
+            - Inference A \[Evaluation: This inference is bad because the missing premise that it assumes is false.\]
+                - 3\) Murder involves taking another person’s life. \[Evaluation: This premise is good.\] (Stopping Point)
+                - a) If a crime involves taking something from the victim then justice demands that the same thing be taken from the perpetrator. \[Evaluation: This missing premise is false.\] (Stopping Point)
