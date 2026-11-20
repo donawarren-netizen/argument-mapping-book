@@ -1,0 +1,6 @@
+- 1\) We should have the death penalty.
+    - Inference B
+        - 2\) We want to deter potential murderers. (Stopping Point)
+        - 3\) The death penalty will deter potential murderers.
+            - Inference A
+                - 4\) People will realize that killing someone might result in their own execution. (Stopping Point)

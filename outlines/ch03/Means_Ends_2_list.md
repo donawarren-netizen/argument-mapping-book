@@ -1,0 +1,5 @@
+- We should do M.
+    - Inference
+        - We want E. (Stopping Point)
+        - Doing M will get us E. (Stopping Point)
+        - Doing M is among the best ways to get E. (Stopping Point)

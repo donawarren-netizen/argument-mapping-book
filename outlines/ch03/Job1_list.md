@@ -1,0 +1,4 @@
+- We should get a job.
+    - Inference A
+        - We want money. (Stopping Point)
+        - Getting a job will get us money. (Stopping Point)

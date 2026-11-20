@@ -1,0 +1,5 @@
+- We should rob a bank.
+    - Inference B
+        - We want money. (Stopping Point)
+        - Robbing a bank will get us money. (Stopping Point)
+        - Robbing a bank is among the best ways to get money. (Stopping Point)

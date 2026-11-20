@@ -1,0 +1,4 @@
+- We should do M.
+    - Inference
+        - We want E. (Stopping Point)
+        - Doing M will get us E. (Stopping Point)
