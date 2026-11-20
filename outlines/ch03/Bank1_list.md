@@ -1,4 +1,4 @@
 - We should rob a bank.
-    - Inference B
+    - Inference A
         - We want money. (Stopping Point)
         - Robbing a bank will get us money. (Stopping Point)

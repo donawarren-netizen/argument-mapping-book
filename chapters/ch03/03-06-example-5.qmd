@@ -186,7 +186,7 @@ That's not a problem.
 
 But compare it to this argument.
 
-![Means / Ends Reasoning: robbing a bank.](/images/ch03/Bank1.png){#fig-3-6-bank1-1 width=420px fig-alt="Argument map concluding: We should rob a bank, supported by two claims together through Inference B: We want money, and Robbing a bank will get us money. A full text description is provided."}
+![Means / Ends Reasoning: robbing a bank.](/images/ch03/Bank1.png){#fig-3-6-bank1-1 width=420px fig-alt="Argument map concluding: We should rob a bank, supported by two claims together through Inference A: We want money, and Robbing a bank will get us money. A full text description is provided."}
 
 ::: {.map-outline fig="fig-3-6-bank1-1"}
 {{< include /outlines/ch03/Bank1_list.md >}}
@@ -214,7 +214,7 @@ When that hidden premise is true (as it probably is with getting a job) the infe
 
 When that hidden premise is false (as it probably is with robbing a bank) the inference is bad.
 
-![Robbing a bank, with the hidden premise added.](/images/ch03/Bank2.png){#fig-3-6-bank2-1 width=618px fig-alt="Argument map concluding: We should rob a bank, supported by three claims together through Inference B: We want money, Robbing a bank will get us money, and the missing premise Robbing a bank is among the best ways to get money. A full text description is provided."}
+![Robbing a bank, with the hidden premise added.](/images/ch03/Bank2.png){#fig-3-6-bank2-1 width=618px fig-alt="Argument map concluding: We should rob a bank, supported by three claims together through Inference A: We want money, Robbing a bank will get us money, and the missing premise Robbing a bank is among the best ways to get money. A full text description is provided."}
 
 ::: {.map-outline fig="fig-3-6-bank2-1"}
 {{< include /outlines/ch03/Bank2_list.md >}}
