@@ -86,7 +86,7 @@ We see that there's a "but" between Claims 3 and 4 in the passage. "But" sometim
 
 ### Sneak Peek: Inference Forms
 
-This new inference is actually an instance of an **inference form**. That means we can talk about it very abstractly, regardless of the content of the sentences. We'll be officially introduced to inference forms later on, but there's no reason why we can't take a sneak peek now.
+Inference C is actually an instance of an **inference form**. That means we can talk about it very abstractly, regardless of the content of the sentences. We'll be officially introduced to inference forms later on, but there's no reason why we can't take a sneak peek now.
 
 Suppose we're told "Either P or Q is true," and then we learn "Q isn't true." What can we conclude? P must be true! (By the way, that's called the "Disjunctive Syllogism" if you want to impress your friends.)
 
