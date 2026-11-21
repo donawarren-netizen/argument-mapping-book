@@ -1,0 +1,4 @@
+- P
+    - Disjunctive Syllogism
+        - P or Q (Stopping Point)
+        - Not Q (Stopping Point)

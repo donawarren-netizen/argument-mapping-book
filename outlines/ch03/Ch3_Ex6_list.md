@@ -1,0 +1,9 @@
+- 1\) We should sentence serious criminals to life in prison.
+    - Inference C
+        - 3\) Either serious criminals should be imprisoned without the possibility of parole or they should be given the death penalty.
+            - Inference A
+                - 2\) Serious criminals should be removed from the general population forever. (Stopping Point)
+        - 4\) The death penalty isn’t a good option.
+            - Inference B
+                - 5\) There’s always a possibility that an innocent person could be convicted. (Stopping Point)
+                - 6\) Executing an innocent person is a risk that we can’t run. (Stopping Point)
