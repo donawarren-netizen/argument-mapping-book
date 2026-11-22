@@ -64,6 +64,17 @@ base name), and any other images (e.g. flattened illustrations).
 - Flag (don't silently fix) wording differences between the text and the maps,
   and anything Claude invented (captions, alt text, titles).
 
+## Conversion notes (`notes/`)
+- One file per chapter (`notes/chapter-N-notes.md`), one entry per section,
+  headed `## N.S Title (date)`, added in the same commit as the section. Follow
+  the existing entries: passage and topics; maps (figure counts, .mup/PDF
+  matches, anything odd); outlines fixed by hand; content fixes flagged to Dona
+  and her decisions; other fixes; checks run; commit.
+- Read the chapter's notes before changing a section: they record wording Dona
+  chose to keep and fixes she approved.
+- `notes/` isn't in the book (Quarto renders only the files listed in
+  `_quarto.yml`).
+
 ## Checks before committing
 - Local rendering: `pip install --break-system-packages quarto-cli==1.10.19`
   (the version pinned in the workflow; downloading from GitHub may be blocked).
