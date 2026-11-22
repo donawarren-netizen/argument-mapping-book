@@ -1,0 +1,6 @@
+- 2\) Philosophy doesn’t teach people how to be good.
+    - Inference A
+        - 3\) Philosophy encourages people to think critically about what it means to be good. (Stopping Point)
+        - 4\) Thinking critically about what it means to be good interferes with the process of actually becoming good.
+            - Inference B
+                - 5\) Thinking critically about what it means to be good naturally leads to endless self-justification. (Stopping Point)

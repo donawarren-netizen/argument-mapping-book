@@ -1,0 +1,3 @@
+- 6\) Religion does teach people how to be good.
+    - Inference C
+        - 7\) Religion gives people a moral code to follow. (Stopping Point)

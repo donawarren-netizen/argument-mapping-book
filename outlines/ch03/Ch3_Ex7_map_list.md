@@ -1,0 +1,11 @@
+- 1\) Religion is a better choice than philosophy for prison education programs.
+    - Inference D
+        - 2\) Philosophy doesn’t teach people how to be good.
+            - Inference A
+                - 3\) Philosophy encourages people to think critically about what it means to be good. (Stopping Point)
+                - 4\) Thinking critically about what it means to be good interferes with the process of actually becoming good.
+                    - Inference B
+                        - 5\) Thinking critically about what it means to be good naturally leads to endless self-justification. (Stopping Point)
+        - 6\) Religion does teach people how to be good.
+            - Inference C
+                - 7\) Religion gives people a moral code to follow. (Stopping Point)
