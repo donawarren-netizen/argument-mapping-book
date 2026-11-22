@@ -65,6 +65,9 @@ base name), and any other images (e.g. flattened illustrations).
   and anything Claude invented (captions, alt text, titles).
 
 ## Conversion notes (`notes/`)
+- `notes/textbook-platform-plan.md`: overall plan, decisions, and the notes for
+  Chapters 1 and 2 (recovered Nov 22; frozen as of Nov 5 apart from "Later
+  changes" at the end). From Chapter 3 on:
 - One file per chapter (`notes/chapter-N-notes.md`), one entry per section,
   headed `## N.S Title (date)`, added in the same commit as the section. Follow
   the existing entries: passage and topics; maps (figure counts, .mup/PDF

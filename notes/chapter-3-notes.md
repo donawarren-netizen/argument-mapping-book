@@ -1,6 +1,19 @@
 # Textbook: Chapter 3 conversion notes
 
-Companion to `textbook-platform-plan.md` (workflow, decisions, conventions; not in the repo yet). The book now also contains 3.1 Introduction, 3.2 Example 1 and 3.4 Example 3 (added in earlier sessions; not logged here).
+Companion to `textbook-platform-plan.md` (workflow, decisions, conventions). Entries for 3.1, 3.2 and 3.4 were never written at the time; they were reconstructed on Nov 22 from git history and the session transcripts, so they're less detailed than the others.
+
+## 3.1 Introduction (Nov 11; reconstructed)
+- New part "Chapter 3: Arguments with Dependent Reasons" between Chapters 2 and 5 (Word title's dash changed to a colon, like the other part names). No renumbering needed.
+- No maps. Three pictures, pixel-identical to ones already in the book (two from 2.1, the dependent-reasons picture from 5.1), copied to images/ch03/ as boulders_one_ladder, boulders_subconclusion, boulders_dependent (140, 125, 200px, in proportion to the Word document). Alt text for the first two reused from 2.1; new one: "Two gray boulders side by side, joined by a plank that rests on both of them. A single bridge rises from the plank up to a golden boulder." (Claude's wording; "bridge"/"plank" per Dona's terms).
+- Fixes: colon after each "you'll learn" (as in 2.1); period moved outside the bold in "**analyzing arguments**."; "i.e.,"; summary line break → paragraph; blank lines dropped.
+- Dona's decisions: "Specifically," dropped from "…everyday life."; summary line "This is a major advance in argument structure." kept.
+- 3.1 mentions Chapters 1, 2 and 3 (add to the renumbering list).
+- Checks: render with no warnings; axe 0 violations light/dark, desktop/phone; no sideways scrolling. Commit 7d40eba.
+
+## 3.2 Example 1 (Nov 11; reconstructed)
+- Passage about capital punishment that is an explanation, not an argument. No maps or images.
+- Fixes: Step heading dashes; commas in the opening sentence ("…an inference indicator expression, then it was an argument, and if…") and after "Instead"; em dashes around "the claim following the 'because'"; "as a reason" (was "as reason"); blank lines and a stray leading space dropped.
+- Checks: render with no warnings; axe 0 violations light/dark, desktop/phone. Commit 8cb3c41.
 
 ## 3.3 Example 2 (Nov 14)
 - Passage: capital punishment and economically disadvantaged people. Topics: dividing sentences around connectors (must: so/because; may: and/but; never: if…then/or; the Trickle-Down Test), dependent reasons, four tests (Eye-Exam, Try It Out, Inference "Erasers", Puzzle Piece), evaluating conditionals (falsification condition), practice with 3'.
@@ -10,6 +23,15 @@ Companion to `textbook-platform-plan.md` (workflow, decisions, conventions; not 
 - Content fix flagged: "Truth does not trickle down over 'if… then…' and 'or' so we **can't** divide" (Word said "can").
 - Other fixes: "What is this passage doing?" in Step 1 (matches the summary and 3.2); "Unlike the passage in Example 1, this passage does try to convince us of something"; "kill those who kill others" (was "kill others"); "get us to believe" (×2); "must C be true as well"; "that the sentence is true"; "Trickle-Down Test" and "Eye-Exam Test" hyphenated consistently; "Eye-Exam Test in action … to our argument:" (was "Text"); stray subscript commas removed; "Similarly, if 'Pat isn't at home because…' is true" (quote placement); "Claims X and Y"; "both Claim 2 and Claim 3"; "work together to support" (comma); "That led us to reject"; "(or a similar connector"; "Premise 3", "Inference A" capitalized; "the new law professor" (twice "constitutional law professor"); "while the back part is false"; "does have a place" (×2); "in our justice system"; "offense" (was "offence"); "so let's note that"; "Returning to the Argument" (was "Returning the Argument"); summary "decided that Claim 3 is true", "Claim 2—although possibly true—could…", em dashes, stray period after "The Puzzle Piece Test".
 - Checks: render with no warnings; axe 0 violations light/dark, desktop/phone; no sideways scrolling; Word file has the 20 figures and the Chapter 3 appendix. Commit 8178c6f.
+
+## 3.4 Example 3 (Nov 15; reconstructed)
+- Passage: we shouldn't have the death penalty (it would send the message that human life is unimportant). Topics: the Principle of Proximity; Claims 3 and 4 as dependent reasons for a conclusion not yet identified; Supplying Conclusions; normative and descriptive claims; identifying premises and subconclusions in a map; inferences to "if… then…" statements (olive oil / vinegar / salad dressing); Inference A evaluated as bad.
+- Maps (Dona sent them in two batches): Ch3_Ex3, _2to3, _3and4, _DandN, _Eval, _RtoC, _RtoIfThen1, _Salad1, _Salad2 (17 figures: full ×6, 2to3/3and4/Eval ×2, rest ×1). Captions and alt text written by Claude, in 3.3's style.
+- Outlines: _3and4 root "(blank claim)" hand-fixed to "? (conclusion not yet identified)".
+- Content fix (Dona approved): where the text reads down the inference lines, Claim 4 now says "human life is unimportant", matching the maps (text had "isn't important"; Claim 3 uses "isn't important" in text and maps).
+- Typos fixed at Dona's request: "It looks to me like this passage"; "an analysis tip"; "lo and behold"; "Claims 3 and 4 were dependent reasons"; "find it in the passage"; doubled "that"; "a perfectly gullible but perfectly rational person" and "claim(s)" (×2 each); "Inference A" capitalized; "bad as a whole"; "that the ultimate conclusion is true?"; matching quotation marks around "If… then…" in the Step 3 summary (01f0729).
+- Heading "Supplying Conclusions" (was "Supply Conclusions"; Dona, Nov 15; anchor now #supplying-conclusions) (dbc95bc).
+- Checks: render with no warnings; axe 0 violations light/dark; no sideways scrolling; figures present in Word. Commit 9cd4dec.
 
 ## 3.5 Example 4 (Nov 18)
 - Passage: death penalty / justice demands the murderer's life. Topics: "since" at the front of a compound claim, Principle of Proximity isn't infallible (2 and 3 rejected; 2 and 4 dependent), supplying the conclusion with the Puzzle Piece test, tracing an objection to a subconclusion, the Missing Premise Method (lowercase letters for missing premises; generalizing to a broader principle; falsification condition), communicating the evaluation ("This inference assumes that…, but that seems wrong because…").
