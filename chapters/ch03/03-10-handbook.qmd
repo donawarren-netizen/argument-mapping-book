@@ -111,7 +111,7 @@ inference line):
 -   Dependent reasons can't support a conclusion individually but
     together they can.
 
-![Two dependent reasons working together to support a conclusion.](/images/ch03/Dependent_Reasons.png){#fig-3-10-dependent width=295px fig-alt="Argument map with 1) Conclusion at the top, supported by 2) Dependent Reason and 3) Dependent Reason together through Inference A. A full text description is provided."}
+![Two dependent reasons working together to support a conclusion.](/images/ch03/Dependent_Reasons.png){#fig-3-10-dependent width=369px fig-alt="Argument map with 1) Conclusion at the top, supported by 2) Dependent Reason and 3) Dependent Reason together through Inference A. A full text description is provided."}
 
 ::: {.map-outline fig="fig-3-10-dependent"}
 {{< include /outlines/ch03/Dependent_Reasons_list.md >}}
@@ -161,7 +161,7 @@ these general principles:
     As soon as you see an inference indicator, represent it (unless it's
     connected to the ultimate conclusion; see point 1 above).
 
--   **NEW:** *Use the principle of proximity.*
+-   **NEW:** *Use the Principle of Proximity.*
 
     If two claims are near each other in the passage, there's a good
     chance that they will be near each other in the map.
@@ -286,9 +286,9 @@ connections that compose the argument.
 
 ### Communicating an Argument
 
-#### 1) Decide what claims you want to state.
+#### NEW: 1) Decide what claims you want to state.
 
--   **NEW:** You might want to leave a premise unstated.
+-   You might want to leave a premise unstated.
 
 #### 2) Decide in what order you want to state the claims.
 
