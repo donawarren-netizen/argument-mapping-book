@@ -68,7 +68,7 @@ This gives us the following map:
 
 Now Inference A looks great! Of course, in the process of repairing an inference by adding a dependent reason, we introduced a new premise so we should make sure that it's okay.
 
-I think that "We shouldn't aspire to anything that would interfere with our attainment of any virtues" is true, but *maybe* someone in our audience might not buy it. Consequently, let's transform this claim into a subconclusion by asking "What are some reasons to believe this?" One answer is "Attaining virtues will bring us happiness," which gives us the following map:
+I think that "We shouldn't aspire to anything that interferes with our attainment of virtue" is true, but *maybe* someone in our audience might not buy it. Consequently, let's transform this claim into a subconclusion by asking "What are some reasons to believe this?" One answer is "Attaining virtues will bring us happiness," which gives us the following map:
 
 ![The argument with Claim 5 supporting Claim 4.](/images/ch03/Dependent_Reason_Supported1.png){#fig-3-9-supported1 width=601px fig-alt="Argument map concluding: 1) We shouldn't aspire to be as independent and autonomous as possible, supported by Claims 2 and 4 together through Inference A; Claim 2 is supported by Claim 3 through Inference B, and Claim 4 is supported by Claim 5 through Inference C. A full text description is provided."}
 
@@ -152,7 +152,7 @@ For instance, let's take a look at our map again.
 
 And let's write the argument like this:
 
-> "(1) We shouldn't aspire to be as independent and autonomous as possible. After all, (3) gratitude and forgiveness require interdependence so (2) some virtues require a level of interdependence. And (4) we shouldn't aspire to anything that interferes with our attainment of virtue because (5) attaining virtue will bring us happiness since (6) virtues will attract friends to us."
+> "(1) We shouldn't aspire to be as independent and autonomous as possible. After all, (3) gratitude and forgiveness require interdependence so (2) some virtues require a level of interdependence. And (4) we shouldn't aspire to anything that interferes with our attainment of virtue because (5) attaining virtues will bring us happiness since (6) virtues will attract friends to us."
 
 Not bad! If we wanted to repeat the ultimate conclusion at the end, we can always do that, but if we've made it clear to our reader what the ultimate conclusion is, repeating it isn't necessary here, because there's no real question about how it's connected to the reasoning that supports it.
 
