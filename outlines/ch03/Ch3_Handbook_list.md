@@ -1,0 +1,6 @@
+- 1\) Claim
+    - Inference A
+        - 2\) Claim
+            - Inference B
+                - 3\) Claim (Stopping Point)
+        - 4\) Claim (Stopping Point)

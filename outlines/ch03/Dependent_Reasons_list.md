@@ -1,0 +1,4 @@
+- 1\) Conclusion
+    - Inference A
+        - 2\) Dependent Reason (Stopping Point)
+        - 3\) Dependent Reason (Stopping Point)
