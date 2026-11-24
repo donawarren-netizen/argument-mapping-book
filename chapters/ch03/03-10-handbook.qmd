@@ -169,8 +169,7 @@ these general principles:
 -   **NEW:** *Supply conclusions.*
 
     When faced with dependent reasons, determine the claim that follows
-    from them. If that claim isn't stated in the passage, fill it in
-    yourself.
+    from them.
 
 ### 3) Continue to the End
 
