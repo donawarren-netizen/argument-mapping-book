@@ -5,7 +5,7 @@
 Let's consider the following passage. Does it contain an argument? Is it
 trying to convince us of something, or establish that something is true?
 
-> "Contrary to popular opinion, moral relativism is not simply the thesis
+> "Contrary to popular opinion, cultural relativism is not simply the thesis
 > that different cultures have different views about what's right and
 > wrong. Instead, cultural relativism advances the much stronger claim
 > that there is nothing *more* to morality than these different views
@@ -21,7 +21,7 @@ telling us what the philosophical position of cultural relativism is.
 
 Example 1 presented us with the following passage:
 
-> "Contrary to popular opinion, moral relativism is not simply the thesis
+> "Contrary to popular opinion, cultural relativism is not simply the thesis
 > that different cultures have different views about what's right and
 > wrong. Instead, cultural relativism advances the much stronger claim
 > that there is nothing *more* to morality than these different views

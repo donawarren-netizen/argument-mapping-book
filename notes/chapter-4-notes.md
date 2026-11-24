@@ -14,6 +14,6 @@
 ## 4.2 Example 1 (Nov 24)
 - Passage describing cultural relativism (not an argument: it tells us what the position is without trying to convince us). Step 1 only, plus summary. No maps or images.
 - Content fixes flagged to Dona: "moral relativism is not simply the thesis" (Word lacked "is", in both copies of the passage); "what the philosophical position of cultural relativism is" (Word lacked "is").
-- Asked Dona: the passage's first sentence says "moral relativism" and the next two say "cultural relativism" (left as in Word).
+- The passage's first sentence said "moral relativism" and the next two "cultural relativism"; Dona chose "cultural relativism" throughout (Nov 24). She approved both added "is"s.
 - Other fixes: Step heading dashes; "Summary of Example 1" made H2 (Word had H1) and the underlined "Step 1 - Recognizing an Argument" in the summary made an H3, as in 3.2; colon after "the following passage" in the summary (as in 3.2); empty nbsp lines dropped.
 - Checks: render with no warnings; axe 0 violations light/dark, desktop/phone; no sideways scrolling; section appears in the Word file after 4.1.
