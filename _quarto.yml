@@ -50,6 +50,9 @@ book:
         - chapters/ch03/03-08-example-7.qmd
         - chapters/ch03/03-09-constructing-arguments.qmd
         - chapters/ch03/03-10-handbook.qmd
+    - part: "Chapter 4: Arguments with Independent Reasons"
+      chapters:
+        - chapters/ch04/04-01-introduction.qmd
     - part: "Chapter 5: Missing Conclusions"
       chapters:
         - chapters/ch05/05-01-introduction.qmd

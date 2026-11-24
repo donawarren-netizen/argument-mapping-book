@@ -1,0 +1,63 @@
+# 4.1 Introduction
+
+## What You'll Learn in this Chapter
+
+Welcome to Chapter 4! The reasoning skills you'll learn in this chapter
+will broaden the range of arguments you'll be able to handle.
+
+You'll learn more about **recognizing arguments**. In particular, you'll
+learn:
+
+-   how to recognize arguments that don't contain inference indicator
+    expressions.
+
+You'll learn more about **analyzing arguments**. In particular, you'll
+learn:
+
+-   how to recognize when multiple sentences in an argument convey the
+    same claim, and
+-   how to map arguments with independent reasons.
+
+You'll learn more about **evaluating arguments**. In particular, you'll
+learn:
+
+-   how to evaluate inferences using inference forms, and
+-   how to evaluate arguments with independent reasons.
+
+You'll learn more about **constructing arguments**. In particular,
+you'll learn:
+
+-   how to construct arguments with independent reasons, and
+-   how to write passages containing arguments with independent reasons.
+
+In Chapter 1, we learned about arguments that can be represented with
+very short maps because the premise takes us directly to the ultimate
+conclusion. Maps of these arguments are like maps that show how a
+starting boulder and an ending boulder can be connected with a single
+bridge.
+
+![](/images/ch04/boulders_one_ladder.png){.illustration width=140px fig-alt="A bridge leads from a gray boulder up to a golden boulder."}
+
+In Chapter 2, we learned about arguments with subconclusions. Maps of
+these arguments are like maps that show how intermediate boulders can
+help us work our way from the starting boulder to the ending boulder.
+
+![](/images/ch04/boulders_subconclusion.png){.illustration width=125px fig-alt="A bridge leads from a gray boulder up to a second gray boulder, and another bridge leads from there up to a golden boulder."}
+
+And in Chapter 3, the previous chapter, we saw arguments with dependent
+reasons. Maps of these arguments are like maps that depict cases where
+multiple boulders need to work together to support a bridge.
+
+![](/images/ch04/boulders_dependent.png){.illustration width=200px fig-alt="Two gray boulders side by side, joined by a plank that rests on both of them. A single bridge rises from the plank up to a golden boulder."}
+
+Have you noticed something? In all of these cases, there is only *one*
+route to the golden boulder. And of course, real life isn't like that.
+**In real life there are often multiple routes to a destination**, like
+so:
+
+![](/images/ch04/boulders_independent.png){.illustration width=190px fig-alt="Two separate gray boulders, each with its own bridge leading up to a golden boulder."}
+
+Similarly, in real life, arguments often present us with different ways
+to reach the ultimate conclusion. We'll call these different ways
+"independent reasons" or "independent lines of reasoning." That's what
+we'll be learning about next!
