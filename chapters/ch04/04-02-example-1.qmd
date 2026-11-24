@@ -1,0 +1,34 @@
+# 4.2 Example 1
+
+## Step 1 – Recognizing an Argument
+
+Let's consider the following passage. Does it contain an argument? Is it
+trying to convince us of something, or establish that something is true?
+
+> "Contrary to popular opinion, moral relativism is not simply the thesis
+> that different cultures have different views about what's right and
+> wrong. Instead, cultural relativism advances the much stronger claim
+> that there is nothing *more* to morality than these different views
+> and that there is no objective, culturally-transcendent right and
+> wrong in the ethical realm. According to cultural relativism, every
+> culture determines what's right and wrong for itself."
+
+It doesn't look to me like this passage is trying to convince us of
+anything, so I'd say that it doesn't contain an argument. It's simply
+telling us what the philosophical position of cultural relativism is.
+
+## Summary of Example 1
+
+Example 1 presented us with the following passage:
+
+> "Contrary to popular opinion, moral relativism is not simply the thesis
+> that different cultures have different views about what's right and
+> wrong. Instead, cultural relativism advances the much stronger claim
+> that there is nothing *more* to morality than these different views
+> and that there is no objective, culturally-transcendent right and
+> wrong in the ethical realm. According to cultural relativism, every
+> culture determines what's right and wrong for itself."
+
+### Step 1 – Recognizing an Argument
+
+We decided that this passage doesn't contain an argument.

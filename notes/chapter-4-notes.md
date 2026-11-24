@@ -10,3 +10,10 @@
 - Dona agreed with the chapter title, the two flagged fixes and the new alt text (Nov 24).
 - 4.1 mentions Chapters 1, 2, 3 and 4 (add to the renumbering list).
 - Checks: render with no warnings; axe 0 violations light/dark, desktop/phone; no sideways scrolling; Word file has Chapter 4 on its own page with its title, before Chapter 5.
+
+## 4.2 Example 1 (Nov 24)
+- Passage describing cultural relativism (not an argument: it tells us what the position is without trying to convince us). Step 1 only, plus summary. No maps or images.
+- Content fixes flagged to Dona: "moral relativism is not simply the thesis" (Word lacked "is", in both copies of the passage); "what the philosophical position of cultural relativism is" (Word lacked "is").
+- Asked Dona: the passage's first sentence says "moral relativism" and the next two say "cultural relativism" (left as in Word).
+- Other fixes: Step heading dashes; "Summary of Example 1" made H2 (Word had H1) and the underlined "Step 1 - Recognizing an Argument" in the summary made an H3, as in 3.2; colon after "the following passage" in the summary (as in 3.2); empty nbsp lines dropped.
+- Checks: render with no warnings; axe 0 violations light/dark, desktop/phone; no sideways scrolling; section appears in the Word file after 4.1.

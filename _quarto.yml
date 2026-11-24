@@ -53,6 +53,7 @@ book:
     - part: "Chapter 4: Arguments with Independent Reasons"
       chapters:
         - chapters/ch04/04-01-introduction.qmd
+        - chapters/ch04/04-02-example-1.qmd
     - part: "Chapter 5: Missing Conclusions"
       chapters:
         - chapters/ch05/05-01-introduction.qmd
