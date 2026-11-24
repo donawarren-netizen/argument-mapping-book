@@ -96,6 +96,12 @@ base name), and any other images (e.g. flattened illustrations).
   renames the search field from Quarto's "Submit" to "Search" for screen readers.
 - Look at the page at phone width (no sideways scrolling) and the Word file.
 
+## Publishing
+- Once Dona approves a section or change (her answers to anything flagged),
+  push it to `main` without asking again (Dona, Nov 24); the workflow then
+  publishes the site. Until she approves, commit and push only to the working
+  branch.
+
 ## Handbook pages (one per chapter, its last section)
 - Front matter `handbook: true` (first: 1.10 Chapter 1 Handbook). Under the
   title, an HTML-only box links `/downloads/Chapter-N-Handbook.docx`.
