@@ -30,6 +30,8 @@ you'll learn:
 -   how to construct arguments with independent reasons, and
 -   how to write passages containing arguments with independent reasons.
 
+## Independent Reasons
+
 In Chapter 1, we learned about arguments that can be represented with
 very short maps because the premise takes us directly to the ultimate
 conclusion. Maps of these arguments are like maps that show how a
@@ -61,3 +63,8 @@ Similarly, in real life, arguments often present us with different ways
 to reach the ultimate conclusion. We'll call these different ways
 "independent reasons" or "independent lines of reasoning." That's what
 we'll be learning about next!
+
+## Summary of Introduction
+
+The big idea in this chapter will be independent reasons, each of which
+supports a conclusion. This will give us independent lines of reasoning.
