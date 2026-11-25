@@ -28,3 +28,10 @@
 - 4.3 mentions Chapters 1, 2 and 3 (add to the renumbering list).
 - Checks: render with no warnings; axe 0 violations light/dark, desktop/phone; no sideways scrolling; Word file has 4.3 after 4.2, Figures 1–15, and "Appendix to Chapter 4" with Section 4.3, Figures 1–15.
 - Dona chose "accepting" in all passages and "finally" in the Summary; maps left as they are (Nov 25). Typo fixes accepted.
+
+## 4.4 Example 3 (Nov 25)
+- Passage explaining why many students in Professor Whitney's ethics class endorse cultural relativism (an explanation, not an argument: "we know" the fact already; three "because" reasons). Step 1 only, plus summary. No maps or images.
+- Fix flagged to Dona: "convince us *that* many students…" (Word had "*that* that many").
+- The summary gives the decision before the passage (earlier summaries open with the passage); kept as in Word, mentioned to Dona.
+- Other fixes: Step heading dashes; empty nbsp line dropped.
+- Checks: render with no warnings; axe 0 violations light/dark, desktop/phone; no sideways scrolling; section appears in the Word file after 4.3, before the Chapter 4 appendix.

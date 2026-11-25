@@ -55,6 +55,7 @@ book:
         - chapters/ch04/04-01-introduction.qmd
         - chapters/ch04/04-02-example-1.qmd
         - chapters/ch04/04-03-example-2.qmd
+        - chapters/ch04/04-04-example-3.qmd
     - part: "Chapter 5: Missing Conclusions"
       chapters:
         - chapters/ch05/05-01-introduction.qmd

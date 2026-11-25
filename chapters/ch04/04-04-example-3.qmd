@@ -1,0 +1,17 @@
+# 4.4 Example 3
+
+## Step 1 – Recognizing an Argument
+
+Does this passage contain an argument? Is it trying to convince us that something is true?
+
+> "We know that many students who take Professor Whitney's ethics class endorse cultural relativism. In part, this is because Professor Whitney is a cultural relativist and they want to please their instructor. In part, it's because they want to fit in with the crowd. And in part, it's because they haven't been exposed to any more adequate ethical theory."
+
+This passage contains the inference indicator expression "because," so it's probably either an argument or an explanation. It doesn't seem to me like this passage is trying to convince us *that* many students who take Professor Whitney's ethics class endorse cultural relativism. In fact, the passage says that we know this already and is attempting to explain *why* this is the case. This passage is an explanation, not an argument.
+
+## Summary of Example 3
+
+### Step 1 – Recognizing an Argument
+
+We decided that this passage contains an explanation, not an argument.
+
+> "We know that many students who take Professor Whitney's ethics class endorse cultural relativism. In part, this is because Professor Whitney is a cultural relativist and they want to please their instructor. In part, it's because they want to fit in with the crowd. And in part, it's because they haven't been exposed to any more adequate ethical theory."
