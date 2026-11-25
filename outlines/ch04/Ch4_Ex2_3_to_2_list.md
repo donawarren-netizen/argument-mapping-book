@@ -1,0 +1,3 @@
+- 2\) There’s no way to scientifically prove the truth of ethical claims.
+    - Inference A
+        - 3\) No ethical judgments are shared by all cultures. (Stopping Point)

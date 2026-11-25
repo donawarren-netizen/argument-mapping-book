@@ -1,0 +1,8 @@
+- 1\) Cultural relativism is right (i.e., there is no objective, culturally-transcendent, ethical truth).
+    - Inference A \[Evaluation: Weak\]
+        - 2\) There’s no way to scientifically prove the truth of ethical claims. \[Evaluation: Fine.\] (Stopping Point)
+    - Inference B
+        - 3\) No ethical judgments are shared by all cultures. \[Evaluation: False.\] (Stopping Point)
+    - Inference C \[Evaluation: Weak\]
+        - 4\) Accepting that cultures determine what’s right and wrong will keep us from arrogantly forcing our values on other groups (Stopping Point)
+        - c) If accepting an ethical theory will keep us from arrogantly forcing our values on other groups then that ethical theory is right. \[Evaluation: False.\] (Stopping Point)

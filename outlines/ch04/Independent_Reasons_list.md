@@ -1,0 +1,5 @@
+- 1\) Conclusion
+    - Inference A
+        - 2\) Independent Reason (Stopping Point)
+    - Inference B
+        - 3\) Independent Reason (Stopping Point)
