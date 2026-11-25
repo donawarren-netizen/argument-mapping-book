@@ -4,7 +4,7 @@
 
 Take a look at this passage. Is it trying to establish that something is true? Does it contain an argument?
 
-> "There are many different theories about what makes something good or bad, but if you ask me, cultural relativism is right. There is no objective, culturally-transcendent, good or bad in the ethical realm and every culture determines what's right and wrong for itself. Think about it. First, there's no way to scientifically prove the truth of ethical claims. Second, no ethical judgments are shared by all cultures. And finally, believing that cultures determine what's right and wrong will keep us from arrogantly forcing our values on other groups."
+> "There are many different theories about what makes something good or bad, but if you ask me, cultural relativism is right. There is no objective, culturally-transcendent, good or bad in the ethical realm and every culture determines what's right and wrong for itself. Think about it. First, there's no way to scientifically prove the truth of ethical claims. Second, no ethical judgments are shared by all cultures. And finally, accepting that cultures determine what's right and wrong will keep us from arrogantly forcing our values on other groups."
 
 I'd say that this passage does contain an argument. If you thought so, too, you should be quite pleased with yourself because this argument is unlike *any* argument we've seen before. It doesn't contain an inference indicator expression! (If you thought that it did contain inference indicator expressions, look again. They aren't there. You were filling them in on your own, which is all to the good.)
 
@@ -218,7 +218,7 @@ And finally, since each and every line of reasoning in this argument is bad, the
 
 Example 2 presented us with the following passage:
 
-> "There are many different theories about what makes something good or bad, but if you ask me, cultural relativism is right. There is no objective, culturally-transcendent, good or bad in the ethical realm and every culture determines what's right and wrong for itself. Think about it. First, there's no way to scientifically prove the truth of ethical claims. Second, no ethical judgments are shared by all cultures. And finally, believing that cultures determine what's right and wrong will keep us from arrogantly forcing our values on other groups."
+> "There are many different theories about what makes something good or bad, but if you ask me, cultural relativism is right. There is no objective, culturally-transcendent, good or bad in the ethical realm and every culture determines what's right and wrong for itself. Think about it. First, there's no way to scientifically prove the truth of ethical claims. Second, no ethical judgments are shared by all cultures. And finally, accepting that cultures determine what's right and wrong will keep us from arrogantly forcing our values on other groups."
 
 ### Step 1 – Recognizing an Argument
 
@@ -252,7 +252,7 @@ We then identified the fourth and final claim and decided that it was an indepen
 
 Independent reasons give us different lines of reasoning, or paths to the ultimate conclusion.
 
-In this case, the author helped us to see the multiple lines of reasoning by saying "first," "second," and "third," but when an author doesn't do that, we can distinguish between lines of reasoning by noting that each line of reasoning has its own theme.
+In this case, the author helped us to see the multiple lines of reasoning by saying "first," "second," and "finally," but when an author doesn't do that, we can distinguish between lines of reasoning by noting that each line of reasoning has its own theme.
 
 ### Step 3 – Evaluating the Argument
 

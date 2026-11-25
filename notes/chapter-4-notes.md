@@ -27,3 +27,4 @@
 - Other fixes: Step heading dashes; empty bold line and nbsp lines dropped; line break before "Again, …" made a paragraph; figures moved out of block quotes; Word image sizes removed.
 - 4.3 mentions Chapters 1, 2 and 3 (add to the renumbering list).
 - Checks: render with no warnings; axe 0 violations light/dark, desktop/phone; no sideways scrolling; Word file has 4.3 after 4.2, Figures 1–15, and "Appendix to Chapter 4" with Section 4.3, Figures 1–15.
+- Dona chose "accepting" in all passages and "finally" in the Summary; maps left as they are (Nov 25). Typo fixes accepted.
