@@ -32,6 +32,6 @@
 ## 4.4 Example 3 (Nov 25)
 - Passage explaining why many students in Professor Whitney's ethics class endorse cultural relativism (an explanation, not an argument: "we know" the fact already; three "because" reasons). Step 1 only, plus summary. No maps or images.
 - Fix flagged to Dona: "convince us *that* many students…" (Word had "*that* that many").
-- The summary gives the decision before the passage (earlier summaries open with the passage); kept as in Word, mentioned to Dona.
+- Summary reordered at Dona's request to match earlier ones: "Example 3 presented us with the following passage:", the passage, then "We decided that it contains an explanation, not an argument." (her wording; Step 1 heading kept between passage and decision, as in 4.2). She approved the "that" fix (Nov 25).
 - Other fixes: Step heading dashes; empty nbsp line dropped.
 - Checks: render with no warnings; axe 0 violations light/dark, desktop/phone; no sideways scrolling; section appears in the Word file after 4.3, before the Chapter 4 appendix.

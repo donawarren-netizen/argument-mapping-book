@@ -10,8 +10,10 @@ This passage contains the inference indicator expression "because," so it's prob
 
 ## Summary of Example 3
 
-### Step 1 – Recognizing an Argument
-
-We decided that this passage contains an explanation, not an argument.
+Example 3 presented us with the following passage:
 
 > "We know that many students who take Professor Whitney's ethics class endorse cultural relativism. In part, this is because Professor Whitney is a cultural relativist and they want to please their instructor. In part, it's because they want to fit in with the crowd. And in part, it's because they haven't been exposed to any more adequate ethical theory."
+
+### Step 1 – Recognizing an Argument
+
+We decided that it contains an explanation, not an argument.
