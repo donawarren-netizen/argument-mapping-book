@@ -78,7 +78,7 @@ Now, how is the map containing Claims 2 and 3 related to the map containing Clai
 
 We see that there's a "but" between Claims 3 and 4 in the passage. "But" sometimes joins dependent reasons, so let's try that. Would anything follow from these claims, taken together?
 
-![Map with Claims 3 and 4 as dependent reasons for a conclusion not yet identified, shown as a question mark.](/images/ch03/Ch3_Ex6_3and4.png){#fig-3-7-3and4-1 width=657px fig-alt="Argument map with a question mark in place of the conclusion, supported by Claims 3 and 4 together through an inference that is not yet labeled; Claim 3 is supported by Claim 2 through Inference A, and Claim 4 is supported by Claims 5 and 6 together through Inference B. A full text description is provided."}
+![Map with Claims 3 and 4 as dependent reasons for a conclusion not yet identified, shown as a question mark.](/images/ch03/Ch3_Ex6_3and4.png){#fig-3-7-3and4-1 width=657px fig-alt="Argument map with a question mark in place of the conclusion, supported by Claims 3 and 4 together through Inference C; Claim 3 is supported by Claim 2 through Inference A, and Claim 4 is supported by Claims 5 and 6 together through Inference B. A full text description is provided."}
 
 ::: {.map-outline fig="fig-3-7-3and4-1"}
 {{< include /outlines/ch03/Ch3_Ex6_3and4_list.md >}}
@@ -98,7 +98,7 @@ Suppose we're told "Either P or Q is true," and then we learn "Q isn't true." Wh
 
 Let's apply that pattern here. Claim 3 basically tells us "Either life in prison without parole is the right thing or the death penalty is the right thing." Claim 4 says, in effect, "The death penalty isn't the right thing." What can we conclude? Imprisoned without the possibility of parole, it is!
 
-![Map with the conclusion that follows from Claims 3 and 4 filled in: Serious criminals should be imprisoned without the possibility of parole.](/images/ch03/Ch3_Ex6_3and4toC.png){#fig-3-7-3and4toc-1 width=657px fig-alt="Argument map concluding: Serious criminals should be imprisoned without the possibility of parole, supported by Claims 3 and 4 together through an inference that is not yet labeled; Claim 3 is supported by Claim 2 through Inference A, and Claim 4 is supported by Claims 5 and 6 together through Inference B. A full text description is provided."}
+![Map with the conclusion that follows from Claims 3 and 4 filled in: Serious criminals should be imprisoned without the possibility of parole.](/images/ch03/Ch3_Ex6_3and4toC.png){#fig-3-7-3and4toc-1 width=657px fig-alt="Argument map concluding: Serious criminals should be imprisoned without the possibility of parole, supported by Claims 3 and 4 together through Inference C; Claim 3 is supported by Claim 2 through Inference A, and Claim 4 is supported by Claims 5 and 6 together through Inference B. A full text description is provided."}
 
 ::: {.map-outline fig="fig-3-7-3and4toc-1"}
 {{< include /outlines/ch03/Ch3_Ex6_3and4toC_list.md >}}

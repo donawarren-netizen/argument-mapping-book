@@ -1,5 +1,5 @@
 - Serious criminals should be imprisoned without the possibility of parole.
-    - Inference (not yet labeled)
+    - Inference C
         - 3\) Either serious criminals should be imprisoned without the possibility of parole or they should be given the death penalty.
             - Inference A
                 - 2\) Serious criminals should be removed from the general population forever. (Stopping Point)
