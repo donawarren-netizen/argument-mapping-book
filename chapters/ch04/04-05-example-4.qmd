@@ -134,7 +134,7 @@ Premise 3 looks like it assumes the conclusion.
 
 Because Premise 3 is bad, the line of reasoning on the left fails. The argument could still support the conclusion, however! Let's look at the line of reasoning on the right.
 
-### Inference Form: Assuming the Consequent
+### Inference Form: Affirming the Consequent
 
 Inference C looks a lot like Inference B. Is it *Modus Ponens*, too? Let's check.
 
@@ -172,17 +172,17 @@ But what if we go from *back to front*, like in Inference C? That gives us "If M
 
 ![](/images/ch04/beagle_max.png){.illustration width=170px fig-alt="A cartoon beagle wearing a red collar with a bone-shaped tag that says Max."}
 
-Going from back to front gives us a reasoning mistake, and it's so common that it has a name, "**The Fallacy of Assuming the Consequent**." "Consequent" is the technical term for the back part of an "if… then…" sentence. The Fallacy of Assuming the Consequent says that it's a fallacy to take the back part of the "if… then…" sentence as dependent reason with the "if… then…" sentence itself.
+Going from back to front gives us a reasoning mistake, and it's so common that it has a name, "**The Fallacy of Affirming the Consequent**." "Consequent" is the technical term for the back part of an "if… then…" sentence. The Fallacy of Affirming the Consequent says that it's a fallacy to take the back part of the "if… then…" sentence as dependent reason with the "if… then…" sentence itself.
 
 Using "P" and "Q," we now have two inference forms, one good and one bad.
 
 **Modus Ponens (Valid): If P then Q. P. Therefore Q.**
 
-**Fallacy of Assuming the Consequent (Invalid): If P then Q. Q. Therefore P.**
+**Fallacy of Affirming the Consequent (Invalid): If P then Q. Q. Therefore P.**
 
-Because Inference C is the Fallacy of Assuming the Consequent, it's invalid. And because there is no other line of reasoning in the argument that might support the conclusion, we know that the argument is bad as a whole.
+Because Inference C is the Fallacy of Affirming the Consequent, it's invalid. And because there is no other line of reasoning in the argument that might support the conclusion, we know that the argument is bad as a whole.
 
-![Map with Inference C evaluated as invalid (Fallacy of Assuming the Consequent).](/images/ch04/Ch4_Ex4_Eval3.png){#fig-4-5-eval3-1 width=855px fig-alt="Argument map concluding: 4) There is an objective moral truth, supported by Claims 2 and 3 together through Inference B and, separately, by Claims 5 and 6 together through Inference C. Claim 2 is supported by Claim 1 through Inference A. Inference B is labeled Evaluation: Valid, Modus Ponens; Claim 3, Evaluation: Assumes the Conclusion; Inference C, Evaluation: Invalid, Fallacy of Assuming the Consequent. A full text description is provided."}
+![Map with Inference C evaluated as invalid (Fallacy of Affirming the Consequent).](/images/ch04/Ch4_Ex4_Eval3.png){#fig-4-5-eval3-1 width=855px fig-alt="Argument map concluding: 4) There is an objective moral truth, supported by Claims 2 and 3 together through Inference B and, separately, by Claims 5 and 6 together through Inference C. Claim 2 is supported by Claim 1 through Inference A. Inference B is labeled Evaluation: Valid, Modus Ponens; Claim 3, Evaluation: Assumes the Conclusion; Inference C, Evaluation: Invalid, Fallacy of Affirming the Consequent. A full text description is provided."}
 
 ::: {.map-outline fig="fig-4-5-eval3-1"}
 {{< include /outlines/ch04/Ch4_Ex4_Eval3_list.md >}}
@@ -198,13 +198,13 @@ We now have three ways to evaluate inferences:
 2) The Missing Premise Method
 3) Inference Forms
 
-Inference Forms are *invaluable* because they compensate for an inevitable shortcoming of the Gullible Person Test, which asks us to imagine what conclusion a perfectly rational person would accept. None of us are perfectly rational, after all, so when we try to anticipate what a perfectly rational person will conclude, we are bound to get it wrong sometimes. Our natural reasoning errors will contaminate our predictions of what Gully will think, and they will do so in very foreseeable ways. Fallacies, like the Fallacy of Assuming the Consequent, are *exactly the kind of thing* that we're apt to get wrong, so if we can use an inference form to evaluate an inference, we should. They help us avoid the sort of reasoning errors we naturally make.
+Inference Forms are *invaluable* because they compensate for an inevitable shortcoming of the Gullible Person Test, which asks us to imagine what conclusion a perfectly rational person would accept. None of us are perfectly rational, after all, so when we try to anticipate what a perfectly rational person will conclude, we are bound to get it wrong sometimes. Our natural reasoning errors will contaminate our predictions of what Gully will think, and they will do so in very foreseeable ways. Fallacies, like the Fallacy of Affirming the Consequent, are *exactly the kind of thing* that we're apt to get wrong, so if we can use an inference form to evaluate an inference, we should. They help us avoid the sort of reasoning errors we naturally make.
 
 #### One but Not the Only Way
 
-Of course, we won't rely upon inference forms if we don't trust them, and sometimes people think, "Sure, I can see why the Fallacy of Assuming the Consequent doesn't work if the sentence is 'If Max is a poodle then Max is a dog.' But we aren't *talking* about poodles and dogs. Why doesn't it work in the argument we're considering? Why doesn't it work with 'If there were an objective moral truth then some ethical opinions would be shared across cultures'?"
+Of course, we won't rely upon inference forms if we don't trust them, and sometimes people think, "Sure, I can see why the Fallacy of Affirming the Consequent doesn't work if the sentence is 'If Max is a poodle then Max is a dog.' But we aren't *talking* about poodles and dogs. Why doesn't it work in the argument we're considering? Why doesn't it work with 'If there were an objective moral truth then some ethical opinions would be shared across cultures'?"
 
-To see why the Fallacy of Assuming the Consequent is a fallacy no matter what we're talking about, let's notice why going from back to front fails with poodles and dogs.
+To see why the Fallacy of Affirming the Consequent is a fallacy no matter what we're talking about, let's notice why going from back to front fails with poodles and dogs.
 
 When we say, "If Max is a poodle then Max is a dog," we're saying that being a poodle is one way to be a dog, but we aren't saying that it's the *only* way. That's why once we're told that Max is a dog, we can't conclude that Max is a poodle. Maybe Max is a dog in the "beagle way."
 
@@ -242,7 +242,7 @@ The next sentence was a rhetorical question and conveyed a claim that worked wit
 {{< include /outlines/ch04/Ch4_Ex4_2and3_list.md >}}
 :::
 
-We noted that the claim that follows from Claims 2 and 3 is "there is such a thing as objective moral truth." That just happened to be the next claim in the passage, so we mapped it in.
+We noted that the claim that follows from Claims 2 and 3 is "there is an objective moral truth." That just happened to be the next claim in the passage, so we mapped it in.
 
 ![Map with Claims 2 and 3 as dependent reasons for Claim 4.](/images/ch04/Ch4_Ex4_2and3to4.png){#fig-4-5-2and3to4-s width=459px fig-alt="Argument map concluding: 4) There is an objective moral truth, supported by Claims 2 and 3 together through Inference B. Claim 2 is supported by Claim 1 through Inference A. A full text description is provided."}
 
@@ -264,11 +264,11 @@ Reflecting upon the map of this argument, we noted that the ultimate conclusion 
 
 As we evaluated this argument, we learned that Inference B is ***Modus Ponens***, a valid inference. Premise 3 looks like it assumes the conclusion, though, so the left line of reasoning fails.
 
-Inference C turned out to be the **Fallacy of Assuming the Consequent**, an invalid inference, which made the right line of reasoning fail.
+Inference C turned out to be the **Fallacy of Affirming the Consequent**, an invalid inference, which made the right line of reasoning fail.
 
 Lacking any other line of reasoning to support the ultimate conclusion, the whole argument is bad.
 
-![Map with Inference C evaluated as invalid (Fallacy of Assuming the Consequent).](/images/ch04/Ch4_Ex4_Eval3.png){#fig-4-5-eval3-2 width=855px fig-alt="Argument map concluding: 4) There is an objective moral truth, supported by Claims 2 and 3 together through Inference B and, separately, by Claims 5 and 6 together through Inference C. Claim 2 is supported by Claim 1 through Inference A. Inference B is labeled Evaluation: Valid, Modus Ponens; Claim 3, Evaluation: Assumes the Conclusion; Inference C, Evaluation: Invalid, Fallacy of Assuming the Consequent. A full text description is provided."}
+![Map with Inference C evaluated as invalid (Fallacy of Affirming the Consequent).](/images/ch04/Ch4_Ex4_Eval3.png){#fig-4-5-eval3-2 width=855px fig-alt="Argument map concluding: 4) There is an objective moral truth, supported by Claims 2 and 3 together through Inference B and, separately, by Claims 5 and 6 together through Inference C. Claim 2 is supported by Claim 1 through Inference A. Inference B is labeled Evaluation: Valid, Modus Ponens; Claim 3, Evaluation: Assumes the Conclusion; Inference C, Evaluation: Invalid, Fallacy of Affirming the Consequent. A full text description is provided."}
 
 ::: {.map-outline fig="fig-4-5-eval3-2"}
 {{< include /outlines/ch04/Ch4_Ex4_Eval3_list.md >}}
