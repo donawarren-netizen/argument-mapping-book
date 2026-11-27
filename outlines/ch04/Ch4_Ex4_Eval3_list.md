@@ -4,6 +4,6 @@
             - Inference A
                 - 1\) Progress is nothing more than movement toward an objectively better state of affairs. (Stopping Point)
         - 3\) There is such a thing as moral progress. \[Evaluation: Assumes the Conclusion\] (Stopping Point)
-    - Inference C \[Evaluation: Invalid, Fallacy of Assuming the Consequent\]
+    - Inference C \[Evaluation: Invalid, Fallacy of Affirming the Consequent\]
         - 5\) If there were an objective moral truth then some ethical opinions would be shared across cultures. (Stopping Point)
         - 6\) Some ethical opinions are shared across cultures. (Stopping Point)
