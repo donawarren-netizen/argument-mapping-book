@@ -1,0 +1,3 @@
+- 2\) If there is such a thing as moral progress then there has to be objective moral truth.
+    - Inference A
+        - 1\) Progress is nothing more than movement toward an objectively better state of affairs. (Stopping Point)

@@ -1,0 +1,9 @@
+- 4\) There is an objective moral truth.
+    - Inference B \[Evaluation: Valid, Modus Ponens\]
+        - 2\) If there is such a thing as moral progress then there has to be objective moral truth.
+            - Inference A
+                - 1\) Progress is nothing more than movement toward an objectively better state of affairs. (Stopping Point)
+        - 3\) There is such a thing as moral progress. \[Evaluation: Assumes the Conclusion\] (Stopping Point)
+    - Inference C
+        - 5\) If there were an objective moral truth then some ethical opinions would be shared across cultures. (Stopping Point)
+        - 6\) Some ethical opinions are shared across cultures. (Stopping Point)

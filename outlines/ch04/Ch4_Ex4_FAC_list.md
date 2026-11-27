@@ -1,0 +1,4 @@
+- 4\) (There is an objective moral truth.) (FRONT)
+    - Inference C
+        - 5\) If (there were an objective moral truth) then \[some ethical opinions would be shared across cultures\]. If (FRONT) then \[BACK\] (Stopping Point)
+        - 6\) \[Some ethical opinions are shared across cultures.\] \[BACK\] (Stopping Point)

@@ -1,0 +1,4 @@
+- 4\) \[There is an objective moral truth.\] \[BACK\]
+    - Inference B
+        - 2\) If (there is such a thing as moral progress) then \[there has to be objective moral truth\]. If (FRONT) then \[BACK\] (Stopping Point)
+        - 3\) (There is such a thing as moral progress.) (FRONT) (Stopping Point)

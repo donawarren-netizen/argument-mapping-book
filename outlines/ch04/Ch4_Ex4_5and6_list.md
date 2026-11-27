@@ -1,0 +1,4 @@
+- ? (conclusion not yet identified)
+    - Inference C
+        - 5\) If there were an objective moral truth then some ethical opinions would be shared across cultures. (Stopping Point)
+        - 6\) Some ethical opinions are shared across cultures. (Stopping Point)
