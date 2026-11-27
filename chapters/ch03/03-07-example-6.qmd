@@ -84,7 +84,7 @@ We see that there's a "but" between Claims 3 and 4 in the passage. "But" sometim
 {{< include /outlines/ch03/Ch3_Ex6_3and4_list.md >}}
 :::
 
-### Sneak Peek: Inference Forms
+### Inference Form: Disjunctive Syllogism
 
 Inference C is actually an instance of an **inference form**. That means we can talk about it very abstractly, regardless of the content of the sentences. We'll be officially introduced to inference forms later on, but there's no reason why we can't take a sneak peek now.
 
